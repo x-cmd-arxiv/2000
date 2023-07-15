@@ -1,0 +1,131 @@
+"astro-ph/0008412","Paul H. Frampton","Paul H. Frampton","Quintessence Model and Cosmic Microwave Background","3 pages LaTeX. Write-up of talk at DPF2000, August 12, 2000","Int.J.Mod.Phys. A16S1C (2001) 1050-1052","10.1142/S0217751X01008862","IFP-788-UNC","astro-ph hep-ph",,"  A particular kind of quintessence is considered, with equation of motion
+$p_Q/\rho_Q = -1$, corresponding to a cosmological term with time-dependence
+$\Lambda(t) = \Lambda(t_0) (R(t_0)/R(t))^{P}$ and we examine how values of
+$\Omega_m$ and $\Omega_{\Lambda}$ depend on $P$.
+","[{""version"":""v1"",""created"":""Sat, 26 Aug 2000 22:57:55 GMT""}]","2009-10-31"
+"astro-ph/0008413","Dmitri Khokhlov","D.L. Khokhlov","The state of two neutrinos moving in the opposite directions","This paper has been withdrawn",,,,"astro-ph",,"  This paper has been withdrawn by the author due to the presented idea is
+wrong.
+","[{""version"":""v1"",""created"":""Sun, 27 Aug 2000 15:44:59 GMT""},{""version"":""v2"",""created"":""Fri, 5 Dec 2003 17:01:52 GMT""}]","2007-05-23"
+"cond-mat/0008391","Allahyaroff","E. Allahyarov and H. Loewen","Influence of solvent granularity on the effective interaction between
+  charged colloidal suspensions","14 pages, 16 craphics",,"10.1103/PhysRevE.63.041403",,"cond-mat.soft",,"  We study the effect of solvent granularity on the effective force between two
+charged colloidal particles by computer simulations of the primitive model of
+strongly asymmetric electrolytes with an explicitly added hard sphere solvent.
+Apart from molecular oscillating forces for nearly touching colloids which
+arise from solvent and counterion layering, the counterions are attracted
+towards the colloidal surfaces by solvent depletion providing a simple
+statistical description of hydration. This, in turn, has an important influence
+on the effective forces for larger distances which are considerably reduced as
+compared to the prediction based on the primitive model. When these forces are
+repulsive, the long-distance behaviour can be described by an effective Yukawa
+pair potential with a solvent-renormalized charge. As a function of colloidal
+volume fraction and added salt concentration, this solvent-renormalized charge
+behaves qualitatively similar to that obtained via the Poisson-Boltzmann cell
+model but there are quantitative differences. For divalent counterions and
+nano-sized colloids, on the other hand, the hydration may lead to overscreened
+colloids with mutual attraction while the primitive model yields repulsive
+forces. All these new effects can be accounted for through a solvent-averaged
+primitive model (SPM) which is obtained from the full model by integrating out
+the solvent degrees of freedom. The SPM was used to access larger colloidal
+particles without simulating the solvent explicitly.
+","[{""version"":""v1"",""created"":""Sun, 27 Aug 2000 01:40:15 GMT""}]","2009-10-31"
+"cond-mat/0008392","Ido Kanter","I. Kanter, E. Kanter and L. Ein-Dor","Secure and linear cryptosystems using error-correcting codes",,"Europhys. Lett. 51 (15 July), 244 (2000)","10.1209/epl/i2000-00537-2",,"cond-mat.dis-nn",,"  A public-key cryptosystem, digital signature and authentication procedures
+based on a Gallager-type parity-check error-correcting code are presented. The
+complexity of the encryption and the decryption processes scale linearly with
+the size of the plaintext Alice sends to Bob. The public-key is pre-corrupted
+by Bob, whereas a private-noise added by Alice to a given fraction of the
+ciphertext of each encrypted plaintext serves to increase the secure channel
+and is the cornerstone for digital signatures and authentication. Various
+scenarios are discussed including the possible actions of the opponent Oscar as
+an eavesdropper or as a disruptor.
+","[{""version"":""v1"",""created"":""Sun, 27 Aug 2000 07:10:28 GMT""}]","2009-10-31"
+"gr-qc/0008063","Susumu Higaki","Susumu Higaki, Akihiro Ishibashi, Daisuke Ida","Instability of a membrane intersecting a black hole","12 pages, 3 figures, to be published in Physical Review D","Phys.Rev. D63 (2001) 025002","10.1103/PhysRevD.63.025002","KUNS-1679, YITP-00-46","gr-qc astro-ph hep-th",,"  The stability of a Nambu-Goto membrane at the equatorial plane of the
+Reissner-Nordstr{\o}m-de Sitter spacetime is studied. The covariant
+perturbation formalism is applied to study the behavior of the perturbation of
+the membrane. The perturbation equation is solved numerically. It is shown that
+a membrane intersecting a charged black hole, including extremely charged one,
+is unstable and that the positive cosmological constant strengthens the
+instability.
+","[{""version"":""v1"",""created"":""Sun, 27 Aug 2000 06:18:43 GMT""},{""version"":""v2"",""created"":""Thu, 28 Sep 2000 16:46:42 GMT""}]","2009-10-31"
+"hep-ex/0008066","Marco Battaglia","M. Battaglia","Determinations of |Vub| with inclusive techniques at LEP","5 pages, 4 figures, to appear in the Proceedings of the IV Int. Conf.
+  on Hyperons, Charm and Beauty Hadrons, Valencia (Spain), July 2000","Nucl.Phys.Proc.Suppl.93:291-295,2001","10.1016/S0920-5632(00)01121-X",,"hep-ex",,"  The charmless semileptonic decay branching fraction has been measured, using
+inclusive techniques, by the Aleph, Delphi and L3 experiments at LEP. The
+average of their results is 1.74 +/- 0.37 +/- 0.38 +/- 0.21 10-3. From this
+result the value of the |Vub| element in the CKM mixing matrix has been
+derived, using OPE predictions, obtaining: |Vub| = (4.13 +0.42/-0.47
+(stat.+det.) +0.43/-0.48 (b->c syst.) +0.24/-0.25 (b->u syst.) +/- 0.02 (taub)
++/- 0.20 (HQE)) 10-3.
+","[{""version"":""v1"",""created"":""Sun, 27 Aug 2000 14:28:29 GMT""}]","2010-11-23"
+"hep-ph/0008278","Paul H. Frampton","Paul H. Frampton","Economic Model for Neutrino Masses and Mixings","3 pages LaTeX. Write-up of talk at DPF2000, August 9,2000","Int.J.Mod.Phys. A16S1B (2001) 701-703","10.1142/S0217751X01007832","IFP-786-UNC","hep-ph",,"  Working in the framework of three chiral neutrinos with Majorana masses, we
+investigate a scenario where the neutrino mass matrix is strictly off-diagonal
+in the flavor basis, with all its diagonal entries precisely zero.
+","[{""version"":""v1"",""created"":""Sat, 26 Aug 2000 22:58:02 GMT""}]","2009-10-31"
+"hep-ph/0008279","Nora Brambilla","Nora Brambilla (ITP Heidelberg)","pNRQCD: concepts and applications","13 pages, sprocl.sty, Talk given at the Fourth Workshop on Continuous
+  Advances in QCD, Minneapolis (MN), May 12-14, 2000; corrected some typos in
+  one equation and in the references","Proceedings of the Workshop 'Continuous advances in QCD', Ed. M.
+  Voloshin, World Scientific 2001, pags.314-326",,"HD-THEP-00-42","hep-ph hep-lat",,"  Heavy quark bound state systems, mesons and hybrids, are discussed in the
+framework of the QCD effective field theory called potential Non-Relativistic
+QCD.
+","[{""version"":""v1"",""created"":""Sat, 26 Aug 2000 23:03:33 GMT""},{""version"":""v2"",""created"":""Wed, 30 Aug 2000 17:16:08 GMT""}]","2007-05-23"
+"hep-ph/0008280","Kirill Tuchin","E. Gotsman, E. Levin, U. Maor (Tel Aviv U.), L. McLerran (BNL),
+  K.Tuchin (Tel Aviv U.)","Higher Twist Corrections and Maxima for DIS on a Proton in the High
+  Density QCD Region","8 pages, 3 figures","Phys.Lett. B506 (2001) 289-296","10.1016/S0370-2693(01)00154-X","TAUP-2644-2000, BNL-NT-00/20","hep-ph",,"  We show that the ratio of different structure functions have a maximum which
+depends on energy. We argue, using Golec-Biernat and Wusthoff model, that these
+maxima are the certain functions of the saturation scale. The analysis of
+leading and higher twist contributions for different observables is given with
+the aim of determining the kinematic region where high parton density effects
+could be seen experimentally.
+","[{""version"":""v1"",""created"":""Sun, 27 Aug 2000 10:45:56 GMT""},{""version"":""v2"",""created"":""Thu, 29 Mar 2001 11:26:00 GMT""},{""version"":""v3"",""created"":""Wed, 4 Jul 2001 12:58:25 GMT""}]","2009-10-31"
+"hep-th/0008202","Paul H. Frampton","Paul H. Frampton","AdS/CFT Duality and Conformality for Non-Abelian Manifold","3 pages LaTeX. Write-up of talk at DPF2000, August 10, 2000","Int.J.Mod.Phys. A16S1C (2001) 975-977",,"IFP-787-UNC","hep-th",,"  An outline of the conformality approach to the gauge hierarchy is given
+including the use of non-abelian orbifolds to give unified models of the
+left-right type.
+","[{""version"":""v1"",""created"":""Sat, 26 Aug 2000 22:58:07 GMT""}]","2007-05-23"
+"hep-th/0008203","Sandip Trivedi","S. R. Das, S. P. Trivedi and S. Vaidya","Magnetic Moments of Branes and Giant Gravitons","30 pages, no figures, harvmac","JHEP 0010 (2000) 037","10.1088/1126-6708/2000/10/037","TIFR-TH/00-47, some comments revised and references added","hep-th",,"  We study the magnetic analogue of Myers' Dielectric Effect and, in some
+cases, relate it to the blowing up of particles into branes, first investigated
+by Greevy, Susskind and Toumbas. We show that $D0$ branes or gravitons in M
+theory, moving in a magnetic four-form field strength background expand into a
+non-commutative two sphere. Both examples of constant magnetic field and
+non-constant fields in curved backgrounds generated by branes are considered.
+We find, in all cases, another solution, consisting of a two-brane wrapping a
+classical two-sphere, which has all the quantum numbers of the $D0$ branes.
+Motivated by this, we investigate the blowing up of gravitons into branes in
+backgrounds different from $AdS_m \times S^n$. We find the phenomenon is quite
+general. In many cases with less or even no supersymmetry we find a brane
+configuration which has the same quantum numbers and the same energy as a
+massless particle in supergravity.
+","[{""version"":""v1"",""created"":""Sat, 26 Aug 2000 23:26:52 GMT""},{""version"":""v2"",""created"":""Thu, 5 Oct 2000 12:41:47 GMT""}]","2019-08-17"
+"math/0008202","Fernando Torres","Gabor Korchmaros, Fernando Torres","On the genus of a maximal curve","23 pages, LaTex2e, ps file available at
+  http://www.ime.unicamp.br/~ftorres","Math. Ann. 323(3) (2002), 589--608",,,"math.AG",,"  Previous results on genera g of F_{q^2}-maximal curves are improved: (1)
+Either g\leq (q^2-q+4)/6, or g=\lfloor(q-1)^2/4\rfloor, or g=q(q-1)/2; (2) The
+hypothesis on the existence of a particular Weierstrass point in \cite{at} is
+proved; (3) For q\equiv 1\pmod{3}, q\ge 13, no F_{q^2}-maximal curve of genus
+(q-1)(q-2)/3 exists; (4) For q\equiv 2\pmod{3}, q\ge 11, the non-singular
+F_{q^2}-model of the plane curve of equation y^q+y=x^{(q+1)/3} is the unique
+F_{q^2}-maximal curve of genus g=(q-1)(q-2)/6; (5) Assume \dim(\cD_\cX)=5, and
+char(\fq)\geq 5. For q\equiv 1\pmod{4}, q\geq 17, the Fermat curve of equation
+x^{(q+1)/2}+y^{(q+1)/2}+1=0 is the unique F_{q^2}-maximal curve of genus
+g=(q-1)(q-3)/8. For q\equiv 3\pmod{4}, q\ge 19, there are exactly two
+F_{q^2}-maximal curves of genus g=(q-1)(q-3)/8, namely the above Fermat curve
+and the non-singular F_{q^2}-model of the plane curve of equation
+y^q+y=x^{(q+1)/4}. The above results provide some new evidences on maximal
+curves in connection with Castelnuovo's bound and Halphen's theorem, especially
+with extremal curves; see for instance the conjecture stated in Introduction.
+","[{""version"":""v1"",""created"":""Sat, 26 Aug 2000 22:51:19 GMT""}]","2007-05-23"
+"nlin/0008034","Vekslerchik V. E.","G.M. Pritula and V.E. Vekslerchik","Conservation laws for the nonlinear Schrodinger equation in Miwa
+  variables","6 pages, LaTeX2e","Inverse Problems, 18 (2002) 1355","10.1088/0266-5611/18/5/309",,"nlin.SI",,"  A compact expression for the generating function of the constants of motion
+for the nonlinear Schrodinger equation is derived using the functional
+representation of the AKNS hierarchy.
+","[{""version"":""v1"",""created"":""Sun, 27 Aug 2000 10:42:41 GMT""}]","2012-11-09"
+"quant-ph/0008114","Dmitri Averin","D.V. Averin","Quantum computing and quantum measurement with mesoscopic Josephson
+  junctions","13 pages, 10 figures; to appear in the Speical Issue of ""Forschritte
+  der Physik""",,"10.1002/1521-3978(200009)48:9/11<1055::AID-PROP1055>3.0.CO;2-1",,"quant-ph cond-mat",,"  Recent experimental demonstrations of quantum coherence of the charge and
+flux states of Josephson junctions show that the quantum Josephson dynamics can
+be used to develop scalable quantum logic circuits. In this work, I review the
+basic concepts of Josephson tunneling and Josephson-junction qubits, and
+discuss two problems of this tunneling motivated by quantum computing
+applications. One is the theory of photon-assisted resonant flux tunneling in
+SQUID systems used to demonstrate quantum coherence of flux. Another is the
+problem of quantum measurement of charge with the SET electrometer. It is shown
+that the SET electrometer at the Coulomb blockade threshold is the
+quantum-limited detector with energy sensitivity reaching $\hbar/\sqrt{3}$ in
+the resonant-tunneling regime.
+","[{""version"":""v1"",""created"":""Sun, 27 Aug 2000 00:42:53 GMT""}]","2015-06-26"

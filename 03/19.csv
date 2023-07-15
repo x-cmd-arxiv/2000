@@ -1,0 +1,98 @@
+"astro-ph/0003273","Andrea Comastri","F. Fiore, F. La Franca, C. Vignali, A. Comastri, G. Matt, G.C. Perola,
+  M. Cappi, M. Elvis, F. Nicastro","Spectroscopic identification of ten faint hard X-ray sources discovered
+  by Chandra","16 pages, 5 figures, accepted by New Astronomy",,"10.1016/S1384-1076(00)00017-8",,"astro-ph",,"  We report optical spectroscopic identifications of 10 hard (2-10 keV) X-ray
+selected sources discovered by Chandra. The X-ray flux of the sources ranges
+between 1.5 and 25 x 10-14 cgs, the lower value being 3 times fainter than in
+previous BeppoSAX and ASCA surveys. Their R band magnitudes are in the range
+12.8-22. Six of the Chandra sources are broad line quasars with redshifts
+between 0.42 and 1.19, while the optical identification of the remaining four
+is quite varied: two are X-ray obscured, emission line AGN at z=0.272 and
+z=0.683, one is a starburst galaxy at z=0.016 and one, most unusually, is an
+apparently normal galaxy at z=0.158. These findings confirm and extend down to
+fainter X-ray fluxes the BeppoSAX results, in providing samples with a wide
+range of X-ray and optical properties. The ratio between the soft X-ray and the
+optical luminosity of the z=0.158 galaxy is a factor at least 30 higher than
+that of normal galaxies, and similar to those of AGN. The high X-ray luminosity
+and the lack of optical emission lines suggest an AGN in which either continuum
+beaming dominates, or emission lines are obscured or not efficiently produced.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 2000 16:27:13 GMT""}]","2009-10-31"
+"astro-ph/0003274","Vainshtein","S. I. Vainshtein, Z. Miki\'c, R. Rosner, J. A. Linker","Evidence for topological nonequilibrium in magnetic configurations","10 pages, 5 figures",,"10.1103/PhysRevE.62.1245",,"astro-ph",,"  We use direct numerical simulations to study the evolution, or relaxation, of
+magnetic configurations to an equilibrium state. We use the full single-fluid
+equations of motion for a magnetized, non-resistive, but viscous fluid; and a
+Lagrangian approach is used to obtain exact solutions for the magnetic field.
+As a result, the topology of the magnetic field remains unchanged, which makes
+it possible to study the case of topological nonequilibrium. We find two cases
+for which such nonequilibrium appears, indicating that these configurations may
+develop singular current sheets.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 2000 20:32:38 GMT""}]","2009-10-31"
+"cond-mat/0003320","Francisco J. Solis","Francisco J. Solis and Monica Olvera de la Cruz","Flexible Linear Polyelectrolytes in Multivalent Salt Solutions:
+  Solubility Conditions","9 pages, 3 figures, uses revtex and graphicx",,"10.1007/s101890170123",,"cond-mat.soft cond-mat.mtrl-sci",,"  Polyelectrolytes such as single and double stranded DNA and many synthetic
+polymers undergo two structural transitions upon increasing the concentration
+of multivalent salt or molecules. First, the expanded-stretched chains in low
+monovalent salt solutions collapse into nearly neutral compact structures when
+the density of multivalent salt approaches that of the monomers. With further
+addition of multivalent salt the chains redissolve acquiring expanded-coiled
+conformations. We study the redissolution transition using a two state model
+[F. Solis and M. Olvera de la Cruz, {\it J. Chem. Phys.} {\bf 112} (2000)
+2030]. The redissolution occurs when there is a high degree of screening of the
+electrostatic interactions between monomers, thus reducing the energy of the
+expanded state. The transition is determined by the chemical potential of the
+multivalent ions in the solution $\mu$ and the inverse screening length
+$\kappa$. The transition point also depends on the charge distribution along
+the chain but is almost independent of the molecular weight and degree of
+flexibility of the polyelectrolytes. We generate a diagram of $\mu$ versus
+$\kappa^2$ where we find two regions of expanded conformations, one with
+charged chains and other with overcharged (inverted charge) chains, separated
+by a collapsed nearly neutral conformation region. The collapse and
+redissolution transitions occur when the trajectory of the properties of the
+salt crosses the boundaries between these regions. We find that in most cases
+the redissolution occurs within the same expanded branch from which the chain
+precipitates.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 2000 18:22:16 GMT""}]","2009-10-31"
+"cond-mat/0003321","Gerardo Ortiz","J. Eroles, G. Ortiz, A.V. Balatsky, and A.R. Bishop (Theoretical
+  Division, Los Alamos National Laboratory)","Inhomogeneity-Induced Superconductivity?","4 pages, REVTEX, 4 jpeg figures. To appear in Europhys. Lett",,"10.1209/epl/i2000-00303-0",,"cond-mat.supr-con",,"  A t-J-like model for inhomogeneous superconductivity of cuprate oxides is
+presented, in which local anisotropic magnetic terms are essential. We show
+that this model predicts pairing, consistent with experiments, and argue how
+the macroscopic phase-coherent state gradually grows upon lowering of the
+temperature. We show that appropriate inhomogeneities are essential in order to
+have significant pair binding in the thermodynamic limit. Particularly, {\it
+local} breaking of SU(2) spin symmetry is an efficient mechanism for inducing
+pairing of two holes, as well as explaining the magnetic scattering properties.
+We also discuss the connection of the resulting inhomogeneity-induced
+superconductivity to recent experimental evidence for a linear relation between
+magnetic incommensurability and the superconducting transition temperature, as
+a function of doping.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 2000 18:28:40 GMT""}]","2009-10-31"
+"cond-mat/0003322","Gerardo Ortiz","J. Eroles, G. Ortiz, A.V. Balatsky, and A.R. Bishop (Theoretical
+  Division, Los Alamos National Laboratory)","Microscopic Scenario for Striped Superconductors","4 pages, 2 psfigures. To appear in Physica C",,"10.1016/S0921-4534(00)01011-X",,"cond-mat.supr-con",,"  We argue that the superconducting state found in high-$T_c$ cuprates is
+inhomogeneous with a corresponding inhomogeneous superfluid density. We
+introduce two classes of microscopic models which capture the magnetic and
+superconducting properties of these strongly correlated materials. We start
+from a generalized t-J model, in which appropriate inhomogeneous terms mimic
+stripes. We find that inhomogeneous interactions that break magnetic symmetries
+are essential to induce substantial pair binding of holes in the thermodynamic
+limit. We argue that this type of model reproduces the ARPES and neutron
+scattering data seen experimentally.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 2000 18:38:36 GMT""}]","2009-10-31"
+"hep-th/0003162","Gungwon Kang","Gungwon Kang and Y.S. Myung","No Ghost State in the Brane World","7 pages, no figure, the version to appear in PLB, comments on the
+  matter source and references added, main results unchanged","Phys.Lett.B483:235-239,2000","10.1016/S0370-2693(00)00607-9","INJE-TP-00-03","hep-th gr-qc",,"  We discuss the role of the trace part of metric fluctuations $h_{MN}$ in the
+Randall-Sundrum scenario of gravity. Without the matter, this field
+($h=\eta^{MN}h_{MN}$) is a gauge-dependent term, and thus it can be gauged
+away. But, including the uniform source $\tilde{T}_{MN}$, this field satisfies
+the linearized equation $\Box_4 h =16\pi G_5 T^{\mu}_{\mu}$. This may
+correspond to the scalar $\xi^5$ in the bending of the brane due to the
+localized source. Considering the case of longitudinal perturbations ($h_{5\mu}
+=h_{55}=0$), one finds the source relation
+$\tilde{T}^{\mu}_{\mu}=2\tilde{T}_{55}$, which leads to the ghost states in the
+massive modes. In addition, if one requires $T_{44}=2(T_{22}+T_{33})$, it is
+found that in the limit of $m^2_h \to 0$ we have the massless spin-2
+propagation without the ghost state. This exactly corresponds to the same
+situation as in the intermediate scales of Gregory-Rubakov-Sibiryakov (GRS)
+model.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 2000 22:01:40 GMT""},{""version"":""v2"",""created"":""Wed, 31 May 2000 07:47:34 GMT""}]","2014-11-18"
+"hep-th/0003163","Jason Kumar","J. Kumar","Raiders of the Lost AdS","12 pages, LaTeX, references added","JHEP 0005:035,2000","10.1088/1126-6708/2000/05/035",,"hep-th",,"  We demonstrate that under certain conditions a theory of conformal quantum
+mechanics will exhibit the symmetries of two half-Virasoro algebras. We further
+demonstrate the conditions under which these algebras combine to form a single
+Virasoro algebra, and comment on the connection between this result and the
+AdS/CFT correspondence.
+","[{""version"":""v1"",""created"":""Sat, 18 Mar 2000 23:54:07 GMT""},{""version"":""v2"",""created"":""Tue, 4 Apr 2000 21:52:35 GMT""}]","2010-02-03"

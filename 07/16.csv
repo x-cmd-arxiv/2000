@@ -1,0 +1,266 @@
+"astro-ph/0007219","Ross McLure","R.J. McLure, J.S. Dunlop","The cluster environments of powerful radio-loud and radio-quiet AGN","11 pages, 9 figures, submitted to MNRAS","Mon.Not.Roy.Astron.Soc. 321 (2001) 515","10.1046/j.1365-8711.2001.04087.x",,"astro-ph",,"  The spatial clustering amplitude (B_{gq}) is determined for a sample of 44
+powerful AGN at z~0.2. No significant difference is detected in the richness of
+the cluster environments of the radio-loud and radio-quiet sub-samples, both of
+which typically inhabit environments as rich as Abell Class ~0. Comparison with
+radio luminosity-matched samples from Hill & Lilly (1991) and Wold et al.
+(2000a) suggests that there is no epoch-dependent change in environment
+richness out to at least z>=0.5 for either radio galaxies or radio quasars.
+Comparison with the APM cluster survey shows that, contrary to current
+folklore, powerful AGN do not avoid rich clusters, but rather display a spread
+in cluster environment which is perfectly consistent with being drawn at random
+from the massive elliptical population. Finally, we argue that virtually all
+Abell class ~0 clusters contained an active galaxy during the epoch of peak
+quasar activity at z~2.5.
+","[{""version"":""v1"",""created"":""Sun, 16 Jul 2000 11:00:54 GMT""}]","2009-10-31"
+"cond-mat/0007261",,"B. Bock (UNBC, Prince George) and M. Azzouz (UNBC, Prince George, and
+  Max-Planck Ins., Dresden)","Application of the generalized 3D Jordan-Wigner transformation to the
+  bilayer Heisenberg antiferromagnet",,,,,"cond-mat.str-el",,"  We extend the definition of the Jordan-Wigner transformation to three
+dimensions using the generalization of ideas that were used in the
+two-dimensional case by one of the present authors. Under this transformation,
+the 3D XY Hamiltonian is transformed into a system of spinless fermions coupled
+to a gauge field with only two components. We calculate the flux per plaquette
+for the 3 elementary perpendicular plaquettes of a cubic lattice, and find that
+it is nonzero for only two of the plaquettes. We provide a simple
+interpretation for the average phase-per-plaquette being $\pi$ on the
+plaquettes where it is nonzero. Then we apply these findings to the
+investigation of the Heisenberg bilayer antiferromagnet.
+","[{""version"":""v1"",""created"":""Sat, 15 Jul 2000 16:35:38 GMT""}]","2007-05-23"
+"cond-mat/0007262",,"M. Azzouz (UNBC, Prince George Canada)","Identification of the physical parameters of the paramagnetic phase of
+  the one-dimensional Kondo lattice model done by introducting a nonmagnetic
+  quantum state with rotating order parameters","PRB 62, 710 (2000)",,"10.1103/PhysRevB.62.710",,"cond-mat.str-el",,"  The paramagnetic phase of the one-dimensional Kondo lattice model is
+investigated for electron densities below half-filling using a new mean-field
+approach. The physical parameters that govern this phase are identified to be
+the spin-flip processes of both the localized and itinerant spins. A
+nonmagnetic quantum state, where the local magnetization is a rotating vector
+with a nonzero average length, is proposed in order to describe this phase.
+This state does not break SU(2) symmetry in agreement with Mermin-Wagner
+theorem. The line boundary between this phase and the ferromagnetic phase is
+calculated in the coupling-density phase diagram. Also, expressions are
+calculated for the velocities of the conduction electrons excitations, and heat
+capacity and entropy versus temperature are analyzed. Good agreement with many
+of the available numerical data is achieved.
+","[{""version"":""v1"",""created"":""Sat, 15 Jul 2000 17:56:10 GMT""}]","2009-10-31"
+"cond-mat/0007263","Dr C. R. Bennett","L. G. Boussiakou, C. R. Bennett, and M. Babiker","Many-body theory of dilute gas condensates - derivation of a
+  field-modified Gross-Pitaevskii equation from multipolar QED","13 pages, no figures",,,,"cond-mat",,"  The Hamiltonian of a moving atom in electromagnetic fields includes velocity-
+dependent terms. We show that the leading velocity dependence emerges
+systematically in the non-relativistic limit from a scheme firmly based on the
+relativistic invariance of the energy-momentum stress tensor of the coupled
+matter-fields system. We then extend the Hamiltonian to the many-body situation
+suitable for describing a Bose-Einstein condensate (BEC). From first
+principles, we use the equation of motion for the condensate wavefunction to
+obtain an extended version of the Gross-Pitaevskii (GP) equation and an
+equation for the internal states of the atoms. It is shown that laser fields
+modify the GP equation by inclusion of convective terms involving a Rontgen
+interaction plus a term coupling the centre of mass momentum to the Poynting
+vector. We also obtain the modified Maxwell equations for the electromagnetic
+fields coupled to the BEC involving the average velocity of the atoms.
+","[{""version"":""v1"",""created"":""Sat, 15 Jul 2000 18:03:44 GMT""}]","2007-05-23"
+"gr-qc/0007033","Lior M. Burko","Leor Barack (Technion) and Lior M. Burko (Caltech)","Radiation-reaction force on a particle plunging into a black hole","4 pages, 4 Encapsulated PostScript figures, RevTeX, submitted to
+  Phys. Rev. D","Phys.Rev. D62 (2000) 084040","10.1103/PhysRevD.62.084040",,"gr-qc",,"  We calculate the self force acting on a scalar particle which is falling
+radially into a Schwarzschild black hole. We treat the particle's self-field as
+a linear perturbation over the fixed Schwarzschild background. The force is
+calculated by numerically solving the appropriate wave equation for each mode
+of the field in the time domain, calculating its contribution to the self
+force, and summing over all modes using Ori's mode-sum regularization
+prescription. The radial component of the force is attractive at large
+distances, and becomes repulsive as the particle approaches the event horizon.
+","[{""version"":""v1"",""created"":""Sat, 15 Jul 2000 18:34:42 GMT""}]","2009-10-31"
+"gr-qc/0007034","Hisaaki Shinkai","Gen Yoneda and Hisa-aki Shinkai","Hyperbolic formulations and numerical relativity II: Asymptotically
+  constrained systems of the Einstein equations","16 pages, RevTeX, 9 eps figures, added Appendix B and minor changes,
+  to appear in Class. Quant. Grav","Class.Quant.Grav. 18 (2001) 441-462","10.1088/0264-9381/18/3/307",,"gr-qc math-ph math.MP",,"  We study asymptotically constrained systems for numerical integration of the
+Einstein equations, which are intended to be robust against perturbative errors
+for the free evolution of the initial data. First, we examine the previously
+proposed ""$\lambda$-system"", which introduces artificial flows to constraint
+surfaces based on the symmetric hyperbolic formulation. We show that this
+system works as expected for the wave propagation problem in the Maxwell system
+and in general relativity using Ashtekar's connection formulation. Second, we
+propose a new mechanism to control the stability, which we call the ``adjusted
+system"". This is simply obtained by adding constraint terms in the dynamical
+equations and adjusting its multipliers. We explain why a particular choice of
+multiplier reduces the numerical errors from non-positive or pure-imaginary
+eigenvalues of the adjusted constraint propagation equations. This ``adjusted
+system"" is also tested in the Maxwell system and in the Ashtekar's system. This
+mechanism affects more than the system's symmetric hyperbolicity.
+","[{""version"":""v1"",""created"":""Sun, 16 Jul 2000 14:58:26 GMT""},{""version"":""v2"",""created"":""Wed, 13 Dec 2000 15:09:25 GMT""}]","2009-10-31"
+"hep-lat/0007021","Yigal Shamir","Maarten Golterman, Yigal Shamir","Overlap-Dirac fermions with a small hopping parameter","14 pages, 1 figure, minor changes","JHEP 0009 (2000) 006","10.1088/1126-6708/2000/09/006","TAUP-2632-00, UTCCP-P-89","hep-lat",,"  We consider overlap-Dirac fermions at non-zero bare coupling and for a small
+hopping parameter, or, equivalently, large $|M|$ with $M$ the domain-wall
+height. We prove the existence of a phase at large positive $M$ where the
+abelian axial group $U_A(1)$ is a symmetry, and the corresponding pseudo-scalar
+is an exact Goldstone boson. We also provide a conjecture for the phase diagram
+of asymptotically free gauge theories with overlap-Dirac fermions. In
+particular, we suggest that, for large gauge coupling, the massive-fermion
+phase at negative $M$ possibly extends to all $M<4$.
+","[{""version"":""v1"",""created"":""Sun, 16 Jul 2000 07:25:55 GMT""},{""version"":""v2"",""created"":""Thu, 3 Aug 2000 07:06:24 GMT""}]","2009-10-31"
+"hep-ph/0007162","Zhang Zhao-xi","Chao-Hsi Chang, Shao-Long Chen, Tai-Fu Feng and Xue-Qian Li","The lifetime of B_c-meson and some relevant problems","27 pages, 0 figure","Phys.Rev.D64:014003,2001","10.1103/PhysRevD.64.014003",,"hep-ph",,"  The lifetime of the B_c-meson is estimated with consistent considerations on
+all of the heavy mesons ($B^0, B^\pm, B_s, D^0, D^\pm D_s$) and the double
+heavy meson B_c. In the estimate, the framework, where the non-spectator
+effects for nonleptonic decays are taken into account properly, is adopted, and
+the parameters needed to be fixed are treated carefully and determined by
+fitting the available data. The bound-state effects in it are also considered.
+We find that in decays of the meson B_c, the QCD correction terms of the
+penguin diagrams and the main component terms c_1O_1, c_2O_2 of the effective
+interaction Lagrangian have direct interference that causes an enhancement
+about 3 ~ 4% in the total width of the B_c meson.
+","[{""version"":""v1"",""created"":""Sat, 15 Jul 2000 18:15:58 GMT""}]","2011-03-23"
+"hep-ph/0007163","Massimo Giovannini","Massimo Giovannini (Institute for Theoretical Physics, Lausanne
+  University)","Magnetogenesis and the dynamics of internal dimensions","27 in RevTex style, four figures","Phys.Rev. D62 (2000) 123505","10.1103/PhysRevD.62.123505","UNIL-IPT-00-16, June 2000","hep-ph astro-ph",,"  The dynamical evolution of internal space-like dimensions breaks the
+invariance of the Maxwell's equations under Weyl rescaling of the (conformally
+flat) four-dimensional metric. Depending upon the number and upon the dynamics
+of internal dimensions large scale magnetic fields can be created. The
+requirements coming from magnetogenesis together with the other cosmological
+constraints are examined under the assumption that the internal dimensions
+either grow or shrink (in conformal time) prior to a radiation dominated epoch.
+If the internal dimensions are growing the magnitude of the generated magnetic
+fields can seed the galactic dynamo mechanism.
+","[{""version"":""v1"",""created"":""Sat, 15 Jul 2000 20:06:48 GMT""}]","2009-10-31"
+"hep-ph/0007164","National Center for Physics","Riazuddin, T.A. Al-Aithan and Amjad Hussain Shah Gilani","Form factors for $B-->\pi l\nu$ decay in a model constrained by chiral
+  symmetry and quark model","7 pages, Revtex, 5 figure, fig 3 is replaced and some text is added","Int.J.Mod.Phys. A17 (2002) 4927-4938","10.1142/S0217751X02012326","NCP-QAU/0007-15","hep-ph",,"  The form factors for the $B-->\pi$ transition are evaluated in the entire
+momentum transfer range by using the constraints obtained in the framework
+combining the heavy quark expansion and chiral symmetry for light quarks and
+the quark model. In particular, we calculate the valence quark contributions
+and show that it together with the equal time commutator contribution simulate
+a B-meson pole q^2-dependence of form factors in addition to the usual vector
+meson B^{*}-pole diagram for $B --> \pi l\nu$ in the above framework. We
+discuss the predictions in our model, which provide an estimate of |V_{ub}|^2.
+","[{""version"":""v1"",""created"":""Sat, 15 Jul 2000 20:56:18 GMT""},{""version"":""v2"",""created"":""Mon, 4 Sep 2000 17:11:29 GMT""}]","2009-10-31"
+"hep-ph/0007165","Yang Jin-min","Jin Min Yang, Bing-Lin Young","Searching for a stop-pair sample from top counting experiments at hadron
+  colliders","17 pages, 4 figures","Phys.Rev. D62 (2000) 115002","10.1103/PhysRevD.62.115002","AMES-HET-00-05","hep-ph hep-ex",,"  The light stop pair if produced in hadron colliders and decaying through the
+likely decay chain stop->chargino + b followed by chargino->neutralino + f f',
+can mimic closely a top quark event when the mass of the stop is close to that
+of the top quark. Because of the much lower production rate, the stop event can
+be buried under the top quark event sample. In order to uncover the stop event,
+specific selection cuts need to be applied. Through Monte Carlo simulation with
+suitable kinematic cuts, we found that such stop event can be extracted from
+the top quark sample and detected by the top quark counting experiments in the
+upcoming upgraded Tevatron and LHC. However, because of the small statistics of
+the Run 1 of the Tevatron, the stop signal remains hidden at Run 1.
+","[{""version"":""v1"",""created"":""Sun, 16 Jul 2000 13:54:30 GMT""}]","2009-10-31"
+"hep-th/0007119","Thomas Heinzl","F. Bruckmann, T. Heinzl, T. Vekua and A. Wipf (FSU Jena)","Magnetic monopoles vs. Hopf defects in the Laplacian (Abelian) gauge","18 pages, 3 figures","Nucl.Phys. B593 (2001) 545-561","10.1016/S0550-3213(00)00635-0","FSU TPI 07/00","hep-th hep-lat",,"  We investigate the Laplacian Abelian gauge on the sphere S^4 in the
+background of a single `t Hooft instanton. To this end we solve the eigenvalue
+problem of the covariant Laplace operator in the adjoint representation. The
+ground state wave function serves as an auxiliary Higgs field. We find that the
+ground state is always degenerate and has nodes. Upon diagonalisation, these
+zeros induce toplogical defects in the gauge potentials. The nature of the
+defects crucially depends on the order of the zeros. For first-order zeros one
+obtains magnetic monopoles. The generic defects, however, arise from zeros of
+second order and are pointlike. Their topological invariant is the Hopf index
+S^3 -> S^2. These findings are corroborated by an analysis of the Laplacian
+gauge in the fundamental representation where similar defects occur. Possible
+implications for the confinement scenario are discussed.
+","[{""version"":""v1"",""created"":""Sat, 15 Jul 2000 16:34:55 GMT""}]","2009-10-31"
+"hep-th/0007121","Mohammad Reza Setare","M.R.Setare and A.H.Rezaeian","Trace anomaly and Casimir effect","6pages, Latex. Journal-ref added","Mod.Phys.Lett. A15 (2000) 2159-2164","10.1142/S0217732300002449",,"hep-th",,"  The Casimir energy for scalar field of two parallel conductor in two
+dimensional domain wall background, with Dirichlet boundary conditions, is
+calculated by making use of general properties of renormalized stress tensor.We
+show that vacuum expectation values of stress tensor contain two terms which
+come from the boundary conditions and the gravitational background. In two
+dimensions the minimal coupling reduces to the conformal coupling and stress
+tensor can be obtained by the local and non-local contribution of the anomalous
+trace. This work shows that there exists a subtle relation between Casimir
+effect and trace anomaly in curved space time.
+","[{""version"":""v1"",""created"":""Sun, 16 Jul 2000 06:52:11 GMT""},{""version"":""v2"",""created"":""Tue, 30 Jan 2001 09:44:21 GMT""}]","2009-10-31"
+"hep-th/0007122","Haru-Tada Sato","R. Kemmoku, H.T. Sato","Deformed fields and Moyal construction of deformed super Virasoro
+  algebra","neutral fields are replaced by complex fields almost everywhere in
+  Sects. 6 and 7","Nucl.Phys. B595 (2001) 689-709","10.1016/S0550-3213(00)00610-6",,"hep-th",,"  Studied is the deformation of super Virasoro algebra proposed by Belov and
+Chaltikhian. Starting from abstract realizations in terms of the FFZ type
+generators, various connections of them to other realizations are shown,
+especially to deformed field representations, whose bosonic part generator is
+recently reported as a deformed string theory on a noncommutative world-sheet.
+The deformed Virasoro generators can also be expressed in terms of ordinary
+free fields in a highly nontrivial way.
+","[{""version"":""v1"",""created"":""Sun, 16 Jul 2000 07:19:25 GMT""},{""version"":""v2"",""created"":""Wed, 13 Sep 2000 09:57:48 GMT""}]","2009-10-31"
+"hep-th/0007123","Wellington Da Cruz","Wellington da Cruz","Fractal Statistics and Quantum Black Hole Entropy","latex, 6 pages, remark added",,,"UEL-DF/000701","hep-th gr-qc quant-ph",,"  Simple considerations about the fractal characteristic of the
+quantum-mechanical path give us the opportunity to derive the quantum black
+hole entropy in connection with the concept of fractal statistics. We show the
+geometrical origin of the numerical factor of four of the quantum black hole
+entropy expression and the statistics weight appears as a counting of the
+quanta of geometry.
+","[{""version"":""v1"",""created"":""Sun, 16 Jul 2000 14:13:48 GMT""},{""version"":""v2"",""created"":""Thu, 20 Jul 2000 11:44:53 GMT""},{""version"":""v3"",""created"":""Fri, 21 Jul 2000 21:21:45 GMT""},{""version"":""v4"",""created"":""Tue, 1 Aug 2000 12:27:13 GMT""},{""version"":""v5"",""created"":""Fri, 18 Aug 2000 18:01:08 GMT""},{""version"":""v6"",""created"":""Thu, 9 Nov 2000 11:51:01 GMT""},{""version"":""v7"",""created"":""Fri, 10 Nov 2000 22:25:59 GMT""},{""version"":""v8"",""created"":""Sat, 18 Nov 2000 20:57:19 GMT""}]","2007-05-23"
+"hep-th/0007124","Jerome P. Gauntlett","Jerome P. Gauntlett, David Tong and Paul K. Townsend","Supersymmetric Intersecting Domain Walls in Massive Hyper-Kahler Sigma
+  Models","14 pages, Latex. Various changes including the inclusion of an exact
+  intersecting domain wall solution","Phys.Rev. D63 (2001) 085001","10.1103/PhysRevD.63.085001","QMW-PH-00-04, KCL-TH-00-36, DAMTP-2000-69","hep-th",,"  The general scalar potential of D-dimensional massive sigma-models with eight
+supersymmetries is found for $D=3,4$. These sigma models typically admit 1/2
+supersymmetric domain wall solutions and we find, for a particular
+hyper-K\""ahler target, exact 1/4 supersymmetric static solutions representing a
+non-trivial intersection of two domain walls. We also show that the
+intersecting domain walls can carry Noether charge while preserving 1/4
+supersymmetry. We briefly discuss an application to the D1-D5 brane system.
+","[{""version"":""v1"",""created"":""Sun, 16 Jul 2000 14:15:50 GMT""},{""version"":""v2"",""created"":""Wed, 6 Sep 2000 15:54:09 GMT""}]","2009-10-31"
+"math/0007098","Paul J. Huizinga","Paul J. Huizinga","Density preserving functions","11 pages",,,,"math.GM math.PR",,"  The property that a one to one function from the natural numbers to itself
+preserves the density of sub-sets is shown to be equivalent to a condition on
+the covering of intervals in the range of the function by images of intervals
+in the domain of the function.
+","[{""version"":""v1"",""created"":""Sat, 15 Jul 2000 17:43:51 GMT""}]","2007-05-23"
+"math/0007099","Gregory G. Smith","Mircea Mustata, Gregory G. Smith, Harrison Tsai and Uli Walther","D-modules on Smooth Toric Varieties","AMS-LaTeX, 28 pages","Journal of Algebra 240 (2001) 744-770","10.1006/jabr.2001.8731",,"math.AG math.RA",,"  Let X be a smooth toric variety. David Cox introduced the homogeneous
+coordinate ring S of X and its irrelevant ideal B. Extending well-known results
+on projective space, Cox established the following: (1) the category of
+quasi-coherent sheaves on X is equivalent to the category of graded S-modules
+modulo B-torsion, (2) the variety X is a geometric quotient of Spec(S) V(B) by
+a suitable torus action. We provide the D-module version of these results. More
+specifically, let A denote the ring of differential operators on Spec(S). We
+show that the category of D-modules on X is equivalent to a subcategory of
+graded A-modules modulo B-torsion. Additionally, we prove that the
+characteristic variety of a D-module is a geometric quotient of an open subset
+of the characteristic variety of the associated A-module and that holonomic
+D-modules correspond to holonomic A-modules.
+","[{""version"":""v1"",""created"":""Sun, 16 Jul 2000 01:53:29 GMT""}]","2010-03-15"
+"nucl-th/0007035","A. F. Lisetskiy","A.F.Lisetskiy, N.Pietralla, C.Fransen, R.V.Jolos, P. von Brentano","Shell model description of ""mixed-symmetry"" states in 94Mo","17 pages, 3 figures, LaTeX, Nucl.Phys.A (in press)","Nucl.Phys. A677 (2000) 100-114","10.1016/S0375-9474(00)00255-4",,"nucl-th",,"  Shell model calculations have been performed for the nucleus 94Mo. The
+calculated excitation energies and electromagnetic properties of low-lying
+states are in good agreement with the data, which include states with
+mixed-symmetry (MS) assignments in previous interacting boson model studies. In
+the shell model large isoscalar E2 matrix elements are found between states
+with MS assignments indicating that they form a class of states with similar
+proton-neutron symmetry.
+","[{""version"":""v1"",""created"":""Sat, 15 Jul 2000 16:50:36 GMT""}]","2009-11-06"
+"nucl-th/0007036","Maria Barbaro","L. Alvarez-Ruso (U. of Torino), M.B. Barbaro (U. of Torino), T.W.
+  Donnelly (Center for Theoretical Physics, MIT), A. Molinari (U. of Torino)","Influence of nucleonic motion in Relativistic Fermi Gas inclusive
+  responses","11 pages, 1 figure","Phys.Lett. B497 (2001) 214-220","10.1016/S0370-2693(00)01332-0",,"nucl-th hep-ph",,"  Impulsive hadronic descriptions of electroweak processes in nuclei involve
+two distinctly different elements: one stems from the nuclear many-body physics
+--- the medium --- which is rather similar for the various inclusive response
+functions, and the other embodies the responses of the hadrons themselves to
+the electroweak probe and varies with the channel selected. In this letter we
+investigate within the context of the relativistic Fermi gas in both the
+quasi-elastic and $N\to\Delta$ regimes the interplay between these two
+elements. Specifically, we focus on expansions in the one small parameter in
+the problem, namely, the momentum of a nucleon in the initial wave function
+compared with the hadronic scale, the nucleon mass. Both parity-conserving and
+-violating inclusive responses are studied and the interplay between
+longitudinal ($L$) and transverse ($T$ and $T'$) contributions is highlighted.
+","[{""version"":""v1"",""created"":""Sun, 16 Jul 2000 12:30:38 GMT""}]","2009-11-06"
+"physics/0007050","Yu Shi","Y. Shi","Clustering and Signalling of Cell Receptors","revtex, 16 pages, including figures, final version","Physica A 311, 199 (2002)","10.1016/S0378-4371(02)00834-8",,"physics.bio-ph cond-mat.stat-mech q-bio.MN",,"  As a response to ligand binding, transmembrane cell receptors often enhance
+their clustering, or oligomerization, during the signalling process. Here we
+present a statistical mechanical model which combines the aspects of clustering
+and signalling. In this model, receptors float on the surface, while for two
+neighboring receptors, there is an interaction energy dependent on their
+conformational states. On the other hand, ligand binding of a receptor shifts
+the energy difference between the two conformational states. Due to thermal
+fluctuation, the effects of clustering and signalling are statistical average
+quantities. This model reduces to a floating Ising model with a random field.
+We calculate the signalling in a grand canonical ensemble mean field approach,
+using Hubbard-Stratonovich transformation and replica method. Monte Carlo
+simulations are also performed. Essential biological features are obtained in
+our model.
+","[{""version"":""v1"",""created"":""Sat, 15 Jul 2000 22:25:30 GMT""},{""version"":""v2"",""created"":""Sun, 17 Sep 2000 16:39:41 GMT""},{""version"":""v3"",""created"":""Tue, 19 Sep 2000 15:30:37 GMT""},{""version"":""v4"",""created"":""Sat, 1 Jun 2002 20:45:33 GMT""}]","2015-06-26"
+"physics/0007051","Philippe Bouyer","F. Gerbier, P. Bouyer and A. Aspect","Quasi-continuous atom laser in the presence of gravity","4 pages, 2 figures","Phys. Rev. Lett. 86, 4729 (2001)","10.1103/PhysRevLett.86.4729",,"physics.atom-ph cond-mat quant-ph",,"  We analyse the extraction of a coherent atomic beam from a trapped
+Bose-Einstein condensate using a rf transition to a non-trapping state at T=0
+K. Our quantum treatment fully takes gravity into account but neglects all
+interactions in the free falling beam. We obtain an analytical expression of
+the output rate and of the wave function of the extracted beam, i.e. the output
+mode of the ``atom laser''. Our model reproduces satisfactorily experimental
+data without any adjustable parameter.
+","[{""version"":""v1"",""created"":""Sun, 16 Jul 2000 10:00:02 GMT""},{""version"":""v2"",""created"":""Sat, 29 Jul 2000 08:46:22 GMT""},{""version"":""v3"",""created"":""Mon, 29 Jan 2001 08:35:10 GMT""}]","2009-11-06"
+"quant-ph/0007046","Lajos Diosi","Lajos Diosi","Calibration of Local Chiralities and Time-Arrows Based on Quantum
+  Nonlocality","3pp, RevTeX, 2nd version with relevant corrections",,,,"quant-ph hep-th",,"  Unlike classical physics, quantum mechnanics is sensitive to mistaken choice
+of chiralities or time-arrows of local reference systems. Quantum correlations
+between distant electron spins, for instance, would reveal a mistaken local
+chirality. Local polarization measurements and classical communication enable
+the distant partners to compare their local chiralities. Local time-arrows can
+be calibrated in a similar way.
+","[{""version"":""v1"",""created"":""Sun, 16 Jul 2000 11:31:46 GMT""},{""version"":""v2"",""created"":""Wed, 29 Nov 2000 21:45:56 GMT""}]","2007-05-23"
+"quant-ph/0007047","Diederik Aerts","Diederik Aerts, Jan Broekaert and Sonja Smets","The Liar-paradox in a Quantum Mechanical Perspective","16 pages, 1 figure","Foundations of Science, 4 (2), 1999, 115-132",,,"quant-ph",,"  In this paper we concentrate on the nature of the liar paradox as a cognitive
+entity; a consistently testable configuration of properties. We elaborate
+further on a quantum mechanical model [Aerts, Broekaert, Smets 1999] that has
+been proposed to analyze the dynamics involved, and we focus on the
+interpretation and concomitant philosophical picture. Some conclusions we draw
+from our model favor an effective realistic interpretation of cognitive
+reality.
+","[{""version"":""v1"",""created"":""Sun, 16 Jul 2000 15:10:51 GMT""}]","2007-05-23"

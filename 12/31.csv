@@ -1,0 +1,367 @@
+"astro-ph/0101005","Tae-Sun Kim","Tae-Sun Kim (1), Stefano Cristiani (2 and 3) and Sandro D'Odorico (1)
+  ((1) ESO, (2) ST/ECF, (3) University of Padova)","The Lyman-Alpha Forest at 1.5 < z < 4","27 pages, 22 Encapsulated-Postscript figures, 3 ASCII tables;
+  Corrected for typos and grammatical errors, inclusions of errors in some
+  tables; Accepted to Astronomy and Astrophysics",,"10.1051/0004-6361:20010650",,"astro-ph",,"  Using high resolution (R ~ 45000), high S/N (20-50) VLT/UVES observations
+covering the Lyman-alpha forest at 1.5 < z < 2.4 combined with similar
+observations at z > 2.4 from the literature, we have presented the redshift
+evolution of the Lyman-alpha forest at 1.5 < z < 4. We applied two parallel
+analyses: the tradiational Voigt profile fitting and a statistical measure of
+the flux. The general conclusions from both analyses are in good agreement. In
+general, the properties of the Lyman-alpha forest at 1.5 < z < 2.4, such as the
+different density distribution function, the correlation strengths and the mean
+neutral hydrogen opacity, evolve as expected extrapolating from at z > 2.4.
+These results suggest the main drive of the redshift evolution of the forest at
+1.5 < z < 4 is the Hubble expansion. When combined with the HST observations
+from the QSO key project at z < 1.7, a flattening of the line number density
+evolution does seem to occur at z ~ 1.2. The result suggests that the ionizing
+UV background might not evolve as strongly as a QSO-dominated background,
+indicating a contribution to the UV background from galaxies at z < 2. The
+lower cut-off Doppler paramter at the fixed column denisty log N = 13.5 shows a
+slight increase as z decreases, with a possible local maximum at z ~ 2.9. The
+slope of the lower cut-off Doppler parameter is not well-defined with z.
+However, it is flatter at z < 3.1 than at z ~ 3.75.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 23:38:04 GMT""},{""version"":""v2"",""created"":""Wed, 2 May 2001 12:06:03 GMT""}]","2009-11-06"
+"astro-ph/0101006","Shiho Kobayashi","Shiho Kobayashi and Re'em Sari","Ultra Efficient Internal Shocks","16 pages, 6 figures, accepted in ApJ",,"10.1086/320249",,"astro-ph",,"  Gamma-ray bursts are believed to originate from internal shocks which arise
+in an irregular relativistic wind. The process has been thought to be
+inefficient, converting only a few percent of the kinetic energy into
+gamma-rays. We define ultra efficient internal shocks as those in which the
+fraction of emitted energy is larger than the fraction of energy given to the
+radiating electrons at each collision.
+  We show that such a scenario is possible and even plausible. In our model,
+colliding shells which do not emit all their internal energy are reflected from
+each other and it causes subsequent collisions, allowing more energy to be
+emitted. As an example, we obtain about 60% overall efficiency even if the
+fraction of energy that goes to electrons is $\epsilon_e=0.1$ provided that the
+shells' Lorentz factor varies between 10 and $10^4$.
+  The numerical temporal profile reflects well the activity of the source which
+ejects the shells, though numerous collisions take place in this model.
+","[{""version"":""v1"",""created"":""Sun, 31 Dec 2000 15:57:23 GMT""}]","2009-11-06"
+"cond-mat/0101002","Akira Oguri","Akira Oguri","Quasi-particle description for the transport through a small interacting
+  system","27 pages, RevTeX, 14 figures, to be published in Phys. Rev. B","Phys. Rev. B63, 115305 (2001)","10.1103/PhysRevB.63.115305",,"cond-mat.mes-hall cond-mat.str-el",,"  We study effects of electron correlation on the transport through a small
+interacting system connected to reservoirs using an effective Hamiltonian which
+describes the free quasi-particles of a Fermi liquid. The effective Hamiltonian
+is defined microscopically with the value of the self-energy at $\omega=0$.
+Specifically, we apply the method to a Hubbard chain of finite size $N$ ($=1,
+2, 3, ...$), and calculate the self-energy within the second order in $U$ in
+the electron-hole symmetric case. When the couplings between the chain and the
+reservoirs on the left and right are small, the conductance for even $N$
+decreases with increasing $N$ showing a tendency toward a Mott-Hubbard
+insulator. This is caused by the off-diagonal element of the self-energy, and
+this behavior is qualitatively different from that in the special case examined
+in the previous work. We also study the effects of the asymmetry in the two
+couplings. While the perfect transmission due to the Kondo resonance occurs for
+any odd $N$ in the symmetric coupling, the conductance for odd $N$ decreases
+with increasing $N$ in the case of the asymmetric coupling.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 17:15:13 GMT""}]","2009-11-07"
+"cond-mat/0101003","Mikhail Voropaev","A.M.M. Pruisken, M.A. Baranov, M. Voropaev","The large N theory exactly reveals the quantum Hall effect and
+  theta-renormalization","35 pages, 9 figures","Phys.Rev.Lett. 505 (2003) 4432",,,"cond-mat.mes-hall",,"  We revisit the $\theta$ dependence in $CP^{N-1}$ model with large $N$. We
+study the consequences of a recently discovered new ingredient of the instanton
+vacuum, i.e. the massless chiral edge excitations. Contrary to the previous
+believes, our results demonstrate that the large $N$ expansion displays all the
+fundamental features of the quantum Hall effect. This includes the {\em robust}
+quantization of the Hall conductance, as well as the appearance of massless
+bulk excitations at $\theta = \pi$. We conclude that the quantum Hall effect is
+a generic feature of the instanton vacuum, i.e. for any number of field
+components and not just for the theory in the replica limit alone.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 17:26:41 GMT""}]","2007-05-23"
+"cond-mat/0101004","Nie Luo","Nie Luo","Variational bounds on the ground-state energy of three electrons and one
+  hole in two-dimension","38 pages, 6 figures",,,,"cond-mat.str-el",,"  We consider a model of three electrons and one hole confined in a
+two-dimensional (2D) plane, interacting with one another through Coulomb
+forces. Using a Ritz variational method we find an upper bound of \approx
+-0.0112me^4/8\pi^2 \epsilon ^2 \hbar ^2 for the ground-state energy of such a
+system when the particles are near one another. The possible connections of
+such a complex to other fields of physics are discussed.
+","[{""version"":""v1"",""created"":""Sun, 31 Dec 2000 14:16:53 GMT""},{""version"":""v2"",""created"":""Tue, 9 Jan 2001 13:57:04 GMT""}]","2007-05-23"
+"gr-qc/0101005","Valery Gavrilov","V.R. Gavrilov and V.N. Melnikov","X-fluid and viscous fluid in D-dimensional anisotropic integrable
+  cosmology","11 pages, Latex 2.09",,,,"gr-qc",,"  D-dimensional cosmological model describing the evolution of a perfect fluid
+with negative pressure (x-fluid) and a fluid possessing both shear and bulk
+viscosity in n Ricci-flat spaces is investigated. The second equations of state
+are chosen in some special form of metric dependence of the shear and bulk
+viscosity coefficients. The equations of motion are integrated and the
+dynamical properties of the exact solutions are studied. It is shown the
+possibility to resolve the cosmic coincidence problem when the x-fluid plays
+role of quintessence and the viscous fluid is used as cold dark matter.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 17:09:59 GMT""},{""version"":""v2"",""created"":""Tue, 27 Mar 2001 21:00:59 GMT""}]","2007-05-23"
+"gr-qc/0101006","Etesi Gabor","Gabor Etesi (YITP, Japan)","A rigidity theorem for nonvacuum initial data","This is an extended and published version: LaTex, 10 pages, no
+  figures","Journ. Math. Phys. 43(2) 554-562 (2002)","10.1063/1.1421422",,"gr-qc",,"  In this note we prove a theorem on non-vacuum initial data for general
+relativity. The result presents a ``rigidity phenomenon'' for the extrinsic
+curvature, caused by the non-positive scalar curvature.
+  More precisely, we state that in the case of asymptotically flat non-vacuum
+initial data if the metric has everywhere non-positive scalar curvature then
+the extrinsic curvature cannot be compactly supported.
+","[{""version"":""v1"",""created"":""Sun, 31 Dec 2000 07:39:23 GMT""},{""version"":""v2"",""created"":""Sun, 14 Jan 2001 04:31:24 GMT""},{""version"":""v3"",""created"":""Mon, 21 Jan 2002 15:39:28 GMT""}]","2016-08-31"
+"hep-lat/0101001","Stefan Sint","Roberto Frezzotti, Pietro Antonio Grassi, Stefan Sint and Peter Weisz","Lattice QCD with a chirally twisted mass term","28 pages Latex, changes in sects. 2 and 3 to correct an erronious
+  presentation of the Ward identities with Ginsparg-Wilson fermions","JHEP 0108:058,2001",,"CERN-TH/2000-384,MPI-PhT/2000-51,Bicocca-FT-0027,NYU-TH/00/09/13","hep-lat",,"  Lattice QCD with Wilson quarks and a chirally twisted mass term represents a
+promising alternative regularization of QCD, which does not suffer from
+unphysical fermion zero modes. We show how the correlation functions of the
+renormalized theory are related to the theory with a standard parameterization
+of the mass term. In particular we discuss the conditions under which these
+relations take the same form as obtained from naive continuum considerations.
+We discuss in detail some applications and comment on potential benefits and
+problems of this framework.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 17:58:50 GMT""},{""version"":""v2"",""created"":""Thu, 12 Apr 2001 22:00:21 GMT""}]","2010-02-03"
+"hep-ph/0101005","Smirnov Alexei","K.R.S. Balaji, A. P\'erez-Lorenzana and A. Yu. Smirnov","Large Lepton Mixings Induced by Sterile Neutrino","14 pages, latex, no figures, discussion extended, numerical example
+  in Eq. 35 changed, references added","Phys.Lett.B509:111-119,2001","10.1016/S0370-2693(01)00547-0",,"hep-ph",,"  We assume that the mass matrix of active neutrinos has hierarchical form with
+small mixings, similar to quark mass matrix. We show that the large mixings
+between $\nu_\mu$ and $\nu_\tau$ as well as between $\nu_e$ and certain
+combination of $\nu_\mu$ and $\nu_\tau$ required by the present data can appear
+due to the presence of a sterile neutrino state. Two realizations of this
+possibility are considered: (i) Large flavor mixing appears as a result of
+sterile neutrino ``decoupling'' ($m_{ss} \gg m_a$), so that the active-sterile
+mixings are negligible. (ii) Sterile neutrino has a mass of O(1) eV and its
+mixing with active neutrinos can be observable. In the second case, the (3+1)
+scheme of neutrino mass, which also accommodates the LSND result, can be
+reproduced, provided the hierarchy of the mass matrix of active neutrinos is
+not strong (the ratio of largest to smallest elements is about two orders of
+magnitude). The enhancement of lepton mixing via coupling with sterile neutrino
+can be realized in Grand Unified theories with the see-saw mechanism of
+neutrino mass generation.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 19:08:48 GMT""},{""version"":""v2"",""created"":""Fri, 26 Jan 2001 11:56:08 GMT""},{""version"":""v3"",""created"":""Mon, 19 Mar 2001 19:06:12 GMT""}]","2008-11-26"
+"hep-ph/0101006","Francesco Hautmann","F. Hautmann","NLO parton showers and subtractive techniques","Talk at the Linear Collider Workshop LCWS2000, Fermilab, October 2000",,"10.1063/1.1394351","PSU-TH/237","hep-ph",,"  Motivated by asking how to combine parton showers with nonleading QCD matrix
+elements, we discuss a subtractive technique based on gauge-invariant
+Wilson-line operators and how this can be used to treat the soft region.
+","[{""version"":""v1"",""created"":""Sun, 31 Dec 2000 02:58:28 GMT""}]","2009-11-07"
+"hep-ph/0101007","V. Dmitrasinovic","V. Dmitrasinovic","Cubic Casimir operator of SU$_C$(3) and confinement in the
+  nonrelativistic quark model","10 pages, 2 tables, RevTex, to appear in Phys. Lett. B","Phys.Lett.B499:135-140,2001","10.1016/S0370-2693(01)00008-9","RCNP-Th00047","hep-ph",,"  Only two-body [${\rm F}_{i} \cdot {\rm F}_{j}$] confining potentials have
+been considered, thus far, in the quark model without gluons, which by
+construction can only depend on the quadratic Casimir operator of the colour
+SU(3) group. A three-quark potential that depends on the cubic Casimir operator
+is added to the quark model. This results in improved properties of $q^3$
+colour non-singlet states, which can now be arranged to have (arbitrarily)
+higher energy than the singlet, and the ""colour dissolution/anticonfinement""
+problem of the ${\rm F}_{i} \cdot {\rm F}_{j}$ model is avoided.
+","[{""version"":""v1"",""created"":""Sun, 31 Dec 2000 06:18:13 GMT""}]","2008-11-26"
+"hep-ph/0101008","V. Dmitrasinovic","V. Dmitrasinovic","Three-quark exchange operators, crossing matrices and Fierz
+  transformations in SU(2) and SU(3)","8 pages, RevTex, to appear in Jour. Math. Phys","J.Math.Phys.42:991-995,2001; Erratum-ibid.45:2988-2989,2004","10.1063/1.1763248","RCNP-Th00046","hep-ph",,"  We give explicit expressions for the three-quark exchange operators, crossing
+matrices and Fierz transforms for the SU(2) and SU(3) groups. We identify the
+invariant terms in these operators and express them in terms of Casimir
+operators.
+","[{""version"":""v1"",""created"":""Sun, 31 Dec 2000 06:25:24 GMT""}]","2008-11-26"
+"hep-th/0101005","Mohammad Khorrami","Khaled Saaidi, Mohammad Khorrami","Nonlocal two-dimensional Yang-Mills- and generalized Yang-Mills-theories","13 pages, LaTeX 2.09","Int.J.Mod.Phys.A15:4749-4759,2000","10.1142/S0217751X0000197X",,"hep-th",,"  A generalization of the two-dimensional Yang-Mills and generalized Yang-Mills
+theory is introduced in which the building B-F theory is nonlocal in the
+auxiliary field. The classical and quantum properties of this nonlocal
+generalization are investigated and it is shown that for large gauge groups,
+there exist a simple correspondence between the properties a nonlocal theory
+and its corresponding local theory.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 16:47:08 GMT""}]","2011-07-19"
+"hep-th/0101006","Arshad Momen","Arshad Momen (Dhaka Univ.) and G. Dastegir Al-Quaderi (Dhaka Univ.)","Quark-Antiquark Potential for Siegel Strings","14 pages, 3 figures. Uses revtex4",,,,"hep-th",,"  We compute the quark-antiquark potential employing the continuum action for
+QCD-like random lattice strings proposed by Siegel. The model leads to a
+potential similar to those obtained from Nambu-Goto string theory but has some
+modifications which we interpret as velocity dependent contributions. We also
+propose to add extra terms in the action which lead to physically interesting
+propagators for partons for the infrared region.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 16:28:51 GMT""}]","2007-05-23"
+"hep-th/0101008","Cristine Nunes Ferreira","C.N.Ferreira (CBPF/CCP), M.B.D.S.M.Porto (CBPF/CCP and Ufrrj) and
+  J.A.Helayel-Neto (CBPF/CCP and Ucp/GFT)","Cosmic String in the Supersymmetric CSKR Theory","14 pages, LaTeX, presented at the XXI ""Encontro Nacional de Fisica de
+  Particulas e Campos"", Sao Lourenco, MG, Brazil, with zero modes added","Nucl.Phys. B620 (2002) 181-194","10.1016/S0550-3213(01)00571-5",,"hep-th",,"  We study a cosmic string solution of an N=1-supersymmetric version of the
+Cremmer-Scherk-Kalb-Ramond (CSKR) Lagrangian coupled to a vector superfield by
+means of a topological mass term. The 2-form gauge potential is proposed to
+couple non-minimally to matter, here described by a chiral scalar superfield.
+The important outcome is that supersymmetry is kept exact both in the core and
+in the exterior region of the string. We contemplate the bosonic configurations
+and it can be checked that the solutions saturate the Bogomolnyi bound. A
+glimpse on the fermionic zero modes is also given.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 18:26:49 GMT""},{""version"":""v2"",""created"":""Tue, 16 Apr 2002 14:12:30 GMT""}]","2009-11-07"
+"hep-th/0101009","D. V. Ahluwalia","D. V. Ahluwalia, M. Kirchbach","(1/2,1/2) Representation space: An ab initio construct","published version: in the revised draft incompleteness of the Proca
+  framework commented on","Mod.Phys.Lett.A16:1377-1384,2001","10.1142/S0217732301004613",,"hep-th hep-ph math.RT nucl-th",,"  A careful ab initio construction of the finite-mass (1/2,1/2) representation
+space of the Lorentz group reveals it to be a spin-parity multiplet. In
+general, it does not lend itself to a single-spin interpretation. We find that
+the (1/2,1/2) representation space for massive particles naturally bifurcates
+into a triplet and a singlet of opposite relative intrinsic parties. The
+text-book separation into spin one and spin zero states occurs only for certain
+limited kinematical settings. We construct a wave equation for the (1/2,1/2)
+multiplet, and show that the particles and antiparticles in this representation
+space do not carry a definite spin but only a definite relative intrinsic
+parity. In general, both spin one and spin zero are covariantly inseparable
+inhabitants of massive vector fields. This last observation suggests that
+scalar particles, such as the Higgs, are natural inhabitants of massive
+(1/2,1/2) representation space.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 21:12:49 GMT""},{""version"":""v2"",""created"":""Mon, 6 Aug 2001 18:04:44 GMT""}]","2008-11-26"
+"hep-th/0101010","Ken Intriligator","Ken Intriligator, Matt Kleban, Jason Kumar","Comments on Unstable Branes","16 pages","JHEP 0102 (2001) 023","10.1088/1126-6708/2001/02/023","UCSD-PTH-00-35, SU-ITP-0038","hep-th",,"  We argue that type II string theories contain unstable NS4 branes, which
+descend from a conjectured unstable M4 brane of M-theory. Assuming that an M2
+brane can arise in M5 brane/anti-brane annihilation, the unstable M4 brane, and
+also an unstable M3 brane, must exist as sphalerons. We compare the tensions of
+the unstable NS4 branes, M4 brane, and related type II unstable D-branes, and
+present 11d supergravity solutions for unstable Mp branes for all p. We study
+the Z_2 gauge symmetry on the worldvolume of unstable branes, and argue that it
+can never be unbroken in the presence of lower brane charge.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 22:52:24 GMT""}]","2009-11-07"
+"hep-th/0101011","Ivan K. Kostov","Vladimir Kazakov, Ivan Kostov, David Kutasov","A Matrix Model for the Two Dimensional Black Hole","51 pages, 2 figures","Nucl.Phys. B622 (2002) 141-188","10.1016/S0550-3213(01)00606-X","SPHT-t00/123, LPTENS-00/32, EFI-2000-2","hep-th",,"  We construct and study a matrix model that describes two dimensional string
+theory in the Euclidean black hole background. A conjecture of V. Fateev, A.
+and Al. Zamolodchikov, relating the black hole background to condensation of
+vortices (winding modes around Euclidean time) plays an important role in the
+construction. We use the matrix model to study quantum corrections to the
+thermodynamics of two dimensional black holes.
+","[{""version"":""v1"",""created"":""Sun, 31 Dec 2000 15:21:30 GMT""},{""version"":""v2"",""created"":""Mon, 27 Aug 2001 13:43:11 GMT""}]","2009-11-07"
+"math/0101003","Malgorzata Rowicka-Kudlicka","Malgorzata Rowicka-Kudlicka","Braided quantum groups related to the quantum ""ax+b"" group","31 pages LaTeX, no figures",,,,"math.QA math-ph math.MP",,"  We consider quantum group theory on the Hilbert space level. We find all
+unitary representations of three braided quantum groups related to the quantum
+``ax+b'' group. First we introduce an auxiliary braided quantum group, which is
+apparently not related to the quantum ``ax+b'' group, but easy to work with. We
+find all unitary representations of this quantum group. Then we use this result
+to find all unitary representations of another braided quantum group, whose
+C*-algebra is generated by two (out of three) generators generating (in the
+sense of Woronowicz) C*-algebra of the quantum ``ax+b''- group. We find all
+unitary representations of this other braided quantum group. This is the most
+difficult result needed to classify all unitary representations of the quantum
+``ax+b'' group.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 23:13:29 GMT""},{""version"":""v2"",""created"":""Tue, 2 Jan 2001 20:45:18 GMT""}]","2007-05-23"
+"nlin/0101001","Takeo Kojima","Takeo Kojima","The affine $A_{n-1}^{(1)}$ Toda fields with boundary reflection","LaTEX2e, 31pages",,,,"nlin.SI hep-th",,"  We study the affine $A_{n-1}^{(1)}$ Toda fields with boundary reflection. Our
+approach is based on the free field approach. We construct free field
+realizations of the boundary state and its dual. For an application of these
+realizations, we present integral representations for the form factors of the
+local operators. In a limiting case $\rho \to \infty$, our integral
+representations reproduce those of form factors for the SU(n) invariant massive
+Thirring model with boundary reflection
+[nlin.SI/0010020,Int.J.Mod.Phys.A16,no.15 (2001)2665-2689].
+","[{""version"":""v1"",""created"":""Sun, 31 Dec 2000 04:38:46 GMT""},{""version"":""v2"",""created"":""Wed, 19 Sep 2001 06:39:54 GMT""}]","2007-05-23"
+"nucl-th/0101002","Sidney A. Coon","M. T. Pena, S. A. Coon, J. Adam Jr., and A. Stadler","Off-Mass-Shell $\pi$N Scattering and $pp \to pp \pi^0$","3 pages, contributed to STORRI99, Bloomington, Indiana, September
+  1999","AIP Conf.Proc.512:111-113,2000","10.1063/1.1291429",,"nucl-th",,"  We adapt the off-shell $\pi$N amplitude of the Tucson-Melbourne three-body
+force to the half-off-shell amplitude of the pion rescattering contribution to
+$pp \to pp \pi^0$ near threshold. This {\em pion} rescattering contribution,
+together with the impulse term, provides a good description of the data when
+the half-off-shell amplitude is linked to the phenomenological invariant
+amplitudes obtained from meson factory $\pi$N scattering data.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 18:21:37 GMT""}]","2010-12-13"
+"nucl-th/0101003","Sidney A. Coon","S. A. Coon and H. K. Han","Reworking the Tucson-Melbourne Three-Nucleon Potential","12 pages, to appear in Few-Body Systems","FewBodySyst.30:131-141,2001","10.1007/s006010170022",,"nucl-th",,"  We introduce new values of the strength constants (i.e., $a$, $b$, $c$, and
+$d$ coefficients) of the Tucson-Melbourne (TM) 2$\pi$ exchange three nucleon
+potential. The new values come from contemporary dispersion relation analyses
+of meson factory $\pi$N scattering data. We make variational Monte Carlo
+calculations of the triton with the original and updated three-body forces to
+study the effects of this update. We remove a short-range -- $\pi$-range part
+of the potential due to the $c$ coefficient and discuss the effect on the
+triton binding energy.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 18:39:18 GMT""}]","2008-11-26"
+"nucl-th/0101004","Sidney A. Coon","Sidney A. Coon","The u-d quark mass difference and nuclear charge symmetry breaking","Invited talk presented at the XVIIth European Conference of Few-Body
+  Problems in Physics, Evora, Portugal, Sept 2000, to be published in Nuclear
+  Physics A, 9 pages","Nucl.Phys. A689 (2001) 119-126","10.1016/S0375-9474(01)00826-0",,"nucl-th",,"  The group theoretical analysis of the Coleman-Glashow tadpole picture of
+""meson-mixing"" is quantitatively reproduced by the u-d constituent quark mass
+difference in quantum loop calculations of the self-energies of mesons. This
+demonstration that the Coleman-Glashow scales can be directly calculated from
+the constituent $u - d$ quark mass difference finishes the link between charge
+symmetry breaking in low energy nuclear physics and the $u - d$ quark mass
+difference in particle physics.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 18:58:23 GMT""}]","2009-11-07"
+"nucl-th/0101005","Sidney A. Coon","M. Bawin and S. A. Coon","Darwin-Foldy term and proton charge radius","contribution to XVIIth European Conference of Few-Body Problems in
+  Physics, Evora, Portugal Sept 2000, to be published in Nucl. Phys. A","Nucl.Phys. A689 (2001) 475-477","10.1016/S0375-9474(01)00885-5",,"nucl-th",,"  In this contribution we study the Dirac equation for a finite size proton in
+an external electric field with explicit introduction of Dirac-Pauli form
+factors. Our aim is twofold. On the one hand, we wish to study whether our
+conclusions regarding the exact cancellation between Dirac form factor and
+Foldy term contributions occurring for the neutron still hold for the proton.
+On the other hand, we wish to clearly illustrate some of the specific features
+of the description of a composite particle like the proton with the Dirac
+equation.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 19:13:25 GMT""}]","2009-11-07"
+"nucl-th/0101006","Prafulla Kumar Panda","Amruta Mishra, P.K. Panda, W. Greiner","Vacuum polarization effects in hyperon rich dense matter -- a
+  nonperturbative treatment","26 pages, Latex (ReVTeX style)","J.Phys.G28:67-83,2002","10.1088/0954-3899/28/1/305",,"nucl-th astro-ph hep-ph",,"  We derive the equation of state (EOS) for electrically charge neutral dense
+matter using Quantum Hadrodynamics (QHD) model. This is carried out in a
+nonperturbative manner including quantum corrections for baryons through a
+realignment of vacuum with baryon-antibaryon condensates. This yields the
+results of relativistic Hartree approximation of summing over baryonic tadpole
+diagrams. The quantum corrections from the scalar meson is also taken into
+account in a similar way. This leads to a softening of the equation of state
+for the hyperonic matter. The formalism also allows us to do a self consistent
+calculation of the in-medium sigma meson mass. The effects of such quantum
+corrections on the composition of charge neutral dense matter is considered.
+The effect of the resulting EOS on the structure of the neutron stars is also
+studied.
+","[{""version"":""v1"",""created"":""Sun, 31 Dec 2000 13:32:57 GMT""}]","2008-11-26"
+"nucl-th/0101007","Cheng-Tsung Hung","Cheng-Tsung Hung, Shin Nan Yang, and T.-S.H. Lee","Meson-exchange $\pi N$ Models in Three-Dimensional Bethe-Salpeter
+  Formulation","29 pages, 3 Tables, 7 figures, Latex, changed the unit of figures
+  4,5,6 and 7","Phys.Rev. C64 (2001) 034309","10.1103/PhysRevC.64.034309",,"nucl-th",,"  The pion-nucleon scattering is investigated by using several
+three-dimensional reduction schemes of the Bethe-Salpeter equation for a model
+Lagrangian involving $\pi$, $N$, $\Delta$, $\rho$, and $\sigma$ fields. It is
+found that all of the resulting meson-exchange models can give similar good
+descriptions of the $\pi N$ scattering data up to 400 MeV. However they have
+significant differences in describing the $\pi NN$ and $\pi N\Delta$ form
+factors and the $\pi N$ off-shell t-matrix elements. We point out that these
+differences can be best distinguished by investigating the near threshold pion
+production from nucleon-nucleon collisions and pion photoproduction on the
+nucleon. The consequences of using these models to investigate various
+pion-nucleus reactions are also discussed.
+","[{""version"":""v1"",""created"":""Sun, 31 Dec 2000 15:52:17 GMT""},{""version"":""v2"",""created"":""Sun, 28 Jan 2001 15:15:43 GMT""}]","2009-11-07"
+"physics/0101003","Roger Ellman","Roger Ellman (The-Origin Foundation, Inc)","On Five Independent Phenomena Sharing a Common Cause","16 pages, see http://www.the-origin.org for related info. arXiv admin
+  note: substantial text overlap with arXiv:physics/9809029",,,,"physics.gen-ph","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Over the past century a succession of five different independent astronomical
+phenomena have been discovered, each appearing to be the result of a common
+underlying cause that also produces an unaccounted-for acceleration that is:
+quite small, centrally directed in the system exhibiting each phenomenon,
+non-gravitational, distance independent, and apparently of a common magnitude.
+  The present paper analyzes the phenomena and proposes the underlying common
+cause, a common solution to the problem that they present.
+  Four of the phenomena, in the order of their discovery are:
+  1 - In 1933, the indication by galactic rotation curves that there is such an
+acceleration present and acting in galaxies but with no observable cause [hence
+the postulating of ""Dark Matter""]. Here the acceleration is directed toward the
+galactic center, the dominant factor in the mechanics of galaxy rotation.
+  2 - In 1998, the Pioneer Anomaly in which the acceleration is directed toward
+the Sun, the dominant factor in the mechanics of the Pioneer spacecrafts'
+motion.
+  3 - In 2008, the Flybys Anomaly for which the acceleration is directed toward
+the center of the Earth, the dominant factor in the mechanics of the flyby
+motion [as presented in the paper following].
+  4 - Also in 2008, confirmed in 2010, the Dark Flow anomaly for which the
+acceleration is directed toward the central origin of the overall universe, the
+dominant factor in the mechanics of the overall universe, where the Big Bang
+and expansion began [as presented in the paper following].
+  The earliest of all is
+  5 - Hubble's discovery of Redshifts of the light from various distant astral
+bodies.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 20:47:24 GMT""},{""version"":""v2"",""created"":""Tue, 13 Feb 2001 03:26:21 GMT""},{""version"":""v3"",""created"":""Sat, 4 Oct 2008 19:18:15 GMT""},{""version"":""v4"",""created"":""Sat, 13 Dec 2008 21:48:40 GMT""},{""version"":""v5"",""created"":""Tue, 27 Oct 2009 02:08:07 GMT""},{""version"":""v6"",""created"":""Mon, 15 Mar 2010 22:32:20 GMT""},{""version"":""v7"",""created"":""Sun, 27 Jun 2010 02:37:37 GMT""},{""version"":""v8"",""created"":""Sun, 19 Aug 2012 23:33:35 GMT""}]","2012-08-21"
+"physics/0101004","Kalashnikov","V.L. Kalashnikov, E. Sorokin, and I.T. Sorokina","Spectral Characteristics of Ultrashort Pulses in Kerr-lens Mode-Locked
+  Lasers","13 pages, 8 figures, 3 tables, LaTeX2e, spie.sty, psfig.sty","J. Opt. Soc. Am. B 18, N11, pp. 1732-1741 (2001).",,,"physics.optics",,"  A number of factors that influence spectral position of the femtosecond pulse
+in a Kerr-lens modelocked Cr:LiSGaF laser have been identified: high-order
+dispersion, gain saturation, reabsorption from the ground state, and stimulated
+Raman scattering. Using the one-dimensional numerical model for the simulation
+of the laser cavity, the relative contributions of different factors have been
+compared. The Raman effect provides the largest self-frequency shift from the
+gain peak (up to 60 nm), followed by the gain saturation (25 nm), while the
+high-order dispersion contribution is insignificant (5 nm). Comparison with the
+experimental data confirm that the stimulated Raman scattering is a main cause
+of the ultrashort pulse self-frequency shift observed in Cr:LiSGaF and Cr:LiSAF
+lasers
+","[{""version"":""v1"",""created"":""Sun, 31 Dec 2000 10:45:49 GMT""},{""version"":""v2"",""created"":""Sat, 7 Jul 2001 08:26:48 GMT""}]","2007-05-23"
+"physics/0101006","Michael Zeitlin","Antonina N. Fedorova, Michael G. Zeitlin","Quasiclassical Calculations for Wigner Functions via Multiresolution","12 pages, 3 figures, ws-p8-50x6-00.cls, presented at Capri ICFA
+  Workshop, October, 2000",,,,"physics.acc-ph math-ph math.MP nlin.PS physics.comp-ph quant-ph",,"  We present the application of variational-wavelet analysis to
+numerical/analytical calculations of Wigner functions in (nonlinear)
+quasiclassical beam dynamics problems. (Naive) deformation quantization and
+multiresolution representations are the key points.
+","[{""version"":""v1"",""created"":""Sun, 31 Dec 2000 15:48:12 GMT""}]","2007-05-23"
+"quant-ph/0101001","Philip R. Johnson","Philip R. Johnson and B.L. Hu","Stochastic Theory of Relativistic Particles Moving in a Quantum Field:
+  II. Scalar Abraham-Lorentz-Dirac-Langevin Equation, Radiation Reaction and
+  Vacuum Fluctuations","RevTex; 20 pages, 3 figures, Replaced version has corrected typos,
+  slightly modified derivation, improved discussion including new section with
+  comparisons to related work, and expanded references","Phys.Rev.D65:065015,2002","10.1103/PhysRevD.65.065015",,"quant-ph gr-qc hep-ph",,"  We apply the open systems concept and the influence functional formalism
+introduced in Paper I to establish a stochastic theory of relativistic moving
+spinless particles in a quantum scalar field. The stochastic regime resting
+between the quantum and semi-classical captures the statistical mechanical
+attributes of the full theory. Applying the particle-centric world-line
+quantization formulation to the quantum field theory of scalar QED we derive a
+time-dependent (scalar) Abraham-Lorentz-Dirac (ALD) equation and show that it
+is the correct semiclassical limit for nonlinear particle-field systems without
+the need of making the dipole or non-relativistic approximations. Progressing
+to the stochastic regime, we derive multiparticle ALD-Langevin equations for
+nonlinearly coupled particle-field systems. With these equations we show how to
+address time-dependent dissipation/noise/renormalization in the semiclassical
+and stochastic limits of QED. We clarify the the relation of radiation
+reaction, quantum dissipation and vacuum fluctuations and the role that initial
+conditions may play in producing non-Lorentz invariant noise. We emphasize the
+fundamental role of decoherence in reaching the semiclassical limit, which also
+suggests the correct way to think about the issues of runaway solutions and
+preacceleration from the presence of third derivative terms in the ALD
+equation. We show that the semiclassical self-consistent solutions obtained in
+this way are ``paradox'' and pathology free both technically and conceptually.
+This self-consistent treatment serves as a new platform for investigations into
+problems related to relativistic moving charges.
+","[{""version"":""v1"",""created"":""Sat, 30 Dec 2000 22:36:18 GMT""},{""version"":""v2"",""created"":""Fri, 1 Jun 2001 17:14:01 GMT""}]","2014-11-18"
+"quant-ph/0101002","Andrei Khrennikov","Andrei Khrennikov","Hyperbolic quantum mechanics",,,,,"quant-ph",,"  We start to develop the quantization formalism in a hyperbolic Hilbert space.
+Generalizing Born's probability interpretation, we found that unitary
+transformations in such a Hilbert space represent a new class of
+transformations of probabilities which describe a kind of {\it hyperbolic
+interference}. The most interesting problem which was generated by our
+investigation is to find experimental evidence of hyperbolic interference. The
+hyperbolic quantum formalism can also be interesting as a new theory of
+probabilistic waves that can be developed parallely to the standard quantum
+theory. Comparative analysis of these two wave theories could be useful for
+understanding of the role of various structures of the standard quantum
+formalism. In particular, one of distinguishing feature of the hyperbolic
+quantum formalism is the restricted validity of the superposition principle.
+","[{""version"":""v1"",""created"":""Sun, 31 Dec 2000 12:00:02 GMT""}]","2007-05-23"

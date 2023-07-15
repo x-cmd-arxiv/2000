@@ -1,0 +1,293 @@
+"cond-mat/0004123","Miguel Tardio Lopez","M. Tard\'io, R. Ram\'irez, R. Gonz\'alez, Y. Chen and M.R. Kokta","Electrical Conductivity in Magnesium-Doped Al_2 O_3 Crystal at Moderate
+  Temperatures","LaTeX, 6 pages, 3 eps figures included. Contributed Paper to the
+  ""International Conference on Defects in Insulating Materials"" (ICDIM 2000),
+  Johannesburg, South Africa, 3-7 April, 2000","Radiation Effects & Defects in Solids, Vol.154, pp.295-299 (2001).","10.1080/10420150108214146",,"cond-mat.soft cond-mat.mtrl-sci cond-mat.str-el",,"  AC and DC electrical measurements between 273 and 800 K were used to
+characterize the electrical conductivity of Al_2 O_3:Mg single crystals
+containing [Mg]^{0} center. At low fields contacts are blocking. At high
+fields, electrical current flows steadily through the sample and the I-V
+characteristic corresponds to a directly biased barrier whit a series
+resistance (bulk resistance). AC measurements yield values for the junction
+capacitance as well as for the sample resistance, and provide perfectly
+reproducible conductivity values. The conductivity varies linearly whit the
+[Mg]^{0} concentration and a thermal activation energy of 0.68 eV was obtained,
+which agrees very well with the activation energy previously reported for
+motion of free holes.
+","[{""version"":""v1"",""created"":""Sat, 8 Apr 2000 19:59:12 GMT""}]","2009-10-31"
+"cond-mat/0004124","Erika de Carvalho Bastone","E.C. Bastone, A.S.T. Pires and P.R. Silva","A Model to Describe Transport Properties in
+  $Bi_2Sr_2(Ca_zPr_{1-z})Cu_2O_{8+y}$","14 pages, 4 figures",,"10.1002/1521-3951(200112)228:3<869::AID-PSSB869>3.3.CO;2-4",,"cond-mat.supr-con cond-mat.stat-mech",,"  A pseudo-spin model is proposed, as a means to describe some transport
+properties (resistivity and Hall mobility) in
+$Bi_2Sr_2(Ca_zPr_{1-z})Cu_2O_{8+y}$. Our model is based in a double-well
+potential where tunneling in a given site and interaction between different
+lattice sites are allowed only through the excited states. Doping of the pure
+system by the addition of $Pr$ increases the ratio between the activation
+energy and the tunneling constant. The model Hamiltonian displays some features
+which are present in the hydrogen-bonded ferroelectrics. Its dynamics is
+treated in the random phase approximation and the characteristic frequency
+(time) is used in a Drude formula in order to obtain some transport properties
+of the system, namely the electric resistivity and the Hall mobility. The
+quantities calculated in this work are compared with the experimental data of
+B. Beschoten, S. Sadewasser, G. G\""{u}ntherodt and C. Quitmann [Phys. Rev.
+Lett.77, 1837(1996)].
+","[{""version"":""v1"",""created"":""Sat, 8 Apr 2000 22:37:31 GMT""}]","2015-06-24"
+"cond-mat/0004125","Prabodh Shukla","Prabodh Shukla","Exact Solution of Return Hysteresis Loops in One Dimensional Random
+  Field Ising Model at Zero Temperature",,"Phys Rev E62, 4725 (2000).","10.1103/PhysRevE.62.4725",,"cond-mat.dis-nn",,"  Minor hysteresis loops within the main loop are obtained analytically and
+exactly in the one-dimensional ferromagnetic random field Ising-model at zero
+temperature. Numerical simulations of the model show excellent agreement with
+the analytical results.
+","[{""version"":""v1"",""created"":""Sun, 9 Apr 2000 01:00:20 GMT""}]","2009-10-31"
+"cond-mat/0004126","Chris L. Henley","C. L. Henley, V. Elser, and M. Mihalkovic (Cornell Univ.)","Structure determinations for random-tiling quasicrystals","19 pages, LaTeX. To appear, Z. Kristallogr",,,,"cond-mat.mtrl-sci",,"  How, in principle, could one solve the atomic structure of a quasicrystal,
+modeled as a random tiling decorated by atoms, and what techniques are
+available to do it? One path is to solve the phase problem first, obtaining the
+density in a higher dimensional space which yields the_averaged_ scattering
+density in 3-dimensional space by the usual construction of an incommensurate
+cut. A novel direct method for this is summarized and applied to an i(AlPdMn)
+data set. This averaged density falls short of a true structure determination
+(which would reveal the typical_unaveraged_ atomic patterns.) We discuss the
+problematic validity of inferring an ideal structure by simply factoring out a
+``perp-space'' Debye-Waller factor, and we test this using simulations of
+rhombohedral tilings. A second, ``unified'' path is to relate the measured and
+modeled intensities directly, by adjusting parameters in a simulation to
+optimize the fit. This approach is well suited for unifying structural
+information from diffraction and from minimizing total energies derived
+ultimately from ab-initio calculations. Finally, we discuss the special
+pitfalls of fitting random-tiling decagonal phases.
+","[{""version"":""v1"",""created"":""Sun, 9 Apr 2000 02:01:21 GMT""}]","2007-05-23"
+"cond-mat/0004127","Nicholas Robins","N. Robins, C. Savage, E. Ostrovskaya","A model of a pumped continuous atom laser","10 pages, 8 eps figures, typos fixed",,"10.1007/3-540-40894-0_5",,"cond-mat",,"  We present a model of a cw atom laser based on a system of coupled GP
+equations. The model incorporates continuous Raman outcoupling, pumping and
+three-body recombination. The outcoupled field has minimal atomic density
+fluctuations and is locally monochromatic.
+","[{""version"":""v1"",""created"":""Sun, 9 Apr 2000 07:56:55 GMT""},{""version"":""v2"",""created"":""Thu, 15 Jun 2000 01:19:39 GMT""}]","2022-09-21"
+"gr-qc/0004024","Dumitru Baleanu","Dumitru Baleanu, Ayse Karasu","Lax Tensors, Killing Tensors and Geometric Duality","9 pages LATEX","Mod.Phys.Lett. A14 (1999) 2597","10.1142/S0217732399002716",,"gr-qc",,"  The solution of the Lax tensor equations in the case
+$L_{\alpha\beta\gamma}=-L_{\beta\alpha\gamma}$ was analyzed. The Lax tensors on
+the dual metrics were investigated. We classified all two dimensional metrics
+having the symmetric Lax tensor $L_{\alpha\beta\gamma}$. The Lax tensors of the
+flat space, Rindler system and its dual were found.
+","[{""version"":""v1"",""created"":""Sat, 8 Apr 2000 18:16:17 GMT""}]","2009-10-31"
+"gr-qc/0004025","George Lavrelashvili","George Lavrelashvili","Negative mode problem in false vacuum decay with gravity","8 pages, 1 eps figure, Talk given at Constrained Dynamics and Quantum
+  Gravity 99, Villasimius, (Sardinia, Italy), September 14-18, 1999. To apper
+  in the Proceedings. After this contribution was essentially completed,
+  further progress in investigation of negative mode problem was made. The
+  results are summarized in the revised version of gr-qc/0001041","Nucl.Phys.Proc.Suppl. 88 (2000) 75-82","10.1016/S0920-5632(00)00756-8",,"gr-qc",,"  There is a single negative mode in the spectrum of small perturbations about
+the tunneling solutions describing a metastable vacuum decay in flat spacetime.
+This mode is needed for consistent description of decay processes. When gravity
+is included the situation is more complicated. An approach based on elimination
+of scalar field perturbations shows no negative mode, whereas the recent
+approach based on elimination of gravitational perturbations indicates presence
+of a negative mode. In this contribution we analyse and compare the present
+approaches to the negative mode problem in false vacuum decay with gravity.
+","[{""version"":""v1"",""created"":""Sat, 8 Apr 2000 21:43:15 GMT""}]","2009-10-31"
+"gr-qc/0004026","Dr G. A. Jaroszkiewicz","George Jaroszkiewicz (School of Mathematical Sciences, University of
+  Nottingham, UK)","Discrete spacetime: classical causality,prediction, retrodiction and the
+  mathematical arrow of time","20 pages, 7 eps figures",,,,"gr-qc",,"  A mathematical definition of classical causality over discrete spacetime
+dynamics is formulated. The approach is background free and permits a
+definition of causality in a precise way whenever the spacetime dynamics
+permits. It gives a natural meaning to the concepts of cosmic time, spacelike
+hypersurfaces and timelike or lightlike flows without assuming the notion of a
+background metric. The concepts of causal propagators and the speed of
+causality are discussed. In this approach the concepts of spacetime and
+dynamics are linked in an essential and inseparable whole, with no meaning to
+either on its own.
+","[{""version"":""v1"",""created"":""Sat, 8 Apr 2000 21:17:00 GMT""}]","2007-05-23"
+"hep-ph/0004082","Susumu Koretune","Susumu Koretune","Soft pions at high energy and its phenomenological implications","6 pages,LaTex,1 figures,Talk given at ""Workshop on Light-Cone QCD and
+  Nonperturbative Hadron Physics"",Adelaide,Australia,December 11-22,1999,to
+  appear in the proceedings",,,,"hep-ph nucl-th",,"  The soft pion theorem in the inclusive reaction at high energy applied to the
+current induced reaction is explained briefly. A characteristic aspect of this
+theorem is the charge asymmetry produced by the pole terms in the soft pion
+limit. The pion charge asymmetry in the central region in the
+target-virtual-photon center of the mass (CM) frame of the semi-inclusive
+electroproduction and the contribution to the Gottfried sum are illustrated as
+examples.
+","[{""version"":""v1"",""created"":""Sun, 9 Apr 2000 06:00:45 GMT""}]","2007-05-23"
+"hep-ph/0004083",,"Athar Husain (Tokyo Metropolitan University, Japan)","Cosmic Tau Neutrinos","5 pages, Latex, talk given at YITP Workshop on Theoretical Problems
+  related to Neutrino Oscillations, 28 February-01 March, 2000, Kyoto, Japan
+  (to appear in its proceedings)",,,"TMUP-HEL-0004","hep-ph astro-ph",,"  The collisions between accelerated protons and the photons present in cosmos
+can be a main source of high-energy neutrinos (E \geq 10^6 GeV) of all flavors
+above the atmospheric neutrino background. I discuss here the possibility of
+photohadronic production of high-energy cosmic tau neutrinos in an
+astrophysical site and study some of the effects of vacuum neutrino flavor
+mixing on their subsequent propagation. I also discuss the prospects for
+observations of these high-energy cosmic tau neutrinos in new large neutrino
+telescopes
+","[{""version"":""v1"",""created"":""Sun, 9 Apr 2000 09:15:31 GMT""}]","2007-05-23"
+"hep-ph/0004084","Sergey Troshin","S. M. Troshin, N. E.Tyurin","Diffraction at the LHC - antishadow scattering?","8 pages, no figures","Eur.Phys.J.C21:679-682,2001","10.1007/s100520100768",,"hep-ph hep-ex",,"  Numerical predictions for the global characteristics of proton-proton
+interactions are given for the LHC energy. Possibilities for the discovery of
+the antishadow scattering mode and its physical implications are discussed.
+","[{""version"":""v1"",""created"":""Sun, 9 Apr 2000 11:04:51 GMT""}]","2009-01-07"
+"hep-ph/0004085","Manfred Lindner","M. Freund, P. Huber and M. Lindner","Extracting Matter Effects, Masses and Mixings at a Neutrino Factory","19 pages, 8 figures","Nucl.Phys. B585 (2000) 105-123","10.1016/S0550-3213(00)00369-2","TUM-HEP-373/00","hep-ph hep-ex",,"  We discuss and quantify different possibilities to determine matter effects,
+the value and the sign of $Delta m^2_{31}$, as well as the magnitude of $\sin^2
+2\theta_{13}$ in very long baseline neutrino oscillation experiments. We study
+neutrino oscillation at a neutrino factory in the $\nu_\mu\to\nu_\mu$
+disappearance and $\nu_e\to\nu_\mu$ appearance channels with and without muon
+charge identification. One possibility is to analyze the $\nu_e\to\nu_\mu$
+appearance channels leading to wrong sign muon events, which requires however
+very good muon charge identification. Without charge identification it is still
+possible to operate the neutrino factory both with $\mu^-$ and $\mu^+$ beams
+and to analyze the differences in the total neutrino event rate spectra. We
+show that this leads already to a quite good sensitivity, which may be
+important if right sign charge rejection capabilities are insufficient. With
+muon charge identification one can study the $\nu_\mu\to\nu_\mu$ disappearance
+and the $\nu_e\to\nu_\mu$ appearance channels independently. The best method is
+finally achieved by combining all available information of the
+$\nu_\mu\to\nu_\mu$ disappearance and $\nu_e\to\nu_\mu$ appearance channels
+with charge identification and we show the sensitivity which can be achieved.
+","[{""version"":""v1"",""created"":""Sun, 9 Apr 2000 15:00:10 GMT""}]","2009-10-31"
+"math-ph/0004008",,"I. M. Krichever, S. P. Novikov","Holomorphic bundles and Scalar Difference Operators: One-Point
+  Constructions","Latex2e file, 4 pages","Russian Math Surveys, v 55 (2000) n 1 pp 187--188",,,"math-ph math.MP",,"  Commutative rings of one-dimensional difference operators of rank l>1 and
+their deformations are effectively constructed. Our analytical constructions
+are based on the so-called ''Tyurin parameters'' for the stable framed
+holomorphic vector bundles over algebraic curves of the genus equal to g and
+Chern number equal to lg. These parameters were heavily used by the present
+authors already in 1978-80 for the differential operators. Their deformations
+in the discrete case are governed by the 2D Toda Lattice hierarhy instead of
+KP. New integrable systems appear here in the case l=2,g=1. The theory of
+higher rank difference operators is much more rich than the rank one case where
+only 2-point constructions on the spectral curve were used in the previous
+literature (i.e. number of 'infinite points'' is equal to 2). One-point
+constructions appear in this problem for every even rank l=2k. Only in this
+case commutative rings depend on the functional parameters. Two-point
+constructions will be studied in the next work: even for higher rank l>1 this
+case can be solved in Theta-functions. It is not so for one-point constructions
+with rank l>1.
+","[{""version"":""v1"",""created"":""Sat, 8 Apr 2000 21:11:18 GMT""}]","2007-05-23"
+"math-ph/0004009",,"I. Krichever, S Novikov","Trivalent Graphs and Solitons","LATEX file, 3 pages","Russian Math Surveys 54 (1999) n 1 pp 149-150",,,"math-ph math.MP",,"  It is shown that the fourth order real self-adjoint difference operator on
+the Tivalent Tree admits nontrivial deformations preserving one energy level
+and therefore defines a nontrinial hierarhy of the completely integrable
+nonlinear systems representible through the ''L-A-B-triple''. The Laplace
+transformations for these operators are also constructed. Nothing like that
+exists for the second order difference operators on this tree.
+","[{""version"":""v1"",""created"":""Sat, 8 Apr 2000 21:38:38 GMT""}]","2007-05-23"
+"math/0004047","Martin Goldstern","Martin Goldstern","Lattices, interpolation, and set theory",,,,,"math.RA math.LO",,"  We review a few results concerning interpolation of monotone functions on
+infinite lattices, emphasizing the role of set-theoretic considerations.
+  We also discuss a few open problems.
+","[{""version"":""v1"",""created"":""Sat, 8 Apr 2000 17:48:25 GMT""}]","2007-05-23"
+"math/0004048","Luo","Feng Luo","Torsion Elements in the Mapping Class Group of a Surface","14 pages, 6 figures",,,,"math.GT math.AG",,"  Given a finite set of $r$ points in a closed surface of genus $g$, we
+consider the torsion elements in the mapping class group of the surface leaving
+the finite set invariant. We show that the torsion elements generate the
+mapping class group if and only if $(g, r) \neq (2, 5k+4)$ for some integer
+$k$.
+","[{""version"":""v1"",""created"":""Sat, 8 Apr 2000 21:34:37 GMT""}]","2007-05-23"
+"math/0004049","Vladimir G. Troitsky","Vladimir G. Troitsky","Spectral Radii of Bounded Operators on Topological Vector Spaces","36 pages",,,,"math.FA math.SP",,"  In this paper we develop a version of spectral theory for bounded linear
+operators on topological vector spaces. We show that the Gelfand formula for
+spectral radius and Neumann series can still be naturally interpreted for
+operators on topological vector spaces. Of course, the resulting theory has
+many similarities to the conventional spectral theory of bounded operators on
+Banach spaces, though there are several important differences. The main
+difference is that an operator on a topological vector space has several
+spectra and several spectral radii, which fit a well-organized pattern.
+","[{""version"":""v1"",""created"":""Sat, 8 Apr 2000 22:18:08 GMT""}]","2007-05-23"
+"math/0004050","Gabriele Vezzosi","Gabriele Vezzosi","Brown-Peterson spectra in stable A^1-homotopy theory","14 pages; a section on motivations has been added",,,,"math.AG math.AT",,"  We characterize ring spectra morphisms from the algebraic cobordism spectrum
+$\QTR{Bbb}{MGL}$ (\QCITE{cite}{}{Vo1}) to an oriented spectrum $\QTR{Bbb}{E}$
+(in the sense of Morel \QCITE{cite}{}{Mo}) via formal group laws on the
+''topological'' subring $E^{*}=\oplus_iE^{2i,i}$ of $E^{**}$. This result is
+then used to construct for any prime $p$ a motivic Quillen idempotent on
+$\QTR{Bbb}{MGL}_{(p)}$. This defines the $BP$-spectrum associated to the prime
+$p$ as in Quillen's \QCITE{cite}{}{Q1} for the complex-oriented topological
+case.
+","[{""version"":""v1"",""created"":""Sun, 9 Apr 2000 00:50:03 GMT""},{""version"":""v2"",""created"":""Wed, 12 Apr 2000 12:08:53 GMT""}]","2007-05-23"
+"math/0004051","Mark Hovey","Mark Hovey","Spectra and symmetric spectra in general model categories","45 pages",,,,"math.AT math.KT",,"  (This is an updated version; following an idea of Voevodsky, we have
+strengthened our results so all of them apply to one form of motivic homotopy
+theory).
+  We give two general constructions for the passage from unstable to stable
+homotopy that apply to the known example of topological spaces, but also to new
+situations, such as motivic homotopy theory of schemes. One is based on the
+standard notion of spectra originated by Boardman. Its input is a well-behaved
+model category C and an endofunctor G, generalizing the suspension. Its output
+is a model category on which G is a Quillen equivalence. Under strong
+hypotheses the weak equivalences in this model structure are the appropriate
+analogue of stable homotopy isomorphisms.
+  The second construction is based on symmetric spectra, and is of value only
+when C has some monoidal structure that G preserves. In this case, ordinary
+spectra generally will not have monoidal structure, but symmetric spectra will.
+Our abstract approach makes constructing the stable model category of symmetric
+spectra straightforward. We study properties of these stabilizations; most
+importantly, we show that the two different stabilizations are Quillen
+equivalent under some hypotheses (that also hold in the motivic example).
+","[{""version"":""v1"",""created"":""Sun, 9 Apr 2000 11:22:17 GMT""},{""version"":""v2"",""created"":""Mon, 17 Apr 2000 18:50:39 GMT""},{""version"":""v3"",""created"":""Fri, 9 Jun 2000 15:22:21 GMT""}]","2007-05-23"
+"nlin/0004013","Takeo Kojima","T.Kojima and S.Yamasita","The critical $A_{n-1}^{(1)}$ chain","LaTEX2e,19pages","J.Phys.A34:1181-1202,2001","10.1088/0305-4470/34/6/309",,"nlin.SI hep-th math.QA",,"  We study the $A_{n-1}^{(1)}$ spin chain at the critical regime $|q|=1$. We
+give the free boson realizations of the type-I vertex operators and their
+duals. Using these free boson realizations, we give the integral
+representations for the correlation functions.
+","[{""version"":""v1"",""created"":""Sun, 9 Apr 2000 09:00:21 GMT""}]","2008-11-26"
+"nlin/0004014","Axel G. Rossberg","A. G. Rossberg","A twist localizes three-dimensional patterns","7 pages, 2 figures, submitted to PRE; minor changes in resubmission",,"10.1103/PhysRevE.62.4682",,"nlin.PS nlin.AO",,"  A mechanism for the localization of spatially periodic, self-organized
+patterns in anisotropic media which requires systems extended in all three
+spatial dimensions is presented: When the anisotropy axis is twisted the
+pattern becomes localized in planes parallel to the anisotropy axis. An
+analytic description of the effect is developed and used to interpret recent
+experiments in the high-frequency regime of electroconvection by Bohatsch and
+Stannarius [Phys. Rev. E {\bf 60}, 5591 (1999)]. The localization width is
+found to be of the order of magnitude of the geometrical average of pattern
+wavelength and the inverse twist.
+","[{""version"":""v1"",""created"":""Sun, 9 Apr 2000 12:18:00 GMT""},{""version"":""v2"",""created"":""Fri, 21 Jul 2000 03:54:31 GMT""}]","2009-10-31"
+"nucl-th/0004019","S. J. Lindenbaum","S.J. Lindenbaum (BNL & CCNY), R.S. Longacre (BNL)","Possible Striking Signals for a Quark-Gluon Plasma at RHIC","32pp,16figs, Journal of Physics G:Nuclear&Particle Physics-in press","J.Phys.G26:937-956,2000","10.1088/0954-3899/26/6/314","BNL-52580","nucl-th hep-ph",,"  We believe that one can have serious reservations as to whether heavy ion
+collisions (e.g. 100 GeV/n Au + 100 GeV/n Au) can lead to Thermal and Chemical
+equilibrium over large regions (particularly if it is assumed this happens
+whenever QGP is produced at RHIC-that is if it is produced). It is at present
+not clear that the collision dynamics and times available will lead to this. An
+alternate scenario proposed by Van Hove where localized in rapidity bubbles of
+plasma may well be more probable, and may well occur at least some of the time,
+and some of the time mainly survive to the final state. If this occurs we have
+developed a series of event generators to extend and describe these phenomena.
+A Van Hove type[6,7] spherical bubble at eta=0 is embedded in a resonable event
+generator in qualitative agreement with Hijing etc[12]. The plasma bubble
+hadronized at a temperature of 170 Mev according to the model developed by
+Koch, Muller and Rafelski[21]. The amount of available bubble energy is
+selected by that in a small central circular cross-section of radius approx
+1.3fm or 2.5fm in 100 Gev/n Au+AU, central events The results predict Possible
+Striking Signals for a QGP.
+  We are also applying these techniques to investigating Kharzeev and Pisarski
+bubbles of metastable vacua with odd CP.
+","[{""version"":""v1"",""created"":""Sat, 8 Apr 2000 22:49:37 GMT""}]","2008-11-26"
+"nucl-th/0004020","Matthias Lutz","M. Lutz, W. Florkowski","Gradient Terms in the Microscopic Description of K-Atoms","21 pages, 3 figures; the substantially revised manuscript more
+  carefully discriminates the effects that one should trust from those which
+  are outside the scope of this work; submitted to Acta. Phys. Pol. B","Acta Phys.Polon.B31:2567-2570,2000",,,"nucl-th hep-ph",,"  We analyze the spectra of kaonic atoms using optical potentials withnon-local
+(gradient) terms. The magnitude of the non-local termsfollows from a self
+consistent many-body calculation of the kaon selfenergy in nuclear matter,
+which is based on s-wave kaon nucleoninteractions. The optical potentials
+exhibit strong non-linearitiesin the nucleon density and sizeable non-local
+terms. We find that thenon-local terms are quantitatively important in the
+analysis of thespectra and that a phenomenologically successful description can
+be obtained for p-wave like optical potentials. It is suggested that
+themicroscopic form of the non-local interaction terms is
+obtainedsystematically by means of a semi-classical expansion of the
+nucleusstructure. The resulting optical potential leads to less pronounced
+non-local effects.
+","[{""version"":""v1"",""created"":""Sun, 9 Apr 2000 12:26:05 GMT""},{""version"":""v2"",""created"":""Tue, 11 Jul 2000 08:34:37 GMT""},{""version"":""v3"",""created"":""Wed, 21 Mar 2001 10:09:47 GMT""}]","2010-12-16"
+"nucl-th/0004021","Matthias Lutz","M. Lutz and E. Kolomeitsev","Effective chiral theory of kaon-nucleon scattering","12 pages, 5 figures, invited talk ""International Workshop XXVII on
+  Gross Properties of Nuclei and Nuclear Excitations"", Hirschegg, Austria,
+  January, 2000",,,,"nucl-th",,"  We apply the relativistic chiral SU(3) Lagrangian density to kaon-nucleon
+scattering imposing constraints from the pion-nucleon s- and p-wave threshold
+parameters at chiral order $Q^2$. The s and u channel decouplet baryon exchange
+is included explicitly and is found to play a crucial role in understanding the
+empirical s- and p-wave nuclear kaon dynamics quantitatively.
+","[{""version"":""v1"",""created"":""Sun, 9 Apr 2000 13:14:10 GMT""}]","2007-05-23"
+"quant-ph/0004041","Bozhidar Zakhariev Iliev","Bozhidar Z. Iliev (Institute for Nuclear Research and Nuclear Energy,
+  Bulgarian Academy of Sciences, Sofia, Bulgaria)","Fibre bundle formulation of nonrelativistic quantum mechanics (full
+  version)","106 standard LaTeX 2e (11pt, A4) pages. The packages AMS-LaTeX and
+  amsfonts are required. This is a unified and completely revised version of
+  the series of papers quant-ph/9803083, quant-ph/9803084, quant-ph/9804062,
+  quant-ph/9806046, quant-ph/9901039, and quant-ph/9902068. For related papers,
+  view http://www.inrne.bas.bg/mathmod/bozhome/","J.Phys. A34 (2001) 4887-4918, 4919-4934, 4935-4950;
+  Int.J.Mod.Phys. A17 (2002) 229-243, 245-258",,,"quant-ph gr-qc hep-th math-ph math.MP",,"  We propose a new systematic fibre bundle formulation of nonrelativistic
+quantum mechanics. The new form of the theory is equivalent to the usual one
+and is in harmony with the modern trends in theoretical physics and potentially
+admits new generalizations in different directions. In it the Hilbert space of
+a quantum system (from conventional quantum mechanics) is replaced with an
+appropriate Hilbert bundle of states and a pure state of the system is
+described by a lifting of paths or section along paths in this bundle. The
+evolution of a pure state is determined through the bundle (analogue of the)
+Schr\""odinger equation. Now the dynamical variables and the density operator
+are described via liftings of paths or morphisms along paths in suitable
+bundles. The mentioned quantities are connected by a number of relations
+derived in this work.
+","[{""version"":""v1"",""created"":""Sun, 9 Apr 2000 09:35:14 GMT""}]","2007-05-23"
+"quant-ph/0004042","Xiaoguang Wang","Xiao-Guang Wang","Two-mode Nonlinear Coherent States","11 pages, no figures, accepted for publication in Optics
+  Communications","Optics Communications 178(4-6)(2000)365-369","10.1016/S0030-4018(00)00672-6",,"quant-ph",,"  Two-mode nonlinear coherent states are introduced in this paper. The pair
+coherent states and the two-mode Perelomov coherent states are special cases of
+the two-mode nonlinear coherent states. The exponential form of the two-mode
+nonlinear coherent states is given. The photon-added or photon-subtracted
+two-mode nonlinear coherent states are found to be two-mode nonlinear coherent
+states with different nonlinear functions. The parity coherent states are
+introduced as examples of two-mode nonlinear coherent states, and they are
+superpositions of two corresponding coherent states. We also discuss how to
+generate the parity coherent states in the Kerr medium.
+","[{""version"":""v1"",""created"":""Sun, 9 Apr 2000 11:05:58 GMT""}]","2009-11-06"

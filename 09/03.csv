@@ -1,0 +1,285 @@
+"astro-ph/0009031","Fred Walter","Frederick M. Walter","The Proper Motion, Parallax, and Origin of the Isolated Neutron Star RX
+  J185635-3754","Accepted by ApJ. Minor corrections to magnitude of space motions",,"10.1086/319058",,"astro-ph",,"  The isolated neutron star RX J185635-3754 is the closest known neutron star
+to the Sun. Based on HST WFPC2 obervations over a 3 year baseline, I report its
+proper motion (332 +/- 1 mas/yr at a position angle of 100.3 +/- 0.1 degrees)
+and parallax (16.5 +/- 2.3 mas; 61 pc). This proper motion brings the neutron
+star from the general vicinity of the Sco-Cen OB association. For an assumed
+neutron star radial velocity between -55 and -60 km/s, the runaway O star zeta
+Oph, the Upper Sco OB association, and the neutron star come into spatial
+coincidence between 0.9 and 1.0 million years ago. RX J185635-3754 may be the
+remnant of the original primary of the zeta Oph system. If so, the space
+velocity suggests that the neutron star received a kick of about 200 km/s at
+birth.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 2000 18:42:22 GMT""},{""version"":""v2"",""created"":""Mon, 13 Nov 2000 20:18:41 GMT""}]","2009-10-31"
+"astro-ph/0009032","Yipeng Jing","Y.P. Jing (Partner Group of MPA, Shanghai Observatory), G. Boerner
+  (MPA, Garching)","Scaling properties of the redshift power spectrum: theoretical models","accepted for publication in ApJ;24 pages with 7 figures included","ApJ (2001) 547, 545","10.1086/318418",,"astro-ph",,"  We report the results of an analysis of the redshift power spectrum
+$P^S(k,\mu)$ in three typical Cold Dark Matter (CDM) cosmological models, where
+$\mu$ is the cosine of the angle between the wave vector and the line-of-sight.
+Two distinct biased tracers derived from the primordial density peaks of
+Bardeen et al. and the cluster-underweight model of Jing, Mo, & B\""orner are
+considered in addition to the pure dark matter models. Based on a large set of
+high resolution simulations, we have measured the redshift power spectrum for
+the three tracers from the linear to the nonlinear regime. We investigate the
+validity of the relation - guessed from linear theory - in the nonlinear regime
+$$ P^S(k,\mu)=P^R(k)[1+\beta\mu^2]^2D(k,\mu,\sigma_{12}(k)), $$ where $P^R(k)$
+is the real space power spectrum, and $\beta$ equals $\Omega_0^{0.6}/b_l$. The
+damping function $D$ which should generally depend on $k$, $\mu$, and
+$\sigma_{12}(k)$, is found to be a function of only one variable
+$k\mu\sigma_{12}(k)$. This scaling behavior extends into the nonlinear regime,
+while $D$ can be accurately expressed as a Lorentz function - well known from
+linear theory - for values $D > 0.1$. The difference between $\sigma_{12}(k)$
+and the pairwise velocity dispersion defined by the 3-D peculiar velocity of
+the simulations (taking $r=1/k$) is about 15%. Therefore $\sigma_{12}(k)$ is a
+good indicator of the pairwise velocity dispersion. The exact functional form
+of $D$ depends on the cosmological model and on the bias scheme. We have given
+an accurate fitting formula for the functional form of $D$ for the models
+studied.
+","[{""version"":""v1"",""created"":""Sun, 3 Sep 2000 06:54:33 GMT""},{""version"":""v2"",""created"":""Mon, 25 Sep 2000 08:18:20 GMT""}]","2009-10-31"
+"astro-ph/0009033","Andrea de Luca","R.P. Mignani (1), P.A. Caraveo (2), A. De Luca (2) ((1) STECF-ESO,
+  Garching, Germany, (2) IFC-CNR, Milan, Italy)","HST as a powerful astrometric tool for pulsar astronomy","5 pages, 2 PostScript figures, uses psfig.sty. To appear in the
+  proceedings of A Decade of HST Science (Baltimore, USA, April 2000)",,,,"astro-ph",,"  Given their intrinsic faintness, isolated neutron stars represent an elusive
+target for optical astronomy. Up to date, an optical counterpart has been
+identified only for a very tiny fraction of the overall population of more than
+1000 radio pulsars. The HST contributions to the optical studies of isolated
+neutron stars have been recently reviewed by Mignani et al. (2000) and by
+Caraveo et al. (these proceedings). Here, we review its specific contribution
+in the field of pulsar astrometry and kinematics.
+","[{""version"":""v1"",""created"":""Sun, 3 Sep 2000 10:46:34 GMT""}]","2007-05-23"
+"astro-ph/0009034","Andrea de Luca","A. De Luca (1), R.P. Mignani (2), P.A. Caraveo (1) ((1) IFC-CNR,
+  Milan, Italy, (2) STECF-ESO, Garching, Germany)","HST as a reliable astrometric tool for pulsar astronomy: the cases of
+  the Vela and Geminga pulsars","4 pages, 2 PostScript figures, uses psfig.sty. To appear in the
+  proceedings of A Decade of HST Science (Baltimore, USA, April 2000)",,,,"astro-ph",,"  The quest for the distance of the Vela and Geminga pulsars yielded, so far, a
+set of four WFPC2 images for each object. The availability of couples of images
+taken at the same period of the year, thus affected by the same parallactic
+displacement, prompted us to use Vela and Geminga as test cases to assess the
+reliability of HST astrometry.
+","[{""version"":""v1"",""created"":""Sun, 3 Sep 2000 10:57:36 GMT""}]","2007-05-23"
+"astro-ph/0009035","Andrea de Luca","P.A. Caraveo (1), R.P. Mignani (2), A. De Luca (1), S.Wagner (3), G.F.
+  Bignami (4) ((1) IFC-CNR, Milan, Italy, (2) STECF-ESO, Garching, Germany, (3)
+  LaundesSternwarte, Konigstuhl-Heidelberg, Germany, (4) ASI, Rome, Italy)","SNR0540-69 -the Crab twin- revisited: Chandra vs. HST","4 pages, 2 PostScript figures, uses psfig.sty. To appear in the
+  proceedings of A Decade of HST Science (Baltimore, USA, April 2000)",,,,"astro-ph",,"  High resolution images of the Crab-like SNR SNR0540-69 have been recently
+obtained by the HRC, on board the Chandra X-ray Observatory, and by the FORS1
+instrument, attached to ESO/VLT1. A detailed comparison of these images with an
+archival Planetary Camera one will be presented.
+","[{""version"":""v1"",""created"":""Sun, 3 Sep 2000 11:27:58 GMT""}]","2007-05-23"
+"astro-ph/0009036","Erik Kuulkers","Patricia T. Boyd, Alan P. Smale (NASA/GSFC), Jeroen Homan, Peter G.
+  Jonker, Michiel van der Klis (Univ. Amsterdam, CHEAF) & Erik Kuulkers (SRON,
+  Univ. Utrecht)","Canonical Timing and Spectral Behavior of LMC X-3 in the Low/Hard State","5 pages, 3 figures, accepted for ApJ Letters",,"10.1086/312931",,"astro-ph",,"  We present results from three observations with the Rossi X-ray Timing
+Explorer (RXTE) of LMC X-3, obtained while the source was in an extended
+'low/hard' state. The data reveal a hard X-ray spectrum which is well fit by a
+pure power law with photon index Gamma=1.69+/-0.02, with a source luminosity at
+50 kpc of 5-16x10^{36}erg/s (2--10 keV). Strong broad-band (0.01-100 Hz) time
+variability is also observed, with fractional rms amplitude 40+/-4%, plus a
+quasi-periodic oscillation (QPO) peak at 0.46+/-0.02 Hz with rms amplitude
+\~14%. This is the first reported observation in which the full canonical
+low/hard state behavior (pure hard power law spectrum combined with strong
+broad-band noise and QPO) for LMC X-3 is seen. We reanalyze several archival
+RXTE observations of LMC X-3 and derive consistent spectral and timing
+parameters, and determine the overall luminosity variation between high/soft
+and low/hard states. The timing and spectral properties of LMC X-3 during the
+recurrent low/hard states are quantitatively similar to that typically seen in
+the Galactic black hole candidates.
+","[{""version"":""v1"",""created"":""Sun, 3 Sep 2000 12:32:19 GMT""}]","2009-10-31"
+"astro-ph/0009037","Ezio Pignatelli","E. Pignatelli (1), G. Fasano (2) ((1) SISSA/ISAS, (2) Osservatorio
+  Astronomico di Padova)","Morphological classification of high redshift galaxies","4 pages, 3 encapsulated figures. Proceedings of the Euroconference
+  ""The Evolution of Galaxies.I- Observational clues."" held in Granada (Spain),
+  23-27 May, 2000. To be published in a special issue of Astrophysics and Space
+  Science journal","Astrophys.Space Sci. 277 (2001) 561-564",,,"astro-ph",,"  We present GASPHOT, a tool for automated surface photometry and morphological
+classification of galaxies in deep and wide fields. The requirements for any
+such tool are reviewed, and its use for the classification of high-z galaxies
+is presented. In the case if HDF-like images, for galaxies having a magnitude
+ranging from 24 to 27.5, the uncertainties on the photometric parameters
+derived from GASPHOT are respectively 0.02-0.1 on magnitude, 0.03 on the
+logarithm of the scale length, 0.02-0.5 on the Sersic index n used to classify
+the surface brightness profile of the galaxies. A comparison with the results
+achieved using Sextractor is presented.
+","[{""version"":""v1"",""created"":""Sun, 3 Sep 2000 15:38:55 GMT""}]","2007-05-23"
+"cond-mat/0009025","Ulrich S. Schwarz","U. S. Schwarz (1), G. Gompper (2) ((1) Weizmann Institute, Israel, (2)
+  Forschungszentrum Juelich, Germany)","Stability of inverse bicontinuous cubic phases in lipid-water mixtures","Revtex, 4 pages with 3 EPS-figures included","Phys. Rev. Lett. 85: 1472-1475 (2000)","10.1103/PhysRevLett.85.1472",,"cond-mat.soft",,"  We investigate the stability of seven inverse bicontinuous cubic phases ($G$,
+$D$, $P$, $C(P)$, $S$, $I-WP$, $F-RD$) in lipid-water mixtures based on a
+curvature model of membranes. Lipid monolayers are described by parallel
+surfaces to triply periodic minimal surfaces. The phase behavior is determined
+by the distribution of the Gaussian curvature on the minimal surface and the
+porosity of each structure. Only $G$, $D$ and $P$ are found to be stable, and
+to coexist along a triple line. The calculated phase diagram agrees very well
+with experimental results for 2:1 lauric acid/DLPC.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 2000 18:15:00 GMT""}]","2009-10-31"
+"cond-mat/0009026","Vadim Apalkov","V.M. Apalkov, Tapash Chakraborty","Influence of disorder and a parallel magnetic field on a Quantum Cascade
+  Laser","3 pages, 3 figues",,"10.1063/1.1343495",,"cond-mat.mes-hall",,"  The luminescence spectra of a quantum cascade laser in a strong magnetic
+field is influenced significantly by the presence of disorder (charged or
+neutral) in the system. An externally applied magnetic field parallel to the
+electron plane causes a red shift of the luminescence peak in the absence of
+any disorder potential. Our results indicate that the disorder potential tends
+to cancel that red shift and causes a rapid decrease of the luminescence peak.
+A similar behavior was observed in a recent experiment on QCL in a parallel
+magnetic field.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 2000 18:18:24 GMT""}]","2009-10-31"
+"cond-mat/0009027","Ulrich S. Schwarz","U. S. Schwarz, S. A. Safran (Weizmann Institute, Israel)","Phase behavior and material properties of hollow nanoparticles","Revtex, 13 pages with 8 Postscript files included, submitted to Phys.
+  Rev. E","Phys. Rev. E 62: 6957 - 6967 (2000)","10.1103/PhysRevE.62.6957",,"cond-mat.soft cond-mat.mtrl-sci",,"  Effective pair potentials for hollow nanoparticles like the ones made from
+carbon (fullerenes) or metal dichalcogenides (inorganic fullerenes) consist of
+a hard core repulsion and a deep, but short-ranged, van der Waals attraction.
+We investigate them for single- and multi-walled nanoparticles and show that in
+both cases, in the limit of large radii the interaction range scales inversely
+with the radius, $R$, while the well depth scales linearly with $R$. We predict
+the values of the radius $R$ and the wall thickness $h$ at which the gas-liquid
+coexistence disappears from the phase diagram. We also discuss unusual material
+properties of the solid, which include a large heat of sublimation and a small
+surface energy.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 2000 18:59:35 GMT""}]","2009-10-31"
+"cond-mat/0009028","Vadim Apalkov","Vadim Apalkov, Tapash Chakraborty","Luminescence Spectra of a Quantum-Dot Cascade Laser","5 pages, 4 figures",,"10.1063/1.1357808",,"cond-mat.mes-hall",,"  A quantum cascade laser where the quantum wells in the active regions are
+replaced by quantum dots with their atom-like discrete energy levels is an
+interesting system to study novel features in optical spectroscopy. We study
+structures suitable for diagonal lasing transitions in coupled dots, and
+vertical lasing transitions in a single dot, in the active regions of the laser
+device. The luminescence spectra as a function of electron number and dot size
+show that for diagonal transitions, a significant amount of blue-shift in the
+emission spectra can be achieved by increasing electron population in the
+quantum dots as well as by decreasing the size of the dots.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 2000 20:05:36 GMT""}]","2009-10-31"
+"cond-mat/0009029","David P. Belanger","D. P. Belanger","Experimental Characterization of the Ising Model in Disordered
+  Antiferromagnets","19 pages, 7 figures, Ising Centennial Colloquium, to be published in
+  the Brazilian Journal of Physics",,,,"cond-mat.dis-nn cond-mat.stat-mech",,"  The current status of experiments on the d=2 and d=3 random-exchange and
+random-field Ising models, as realized in dilute anisotropic antiferromagnets,
+is discussed. Two areas of current investigation are emphasized. For d=3, the
+large random field limit is being investigated and equilibrium critical
+behavior is being characterized at high magnetic concentrations.
+","[{""version"":""v1"",""created"":""Sun, 3 Sep 2000 03:13:52 GMT""}]","2007-05-23"
+"cond-mat/0009030","Luk'yanchuk","I. Luk'yanchuk","Theory of superconductor with kappa close to 1/sqrt{2}","Revtex, 14 pages, 4 postscript pictures embedded in the text","Phys.Rev.B63:174504,2001","10.1103/PhysRevB.63.174504",,"cond-mat.supr-con",,"  As was firstly shown by E. Bogomolny, the critical Ginzburg-Landay (GL)
+parameter kappa =1/sqrt{2} at which a superconductor changes its behavior from
+type-I to type-II, is the special highly degenerate point where Abrikosov
+vortices do not interact and therefore all vortex states have the same energy.
+Developing a secular perturbation theory we studied how this degeneracy is
+lifted when kappa is slightly different from 1\sqrt{2} or when the GL theory is
+extended to the higher in T-Tc terms. We constructed a simple secular
+functional, that depends only on few experimentally measurable phenomenological
+parameters and therefore is quite efficient to study the vortex state of
+superconductor in this transitional region of kappa. Basing on this, we
+calculated such vortex state properties as: critical fields, energy of the
+normal-superconductor interface, energy of the vortex lattice, vortex
+interaction energy etc. and compared them with previous results that were based
+on bulky solutions of GL equations.
+","[{""version"":""v1"",""created"":""Sun, 3 Sep 2000 08:03:22 GMT""}]","2009-02-05"
+"hep-ph/0009015","P. Aurenche","P. Aurenche","Photon and lepton pair production in a quark-gluon plasma","10 pages, 7 postscript figures, based on talks given in July 2000 at
+  QCD 00, Montpellier, France, and at ICHEP2000, Osaka, Japan","Nucl.Phys.Proc.Suppl. 96 (2001) 179-183","10.1016/S0920-5632(01)01128-8","LAPTH-Conf-810/2000","hep-ph",,"  We discuss the production of real or virtual photons in a quark-gluon plasma.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 2000 16:30:00 GMT""}]","2009-10-31"
+"hep-ph/0009016","Stephen Wong","S.M.H. Wong","Color Octet Contribution in Exclusive P-Wave Charmonium Decay","6 pages using espcrc2.sty, contribution to the 4th Int. Conference on
+  Hyperons, Charm and Beauty Hadrons, Valencia, June 2000","Nucl.Phys.Proc.Suppl. 93 (2001) 220-225","10.1016/S0920-5632(00)01107-5","NUC-MINN-00/13-T","hep-ph",,"  Recent advances in our understanding of the higher-wave quarkonia have
+generated much interests in quarkonium physics. However most are devoted to
+inclusive decays and productions. Experimental data of several two-body
+exclusive decay channels of P-wave charmonia such as \pi \pi and p \bar p are
+available and some have recently been re-measured by the BES collaboration. It
+is not clear from the outset that color octet is needed for these exclusive
+channels. Indeed only color singlet has been used in the past and reasonable
+agreement with data was found. Contrary to these old results, we provide
+theoretical arguments for the inclusion of color octet and perform explicit
+calculations to back this up.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 2000 19:14:37 GMT""}]","2009-10-31"
+"hep-ph/0009017","Edward W. Kolb","Ivone F. M. Albuquerque, Lam Hui, Edward W. Kolb","High Energy Neutrinos From Superheavy Dark Matter Annihilation","24 pages, 7 figures","Phys.Rev. D64 (2001) 083504","10.1103/PhysRevD.64.083504","FNAL-Pub-00/206-A, IAS-SNS-AST-0035","hep-ph astro-ph",,"  Superheavy ($M>10^{10}$ GeV) particles produced during inflation may be the
+dark matter, independent of their interaction strength. Strongly interacting
+superheavy particles will be captured by the sun, and their annihilation in the
+center of the sun will produce a flux of energetic neutrinos that should be
+detectable by neutrino telescopes. Depending on the particle mass, event rates
+in a cubic-kilometer detector range from several per hour to several per year.
+The signature of the process is a predominance of tau neutrinos, with a
+relatively flat energy spectrum of events ranging from 50 GeV to many TeV, and
+with the mean energy of detected tau neutrinos about 3 TeV.
+","[{""version"":""v1"",""created"":""Sun, 3 Sep 2000 01:34:00 GMT""}]","2009-10-31"
+"hep-ph/0009018","Lianshou  Liu","Liu Lianshou, Chen Gang and Fu Jinghua","A Monte Carlo Study of the Dynamical-Flucautation Property of the
+  Hadronic System Inside Jets","8 pages, 3 figures","Phys.Rev. D63 (2001) 054002","10.1103/PhysRevD.63.054002","HZPP-0006","hep-ph",,"  A study of the dynamical fluctuation property of jets is carried out using
+Monte Carlo method. The results suggest that, unlike the average properties of
+the hadronic system inside jets, the anisotropy of dynamical fluctuations in
+these systems changes abruptly with the variation of the cut parameter $\yct$.
+A transition point exists, where the dynamical fluctuations in the hadronic
+system inside jet behave like those in soft hadronic collisions, i.e. being
+circular in the transverse plan with repect to dynamical fluctuations. This
+finding obtained from Jetset and Herwig Monte Carlo is encouraged to be checked
+by experiments.
+","[{""version"":""v1"",""created"":""Sun, 3 Sep 2000 02:43:31 GMT""}]","2009-10-31"
+"hep-ph/0009019","Hisakazu Minakata","Alan Chodos, Hisakazu Minakata, Fred Cooper, Anupam Singh, and Wenjin
+  Mao","A Two-Dimensional Model with Chiral Condensates and Cooper Pairs Having
+  QCD-like Phase Structure","11 pages, 1 fugure, Presented at TMU-Yale Symposium on Dynamics of
+  Gauge Fields: An External Activity of APCTP, Tokyo, Japan, 13-15 Dec 1999",,,"TMUP-HEL-0017","hep-ph",,"  We describe how a generalization of the original Gross-Neveu model from U(N)
+to O(N) flavor symmetry leads to the appearance of a pairing condensate at high
+density, in agreement with the conjectured phenomenon of color
+superconductivity in $(3+1)$-dimensional QCD. Moreover, the model displays a
+rich phase structure which closely resembles the one expected in two-flavor
+QCD.
+","[{""version"":""v1"",""created"":""Sun, 3 Sep 2000 08:00:48 GMT""}]","2007-05-23"
+"hep-th/0009017","Christopher Herzog","Christopher P. Herzog and Igor R. Klebanov","Stable Massive States in 1+1 Dimensional NCOS","14 pages","Phys.Rev. D63 (2001) 046001","10.1103/PhysRevD.63.046001",,"hep-th",,"  We study the case of open string theory on a D1-brane in a critical electric
+field. It was argued in hep-th/0006085 that the massless open string modes of
+this theory decouple from the massive modes, corresponding to a decoupling of
+the U(1) degrees of freedom in the U(N) gauge theory dual. To provide further
+support for the decoupling, we present several examples of open string disk
+amplitudes. Because of the decoupling, many of the massive open string states
+are stable, indicating the presence of a number of correspondingly stable
+states in the gauge theory. We provide a lengthy list of these stable states.
+However, when the theory is compactified in the spatial direction of the
+electric field, we demonstrate that sufficiently massive such states may decay
+into wound closed strings.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 2000 19:08:56 GMT""}]","2009-10-31"
+"math-ph/0009003","Michael K.-H. Kiessling","Walter Appel and Michael K.-H. Kiessling","Mass and Spin Renormalization in Lorentz Electrodynamics","LaTeX, 70 pages, 2 eps figures, submitted; a small computational
+  blunder in Eq. (10.25)ff of earlier version has been corrected","Annals Phys. 289 (2001) 24-83","10.1006/aphy.2000.6119",,"math-ph gr-qc math.MP",,"  A new, relativistically covariant, massive Lorentz Electrodynamics (LED) is
+presented in which the bare particle has a finite positive bare rest mass and
+moment of inertia. The particle's electromagnetic self-interaction renormalizes
+its mass and spin. Most crucially, the renormalized particle is a soliton:
+after any scattering process its rest mass and spin magnitude are dynamically
+restored to their pre-scattering values. This guarantees that ``an electron
+remains an electron,'' poetically speaking. A renormalization flow study of the
+limit of vanishing bare rest mass is conducted for this model. This limit
+yields a purely electromagnetic classical field theory with ultra-violet cutoff
+at about the electron's Compton wavelength! The renormalized limit model
+matches the empirical electron data as orderly as one can hope for at the level
+of Lorentz theory. In particular, no superluminal equatorial gyration speeds
+occur.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 2000 22:25:17 GMT""},{""version"":""v2"",""created"":""Sun, 8 Oct 2000 21:19:03 GMT""}]","2009-10-31"
+"math/0009023","Wlodek Bryc","Wlodzimierz Bryc","Classical versions of q-Gaussian processes: conditional moments and
+  Bell's inequality","LaTeX, 12 pages. Minor corrections (marked at the begining of the
+  file) after print version","Comm. Math. Phys., 219 (2001), pp. 259-270","10.1007/s002200100401",,"math.QA math.OA math.PR",,"  We show that classical processes corresponding to operators what satisfy a
+q-commutative relation have linear regressions and quadratic conditional
+variances. From this we deduce that Bell's inequality for their covariances can
+be extended from q=-1 to the entire range -1<q<1.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 2000 22:36:16 GMT""},{""version"":""v2"",""created"":""Sun, 29 Feb 2004 21:15:51 GMT""}]","2009-10-31"
+"math/0009024","Yuri G. Zarhin","A. Silverberg, Yu. G. Zarhin","Symplectic representations of inertia groups","LaTeX2e, 7 pages",,,,"math.NT math.GR",,"  Suppose $\ell$ is a prime number, $\ell >3$, $K$ is a field that is an
+unramified finite extension of the field $\Q_\ell$ of $\ell$-adic numbers, and
+$G$ is a finite group that is a semi-direct product of a normal
+$\ell'$-subgroup $H$ and a cyclic $\ell$-group $L$. Suppose that the group
+algebra $K[H]$ is decomposable. If there exists an embedding of $G$ in the
+symplectic group $\Sp_{2d}(K)$ for some positive integer $d$, then there exists
+an embedding of $G$ in $\Sp_{2d}({\mathcal O}_K)$, where ${\mathcal O}_K$ is
+the ring of integers of $K$.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 2000 19:42:35 GMT""}]","2007-05-23"
+"math/0009025","Jim Bryan","Jim Bryan, Rahul Pandharipande","BPS states of curves in Calabi--Yau 3--folds","Published by Geometry and Topology at
+  http://www.maths.warwick.ac.uk/gt/GTVol5/paper9.abs.html Version 3 is GT
+  version 2 and has corrections to eq (2) on p 295, to 1st eq in Prop 2.1 and
+  the tables on p 395","Geom. Topol. 5 (2001) 287-318","10.2140/gt.2001.5.287",,"math.AG hep-th",,"  The Gopakumar-Vafa conjecture is defined and studied for the local geometry
+of a curve in a Calabi-Yau 3-fold. The integrality predicted in Gromov-Witten
+theory by the Gopakumar-Vafa BPS count is verified in a natural series of cases
+in this local geometry. The method involves Gromov-Witten computations, Mobius
+inversion, and a combinatorial analysis of the numbers of etale covers of a
+curve.
+","[{""version"":""v1"",""created"":""Sun, 3 Sep 2000 03:00:45 GMT""},{""version"":""v2"",""created"":""Wed, 11 Apr 2001 15:02:53 GMT""},{""version"":""v3"",""created"":""Wed, 12 Jun 2002 09:48:55 GMT""}]","2014-11-11"
+"nucl-th/0009003","Sen Cheng","Sen Cheng, Scott Pratt","Quantum corrections for pion correlations involving resonance decays","9 pages, 4 figures","Phys.Rev. C63 (2001) 054904","10.1103/PhysRevC.63.054904",,"nucl-th",,"  A method is presented to include quantum corrections into the calculation of
+two-pion correlations for the case where particles originate from resonance
+decays. The technique uses classical information regarding the space-time
+points at which resonances are created. By evaluating a simple thermal model,
+the method is compared to semiclassical techniques that assume exponential
+decaying resonances moving along classical trajectories. Significant
+improvements are noted when the resonance widths are broad as compared to the
+temperature.
+","[{""version"":""v1"",""created"":""Sat, 2 Sep 2000 19:18:13 GMT""},{""version"":""v2"",""created"":""Wed, 18 Apr 2001 18:57:02 GMT""}]","2009-11-06"
+"physics/0009008","Bin Wang","Bin Wang, Zu-guo Yu","One way to Characterize the compact structures of lattice protein model","10 pages, 5 figures","J. Chem. Phys. Vol. 112, P. 6084","10.1063/1.481180",,"physics.bio-ph cond-mat.soft cond-mat.stat-mech q-bio",,"  On the study of protein folding, our understanding about the protein
+structures is limited. In this paper we find one way to characterize the
+compact structures of lattice protein model. A quantity called Partnum is given
+to each compact structure. The Partnum is compared with the concept
+Designability of protein structures emerged recently. It is shown that the
+highly designable structures have, on average, an atypical number of local
+degree of freedom. The statistical property of Partnum and its dependence on
+sequence length is also studied.
+","[{""version"":""v1"",""created"":""Sun, 3 Sep 2000 02:46:24 GMT""}]","2009-11-06"
+"physics/0009009","Kalashnikov","V. L. Kalashnikov, D. O. Krimer, I. G. Poloyko","Soliton Generation and Picosecond Collapse in Solid-State Lasers with
+  Semiconductor Saturable Absorber","14 pages, 6 Postscript figures, TeX","Jour. Opt. Soc. Am. B 17 (2000) 519-523","10.1364/JOSAB.17.000519",,"physics.optics",,"  Based on self - consistent field theory we study a soliton generation in cw
+solid-state lasers with semiconductor saturable absorber. Various soliton
+destabilizations, i.e. the switch from femtosecond to picosecond generation
+(''picosecond collapse''), an automodulation regime, breakdown of soliton
+generation and hysteresis behavior, are predicted.
+","[{""version"":""v1"",""created"":""Sun, 3 Sep 2000 13:15:55 GMT""}]","2009-11-06"

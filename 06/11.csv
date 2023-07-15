@@ -1,0 +1,324 @@
+"astro-ph/0006150","Frazer N. Owen","F.N. Owen (NRAO), J.a Eilek (NM Tech), N.E. Kassim (NRL)","M87 at 90cm: A Different Picture","20 pages, 3 gif figures, accepted ApJ",,"10.1086/317151",,"astro-ph",,"  We report new radio imaging of the large scale radio structure of M87 with
+the VLA at 90 cm. These new images show the complex structure of the radio
+emission more clearly than previous attempts, some of which date back to the
+1940's. The images suggest that the outward flow from the M87 nucleus extends
+well beyond the 2 kpc jet. Two ``bubbles'' of synchrotron emission appear to be
+inflated by this flow. A simple model of the emission, combined with our
+knowledge of the inner jet, suggests that the energy input into this region
+from the M87 nucleus exceeds the energy being radiated away as X-rays. This
+argues that the region within 40 kpc of the center of M87 is currently
+dominated by energy input from the M87 nucleus. The gas in the region is
+expanding, not flowing inward as is envisioned in the cooling flow model.
+","[{""version"":""v1"",""created"":""Sat, 10 Jun 2000 17:59:03 GMT""}]","2009-10-31"
+"astro-ph/0006151","Andrzej A. Zdziarski","Andrzej A. Zdziarski, Juri Poutanen, W. Neil Johnson","Observations of Seyferts by OSSE and parameters of their X-ray/gamma-ray
+  sources","ApJ, 10 Nov. 2000, in press, 13 pages","Astrophys.J. 542 (2000) 703","10.1086/317046",,"astro-ph",,"  We present a summary of spectra of Seyfert galaxies observed by the OSSE
+detector aboard Compton Gamma Ray Observatory. We obtain average spectra of
+Seyferts of type 1 and 2, and find they are well fitted by thermal
+Comptonization. We present detailed parameter ranges for the plasma temperature
+and the Compton parameter in the case of spherical and slab geometries. We find
+both the average and individual OSSE spectra of Seyfert 2s are significantly
+harder than those of Seyfert 1s, which difference can be due to anisotropy of
+Compton reflection and/or Thomson-thick absorption.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 2000 08:57:01 GMT""}]","2009-10-31"
+"cond-mat/0006178","Armando A. Aligia","A.A. Aligia (Centro Atomico Bariloche, Argentina)","Metamagnetism in one dimensional systems with edge sharing CuO polihedra","2 pages, 1 figure, submitted to J. Magn. Magn. Mat. Contributed paper
+  for the International Conference on Magnetism (August 6-11, Recife, Brasil)",,,,"cond-mat.str-el",,"  We study a Heisenberg chain with nearest-neighbor (NN) J1 and next-NN J2
+exchange interactions with anisotropies Delta_1 and Delta_2 respectively. We
+investigate by analytical and numerical methods the region of parameters for
+which there is a jump in the magnetization M as a function of magnetic field B.
+Some materials with edge sharing CuO polihedra are candidates to show an abrupt
+change in M(B).
+","[{""version"":""v1"",""created"":""Sat, 10 Jun 2000 17:01:30 GMT""}]","2007-05-23"
+"cond-mat/0006179","Alexei Vazquez","Alexei Vazquez","Self-organization in populations of competing agents","RevTex, 4 pages, 1 ps fig",,"10.1103/PhysRevE.62.R4497",,"cond-mat.dis-nn cond-mat.stat-mech",,"  A population of heterogenous agents compeeting through a minority rule is
+investigated. Agents which frequently loose are selected for evolution by
+changing their strategies. The stationary composition of the population
+resulting for this self-organization process is computed analytically. Results
+are compared with numerical simulations of two different minority games and
+other analytical treatments available in the literature.
+","[{""version"":""v1"",""created"":""Sat, 10 Jun 2000 17:16:33 GMT""}]","2009-10-31"
+"cond-mat/0006182","Altaf Karim","Aiman Al-Omari","Spin-Peierls Dimerization of a s=1/2 Heisenberg Antiferromagnet on a
+  Square Lattice","12 pages, 7 Postscript figures, RevTex format",,"10.1143/JPSJ.69.3387",,"cond-mat.supr-con",,"  Dimerization of a spin-half Heisenberg antiferromagnet on a square lattice is
+investigated for several possible dimerized configurations, some of which are
+shown to have lower ground state energies than the others. In particular, the
+lattice deformations resulting in alternate stronger and weaker couplings along
+both the principal axes of a square lattice are shown to result in a larger
+gain in magnetic energy. In addition, a `columnar' configuration is shown to
+have a lower ground state energy and a faster increase in the energy gap
+parameter than a `staggered' configuration. The inclusion of unexpanded
+exchange coupling leads to a power law behaviour for the magnetic energy gain
+and energy gap, which is qualitatively different from that reported earlier.
+Instead of increasing as $\delta ^{x}$, the two quantities depend on $\delta $
+as $\delta ^{\nu}/| \ln \delta | .$ This is true both in the near critical
+regime $(0\leq \delta \leq 0.1)$ as well as in the far regime $(0\leq \delta
+<1)$. It is suggested that the unexpanded exchange coupling is as much a source
+of the logarithmic dependence as a correction due to the contribution of
+umklapp processes. Staggered magnetization is shown to follow the same $\delta
+$-dependence in all the configurations in the small $\delta $-regime, while for
+$0\leq \delta <1$, it follows the power law $\delta ^{x}$.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 2000 00:13:17 GMT""}]","2009-10-31"
+"cond-mat/0006183","Paul Maragakis","U. V. Waghmare, Hanchul Kim, I. J. Park, Normand Modine, P. Maragakis,
+  and Efthimios Kaxiras","HARES: an efficient method for first-principles electronic structure
+  calculations of complex systems","17 two-column pages, including 9 figures, 5 tables. To appear in
+  Computer Physics Communications. Several minor revisions based on feedback",,"10.1016/S0010-4655(01)00152-7",,"cond-mat.mtrl-sci",,"  We discuss our new implementation of the Real-space Electronic Structure
+method for studying the atomic and electronic structure of infinite periodic as
+well as finite systems, based on density functional theory. This improved
+version which we call HARES (for High-performance-fortran Adaptive grid
+Real-space Electronic Structure) aims at making the method widely applicable
+and efficient, using high performance Fortran on parallel architectures. The
+scaling of various parts of a HARES calculation is analyzed and compared to
+that of plane-wave based methods. The new developments that lead to enhanced
+performance, and their parallel implementation, are presented in detail. We
+illustrate the application of HARES to the study of elemental crystalline
+solids, molecules and complex crystalline materials, such as blue bronze and
+zeolites.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 2000 03:44:44 GMT""},{""version"":""v2"",""created"":""Fri, 22 Dec 2000 17:02:13 GMT""}]","2009-10-31"
+"cond-mat/0006184","Eugene Kogan","Mark Auslender and Eugene Kogan","CPA density of states and conductivity in a double-exchange system
+  containing impurities","5 pages, 2 eps figures, LaTex2e, EPJ macro package (style files
+  included). The calculations done for realistic model predict that a gap
+  appears between the conduction band and the impurity band in paramagnetic
+  phase, while the density of states is gapless in ferromagnetic phase",,"10.1007/s100510170298",,"cond-mat",,"  We study density of states and conductivity of the doped double-exchange
+system, treating interaction of charge carriers both with the localized spins
+and with the impurities in the coherent potential approximation. It is shown
+that under appropriate conditions there is a gap between the conduction band
+and the impurity band in paramagnetic phase, while the density of states is
+gapless in ferromagnetic phase. This can explain metal-insulator transition
+frequently observed in manganites and magnetic semiconductors. Activated
+conductivity in the insulator phase is numerically calculated.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 2000 09:41:59 GMT""},{""version"":""v2"",""created"":""Fri, 5 Jan 2001 06:27:22 GMT""}]","2009-10-31"
+"cond-mat/0006185","Masato Matsuura","M. Matsuura, H. Hiraka, K. Yamada and Y. Endoh","Magnetic Phase Diagram and Metal-Insulator Transition of NiS2-xSex","6 pages, 8 figures, corrected EPS file","J. Phys. Soc. Japan 69 (2000) 1503-1508","10.1143/JPSJ.69.1503",,"cond-mat.str-el",,"  Magnetic phase diagram of NiS2-xSex has been reexamined by systematic studies
+of electrical resistivity, uniform magnetic susceptibility and neutron
+diffraction using single crystals grown by a chemical transport method. The
+electrical resistivity and the uniform magnetic susceptibility exhibit the same
+feature of temperature dependence over a wide Se concentration. A distinct
+first order metal-insulator (M-I) transition accompanied by a volume change was
+observed only in the antiferromagnetic ordered phase for 0.50<x<0.59. In this
+region, the M-I transition makes substantial effects to the thermal evolution
+of staggered moments. In the paramagnetic phase, the M-I transition becomes
+broad; both the electrical resistivity and the uniform magnetic susceptibility
+exhibit a broad maximum around the temperatures on the M-I transition-line
+extrapolated to the paramagnetic phase.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 2000 14:45:11 GMT""},{""version"":""v2"",""created"":""Fri, 16 Jun 2000 13:22:17 GMT""}]","2009-10-31"
+"cond-mat/0006186","Mike Zhitomirsky","M. E. Zhitomirsky, T. M. Rice and V. I. Anisimov","Comment on ""Electronic fine structure in the electron-hole plasma of
+  SrB6""","1 page, 1 figure",,,,"cond-mat.str-el",,"  In this comment we point out several misleading conclusions reached by
+Rodriguez et al. [PRL 84, 3903 (2000) and cond-mat/0003201] about the details
+of the band structure in SrB_6 and their role in interpreting the
+high-temperature weak ferromagnetism, which develops in this material upon
+doping.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 2000 15:44:43 GMT""}]","2007-05-23"
+"cs/0006022","Ahmed Helmy","Ahmed Helmy (University of Southern California)","Multicast-based Architecture for IP Mobility: Simulation Analysis and
+  Comparison with Basic Mobile IP","14 pages, 14 pages (.pdf file)",,,,"cs.NI cs.PF",,"  With the introduction of a newer generation of wireless devices and
+technologies, the need for an efficient architecture for IP mobility is
+becoming more apparent. Several architectures have been proposed to support IP
+mobility. Most studies, however, show that current architectures, in general,
+fall short from satisfying the performance requirements for wireless
+applications, mainly audio. Other studies have shown performance improvement by
+using multicast to reduce latency and packet loss during handoff. In this
+study, we propose a multicast-based architecture to support IP mobility. We
+evaluate our approach through simulation, and we compare it to mainstream
+approaches for IP mobility, mainly, the Mobile IP protocol. Comparison is
+performed according to the required performance criteria, such as smooth
+handoff and efficient routing.
+  Our simulation results show significant improvement for the proposed
+architecture. On average, basic Mobile IP consumes almost twice as much network
+bandwidth, and experiences more than twice as much end-to-end and handoff
+delays, as does our proposed architecture. Furthermore, we propose an extension
+to Mobile IP to support our architecture with minimal modification.
+","[{""version"":""v1"",""created"":""Sat, 10 Jun 2000 23:53:12 GMT""}]","2007-05-23"
+"cs/0006023","Andreas Stolcke","A. Stolcke, K. Ries, N. Coccaro, E. Shriberg, R. Bates, D. Jurafsky,
+  P. Taylor, R. Martin, C. Van Ess-Dykema, M. Meteer","Dialogue Act Modeling for Automatic Tagging and Recognition of
+  Conversational Speech","35 pages, 5 figures. Changes in copy editing (note title spelling
+  changed)","Computational Linguistics 26(3), 339-373, September 2000","10.1162/089120100561737",,"cs.CL",,"  We describe a statistical approach for modeling dialogue acts in
+conversational speech, i.e., speech-act-like units such as Statement, Question,
+Backchannel, Agreement, Disagreement, and Apology. Our model detects and
+predicts dialogue acts based on lexical, collocational, and prosodic cues, as
+well as on the discourse coherence of the dialogue act sequence. The dialogue
+model is based on treating the discourse structure of a conversation as a
+hidden Markov model and the individual dialogue acts as observations emanating
+from the model states. Constraints on the likely sequence of dialogue acts are
+modeled via a dialogue act n-gram. The statistical dialogue grammar is combined
+with word n-grams, decision trees, and neural networks modeling the
+idiosyncratic lexical and prosodic manifestations of each dialogue act. We
+develop a probabilistic integration of speech recognition with dialogue
+modeling, to improve both speech recognition and dialogue act classification
+accuracy. Models are trained and evaluated using a large hand-labeled database
+of 1,155 conversations from the Switchboard corpus of spontaneous
+human-to-human telephone speech. We achieved good dialogue act labeling
+accuracy (65% based on errorful, automatically recognized words and prosody,
+and 71% based on word transcripts, compared to a chance baseline accuracy of
+35% and human accuracy of 84%) and a small reduction in word recognition error.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 2000 06:06:10 GMT""},{""version"":""v2"",""created"":""Thu, 26 Oct 2000 07:56:03 GMT""}]","2022-02-28"
+"cs/0006024","Andreas Stolcke","E. Shriberg, R. Bates, A. Stolcke, P. Taylor, D. Jurafsky, K. Ries, N.
+  Coccaro, R. Martin, M. Meteer, C. Van Ess-Dykema","Can Prosody Aid the Automatic Classification of Dialog Acts in
+  Conversational Speech?","55 pages, 10 figures","Language and Speech 41(3-4), 439-487, 1998",,,"cs.CL",,"  Identifying whether an utterance is a statement, question, greeting, and so
+forth is integral to effective automatic understanding of natural dialog.
+Little is known, however, about how such dialog acts (DAs) can be automatically
+classified in truly natural conversation. This study asks whether current
+approaches, which use mainly word information, could be improved by adding
+prosodic information. The study is based on more than 1000 conversations from
+the Switchboard corpus. DAs were hand-annotated, and prosodic features
+(duration, pause, F0, energy, and speaking rate) were automatically extracted
+for each DA. In training, decision trees based on these features were inferred;
+trees were then applied to unseen test data to evaluate performance.
+Performance was evaluated for prosody models alone, and after combining the
+prosody models with word information -- either from true words or from the
+output of an automatic speech recognizer. For an overall classification task,
+as well as three subtasks, prosody made significant contributions to
+classification. Feature-specific analyses further revealed that although
+canonical features (such as F0 for questions) were important, less obvious
+features could compensate if canonical features were removed. Finally, in each
+task, integrating the prosodic model with a DA-specific statistical language
+model improved performance over that of the language model alone, especially
+for the case of recognized words. Results suggest that DAs are redundantly
+marked in natural conversation, and that a variety of automatically extractable
+prosodic features could aid dialog processing in speech applications.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 2000 06:00:11 GMT""}]","2007-05-23"
+"hep-ph/0006103","Alexander Dolgov","A.D. Dolgov","Restrictions on neutrino oscillations from BBN. Non-resonant case","10 pages; latex","Phys.Lett. B506 (2001) 7-12","10.1016/S0370-2693(01)00402-6",,"hep-ph",,"  New nucleosynthesis bounds on the oscillation parameters of active neutrinos
+mixed with a sterile one are derived for the non-resonant case. The controversy
+in the literature whether to use the annihilation rate or the total reaction
+rate for the estimates of sterile neutrino production is resolved in favor of
+the annihilation rate. In contrast to previous papers, the restrictions on
+oscillations of electronic neutrinos are weaker than those of muonic and
+tauonic ones.
+","[{""version"":""v1"",""created"":""Sat, 10 Jun 2000 16:19:26 GMT""}]","2009-10-31"
+"hep-ph/0006104","Kiselev Valery V.","V.V.Kiselev, A.E.Kovalsky, A.K.Likhoded","Decays and Lifetime of B_c in QCD Sum Rules","7 pages, JHEP class, 5 eps-figures, Talk given at the Vth
+  International Workshop ""HEAVY QUARK PHYSICS"" April 6-8, 2000, Dubna, Russia",,,,"hep-ph",,"  In the framework of three-point QCD sum rules, the form factors for the
+semileptonic decays of B_c^+ -> B_s(B_s^*) l \nu are calculated with account
+for the Coulomb-like alpha_s/v-corrections in the heavy quarkonium. The
+generalized relations due to the spin symmetry of HQET/NRQCD for the form
+factors are derived at the recoil momentum close to zero. The nonleptonic
+decays are studied using the assumption on the factorization. The B_c meson
+lifetime is estimated by summing up the dominating exclusive modes in the c ->
+s transition combining the current calculations with the previous analysis of b
+-> c decays in the sum rules of QCD and NRQCD.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 2000 07:19:45 GMT""}]","2007-05-23"
+"hep-ph/0006105","Deog Ki Hong","Deog Ki Hong","Radiative mass in QCD at high density","8 pages, 2 figures. One reference and a footnote added. To appear in
+  Phys. Rev. D. Rapid. Comm","Phys.Rev.D62:091501,2000","10.1103/PhysRevD.62.091501",,"hep-ph",,"  We show that radiatively generated Majorana mass for antiquarks is same as
+the Cooper-pair gap. We then calculate the electromagnetic corrections to mass
+of particles in the color-flavor locking phase of QCD at high density. The mass
+spectrum forms multiplets under $SU(2)_V\times U(1)_V$. The charged pions and
+kaons get the electromagnetic mass which is proportional to the Cooper-pair
+gap.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 2000 10:42:14 GMT""},{""version"":""v2"",""created"":""Mon, 11 Sep 2000 06:49:00 GMT""}]","2009-12-30"
+"hep-th/0006074","Constantin Rasinariu","Ovidiu Lipan and Constantin Rasinariu","Baxter T-Q Equation for Shape Invariant Potentials. The Finite-Gap
+  Potentials Case","25 pages, no figures Extended section 10, one reference added.
+  Version accepted for publication in Jurnal of Mathematical Physics","J.Math.Phys. 43 (2002) 847-865","10.1063/1.1426689",,"hep-th math-ph math.MP nlin.SI",,"  The Darboux transformation applied recurrently on a Schroedinger operator
+generates what is called a {\em dressing chain}, or from a different point of
+view, a set of supersymmetric shape invariant potentials. The finite-gap
+potential theory is a special case of the chain. For the finite-gap case, the
+equations of the chain can be expressed as a time evolution of a Hamiltonian
+system. We apply Sklyanin's method of separation of variables to the chain. We
+show that the classical equation of the separation of variables is the Baxter
+T-Q relation after quantization.
+","[{""version"":""v1"",""created"":""Sat, 10 Jun 2000 21:36:17 GMT""},{""version"":""v2"",""created"":""Tue, 16 Oct 2001 03:14:22 GMT""}]","2009-10-31"
+"hep-th/0006075","Zhou Bang Rong","Bang-Rong Zhou (Graduate School, Academia Sinica, Beijing, China)","Propagators for scalar bound states at finite temperature in a NJL model","8 pages, Latex, no figues, the main conclusions are corrected:
+  identity of the propagators in the two formalisms of thermal field theory are
+  proven","Commun.Theor.Phys.37:303-308,2002",,"AS-GS-TP-004(2000)","hep-th",,"  We reexamine physical causal propagators for scalar and pseudoscalar bound
+states at finite temperature in a chiral $U_L(1)\times U_R(1)$ NJL model,
+defined by four-point amputated functions subtracted through the gap equation,
+and prove that they are completely equivalent in the imaginary-time and
+real-time formalism by separating carefully the imaginary part of the
+zero-temperature loop integral. It is shown that the thermal transformation
+matrix of the matrix propagators for these bound states in the real-time
+formalism is precisely the one of the matrix propagator for an elementary
+scalar particle and this fact shows similarity of thermodynamic property
+between a composite and an elementary scalar particle. The retarded and
+advanced propagators for these bound states are also given explicitly from the
+imaginary-time formalism.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 2000 09:23:12 GMT""},{""version"":""v2"",""created"":""Mon, 3 Sep 2001 10:33:30 GMT""}]","2008-11-26"
+"math-ph/0006010","Vassil M. Vassilev","Vassil M. Vassilev and Peter A. Djondjorov (Institute of Mechanics,
+  Bulgarian Academy of Sciences)","Application of Lie Transformation Group Methods to Classical Theories of
+  Plates and Rods","21 pages, Submitted to Int. J. of Solids and Structures",,,,"math-ph math.AP math.MP",,"  In the present paper, a class of partial differential equations related to
+various plate and rod problems is studied by Lie transformation group methods.
+A system of equations determining the generators of the admitted point Lie
+groups (symmetries) is derived. A general statement of the associated
+group-classification problem is given. A simple intrinsic relation is deduced
+allowing to recognize easily the variational symmetries among the ''ordinary''
+symmetries of a self-adjoint equation of the class examined. Explicit formulae
+for the conserved currents of the corresponding (via Noether's theorem)
+conservation laws are suggested. Solutions of group-classification problems are
+presented for subclasses of equations of the foregoing type governing stability
+and vibration of plates, rods and fluid conveying pipes resting on variable
+elastic foundations and compressed by axial forces. The obtained
+group-classification results are used to derive conservation laws and
+group-invariant solutions readily applicable in plate statics or rod dynamics.
+","[{""version"":""v1"",""created"":""Sat, 10 Jun 2000 23:06:23 GMT""}]","2007-05-23"
+"math/0006078","Dmitri Nikshych","Dmitri Nikshych, Vladimir Turaev and Leonid Vainerman","Invariants of Knots and 3-manifolds from Quantum Groupoids","30 pages, amslatex",,,,"math.QA",,"  We use categories of representations of finite dimensional quantum groupoids
+(weak Hopf algebras) to construct ribbon and modular categories that give rise
+to invariants of knots and 3-manifolds.
+","[{""version"":""v1"",""created"":""Sat, 10 Jun 2000 17:14:18 GMT""}]","2007-05-23"
+"math/0006079","Adonai S. Sant'Anna","N. C. A. da Costa and F. A. Doria","On the consistency of $P=NP$ with fragments of ZFC whose own consistency
+  strength can be measured by an ordinal assignment","LaTeX, 19 pages, no figures",,,,"math.LO",,"  We formulate the $P<NP$ hypothesis in the case of the satisfiability problem
+as a $\Pi ^0_2$ sentence, out of which we can construct a partial recursive
+function $f_{\neg A}$ so that $f_{\neg A}$ is total if and only if $P < NP$. We
+then show that if $f_{\neg A}$ is total, then it isn't ${\cal T}$--provably
+total (where ${\cal T}$ is a fragment of ZFC that adequately extends PA and
+whose consistency is of ordinal order). Follows that the negation of $P < NP$,
+that is, $P = NP$, is consistent with those ${\cal T}$.
+","[{""version"":""v1"",""created"":""Sat, 10 Jun 2000 20:09:11 GMT""}]","2007-05-23"
+"math/0006080","Fumiharu Kato","Fumiharu Kato","Graph Theoretic Construction of Discrete Groups over p-adic Fields","14 pages, 2 figures",,,,"math.AG",,"  This paper is originally designed as a part of revision of the author's
+preprint math.AG/9908174 ""P-adic Schwarzian triangle groups of Mumford type"".
+Recently, Yves Andr'e pointed out a flaw in that preprint; more precisely,
+Proposition II there was not correct, and consequently, as he pointed out, some
+triangle groups are missing (but only in p=2,3,5). I apologize to the readers,
+and will release the other part soon by the original title. In this paper, we
+concentrate on the constructive part, but more systematically and in more
+general situation. More precisely, this paper presents a complete criterion for
+an abstract tree of groups to be realized in the context of p-adic
+uniformization. This criterion provides a practical way of constructing
+finitely generated discrete subgroups in PGL(2,K) over a p-adic field K. In the
+end of this paper, we will exhibit concrete examples of such construction,
+which in particular shows that there exist infinitely many triangle groups.
+","[{""version"":""v1"",""created"":""Sat, 10 Jun 2000 20:10:43 GMT""},{""version"":""v2"",""created"":""Sun, 25 Jun 2000 00:38:01 GMT""}]","2007-05-23"
+"math/0006081","Vladimir Uspenskij","Vladimir Uspenskij","On universal minimal compact G-spaces","5 pages","Topology Proceedings 25 (2000), 301--308",,,"math.GN math.DS",,"  For every topological group G one can define the universal minimal compact
+G-space X=M_G characterized by the following properties: (1) X has no proper
+closed G-invariant subsets; (2) for every compact G-space Y there exists a
+G-map X-->Y. If G is the group of all orientation-preserving homeomorphisms of
+the circle S^1, then M_G can be identified with S^1 (V. Pestov). We show that
+the circle cannot be replaced by the Hilbert cube or a compact manifold of
+dimension >1. This answers a question of V. Pestov. Moreover, we prove that for
+every topological group G the action of G on M_G is not 3-transitive.
+","[{""version"":""v1"",""created"":""Sat, 10 Jun 2000 23:52:04 GMT""}]","2021-08-27"
+"math/0006082","Lucio Guerra","Lucio Guerra","Siegel coordinates and moduli spaces for morphisms of abelian varieties","21 pages, Latex; reformatted",,,,"math.AG",,"  We describe the moduli spaces of morphisms between polarized complex abelian
+varieties. The discrete invariants, derived from a Poincare' decomposition of
+morphisms, are the types of polarizations and of lattice homomorphisms
+occurring in the decomposition. For a given type of morphisms the moduli
+variety is irreducible, and is obtained from a product of Siegel spaces modulo
+the action of a discrete group.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 2000 10:19:27 GMT""},{""version"":""v2"",""created"":""Sat, 6 Sep 2003 14:52:42 GMT""}]","2007-05-23"
+"nlin/0006015","Boris Malomed","Osamu Inomoto and Shoichi Kai (Dept. of Applied Physics, Kyushu
+  University, Fukuoka, Japan) and Boris Malomed (Dept. of Interdisciplinary
+  Studies, Faculty of Engineering, Tel Aviv University, Tel Aviv, Israel)","Nonsteady condensation and evaporation waves","revtex text file and four eps files with figures. Physical Review
+  Letters, in press",,"10.1103/PhysRevLett.85.310",,"nlin.PS",,"  We study motion of a phase transition front at a constant temperature between
+stable and metastable states in fluids with the universal Van der Waals
+equation of state (which is valid sufficiently close to the fluid's critical
+point). We focus on a case of relatively large metastability and low viscosity,
+when it can be shown analytically that no steadily moving phase-transition
+front exists. Numerically simulating a system of the one-dimensional
+Navier-Stokes and continuity equations, we find that, in this case, the
+nonsteady phase-transition front emits acoustic shocks in forward and backward
+directions. Through this mechanism, the front drops its velocity and eventually
+comes to a halt. The acoustic shock wave may shuttle, bouncing elastically from
+the system's edge and strongly inelastically from the phase transition front.
+Nonsteady rarefaction shock waves appear in the shuttle process, despite the
+fact that the model does not admit steady rarefaction waves propagating between
+stationary states. If the viscosity is below a certain threshold, an
+instability sets in, driving the system into a turbulent state. This work was
+supported by the Japan Society for Promotion of Science.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 2000 11:43:05 GMT""}]","2009-10-31"
+"nucl-ex/0006006",,"M. Fujiwara (1,2), H. Akimune (3), A.M. van den Berg (4), M. Cribier
+  (5), I. Daito(6), H. Ejiri(1), H. Fujimura(1), Y. Fujita(6), C.D. Goodman(8),
+  K. Hara(1), M.N. Harakeh(4), F. Ihara(1), T. Ishikawa(9), J. Janecke(10), T.
+  Kawabata(9), R.S. Raghavan(11), K. Schwarz(1), M. Tanaka(12), T. Yamanaka(1),
+  M. Yosoi(1) and R.G.T. Zegers(2,4) ((1)RCNP, (2)ASRC, (3) Konan University,
+  (4)KVI, (5)CEA/Saclay, (6)Nagoya University, (7)Osaka University, (8)IUCF,
+  (9)Kyoto University, (10)University of Michigan, (11)Bell Laboratories,
+  (12)Kobe Tokiwa Jr. College)","Gamow-Teller Strengths of the Inverse-Beta Transition 176Yb --> 176Lu
+  for Spectroscopy of Proton-Proton and other sub-MeV Solar Neutrinos",,"Phys.Rev.Lett.85:4442-4445,2000","10.1103/PhysRevLett.85.4442",,"nucl-ex",,"  Discrete Gamow-Teller (GT) transitions, 176Yb-->176Lu at low excitation
+energies have been measured via the (3He,t) reaction at 450 MeV and at 0
+degrees. For 176Yb, two low-lying states are observed, setting low thresholds
+Q(neutrino)=301 and 445 keV for neutrino capture. Capture rates estimated from
+the measured GT strengths, the simple two-state excitation structure, and the
+low Q(neutrino) in Yb--Lu indicate that Yb-based neutrino-detectors are well
+suited for a direct measurement of the complete sub-MeV solar electron-neutrino
+spectrum (including pp neutrinos) where definitive effects of flavor conversion
+are expected.
+","[{""version"":""v1"",""created"":""Sun, 11 Jun 2000 11:40:23 GMT""}]","2011-03-23"

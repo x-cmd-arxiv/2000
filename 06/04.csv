@@ -1,0 +1,301 @@
+"astro-ph/0006047","Valentin Dimitrov Ivanov","Valentin D. Ivanov, Mario Hamuy, Philip A. Pinto","On the Relation Between Peak Luminosity and Parent Population of Type Ia
+  Supernovae: A New Tool for Probing the Ages of Distant Galaxies","19 pages, incl. 3 tables & 3 figures; to appear in Nov 2000 issue of
+  ApJ",,"10.1086/317060",,"astro-ph",,"  We study the properties of Type Ia Supernovae (SNe Ia) as functions of the
+radial distance from their host galaxy centers. Using a sample of 62 SNe Ia
+with reliable luminosity, reddening, and decline rate determinations, we find
+no significant radial gradients of SNe Ia peak absolute magnitudes or decline
+rates in elliptical+S0 galaxies, suggesting that the diversity of SN properties
+is not related to the metallicity of their progenitors. We do find that the
+range in brightness and light curve width of supernovae in spiral galaxies
+extends to brighter, broader values. These results are interpreted as support
+for an age, but not metallicity, related origin of the diversity in SNe Ia. If
+confirmed with a larger and more accurate sample of data, the age-luminosity
+relation would offer a new and powerful tool to probe the ages and age
+gradients of stellar populations in galaxies at redshift as high as $z\sim1-2$.
+The absence of significant radial gradients in the peak $\rm (B-V)_0$ and $\rm
+(V-I)_0$ colors of SNe Ia supports the redding correction method of Phillips et
+al (1999). We find no radial gradient in residuals from the SN Ia
+luminosity-width relation, suggesting that the relation is not affected by
+properties of the progenitor populations and supporting the reliability of
+cosmological results based upon the use of SNe Ia as distance indicators.
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 2000 20:16:07 GMT""}]","2009-10-31"
+"astro-ph/0006050","Elena Barsukova","S.N. Fabrika, G.G. Valyavin, T.E. Burlakova, E.A. Barsukova, D.N.
+  Monin","Magnetic field measurements in white dwarfs. Magnetic field, rotation
+  and spectrum of 40 Eri B","11 pages, 12 figures, ""Magnetic fields of chemically peculiar and
+  related stars"", eds. Yu. V. Glagolevskij and I.I. Romanyuk, Proceed. of
+  Intern. Meeting, Moscow, 2000 (in press), p.219",,,,"astro-ph",,"  This paper describes results of magnetic field measurements of white dwarfs
+carried out on the 6-m telescope for the last years. A magnetic field of about
+Be ~ 28 kG has been discovered in the degenerate star WD 1953-011.
+  A rotational period of WD 0009+501, 1.83 hours, has been discovered, the
+average magnetic field of the star is <Be> = -42.3 +/- 5.4 kG and its
+semi-amplitude of the rotational variability is 32.0 +/- 6.8 kG. The variable
+magnetic field of the bright normal (non-magnetic) degenerate star 40 Eridani B
+was confirmed in January 1999 by Zeeman time-resolved spectroscopy. Both the
+Halpha and the Hbeta lines give about the same results, we have selected two
+best periods in the magnetic field variability, 2h25m and 5h17m. The
+semi-amplitude of the rotational variations B_ max ~ 4000-5000 G and the
+average field is about zero +/- 500 G. If the magnetic field of 40 Eridani B is
+a central dipole, then the rotational axis inclination to the line of sight is
+i ~ 90 DEG, and the magnetic axis inclination to the rotational axis is about
+the same, beta ~ 90 DEG. For the first time an ultra-high signal-to-noise
+spectrum of the white dwarf has been obtained (S/N > 1000). We have found in
+this hydrogen-rich DA white dwarf 40 Eridani B (16500 K) that helium abundance
+is low (N(He)/N(H) < 10^{-7}), but the spectrum is rich in ultra-weak
+absorption lines of metals in low ionization states. It was proposed that these
+lines were produced in both circumstellar and interstellar gas.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 2000 13:36:57 GMT""}]","2007-05-23"
+"astro-ph/0006051","Heon-Young Chang","Heon-Young Chang and Insu Yi (Korea Institute For Advanced Study)","Power Density Spectra of Gamma-Ray Burst Light Curves: Implications on
+  Theory and Observation","Accepted for publication in ApJL (2001, vol 542, L17)",,"10.1086/312915",,"astro-ph",,"  We study the power density spectrum (PDS) of artificial light curves of
+observed gamma-ray bursts (GRBs). We investigate statistical properties of GRB
+light curves by comparing the reported characteristics in the PDSs of the
+observed GRBs with those that we model, and discuss implications on
+interpretations of the PDS analysis results. Results of PDS analysis of
+observed GRBs suggest that the averaged PDS of GRBs follows a power law over
+about two decades of frequency with the power law index, -5/3, and the
+distribution of individual power follows an exponential distribution. Though an
+attempt to identify the most sensitive physical parameter has been made on the
+basis of the internal shock model, we demonstrate that conclusions of this kind
+of approach should be derived with due care. It is indicative that the physical
+information extracted from the slope can be misleading. We show that the
+reported slope and the distribution can be reproduced by adjusting the sampling
+interval in the time domain for a given decaying timescale of individual pulse
+in a specific form of GRB light curves. In particular, given that the temporal
+feature is modeled by a two-sided exponential function, the power law behavior
+with the index of -5/3 and the exponential distribution of the observed PDS is
+recovered at the 64 ms trigger time scale when the decaying timescale of
+individual pulse is $\sim 1$ second, provided that the pulse sharply rises.
+Another way of using the PDS analysis is an application of the same method to
+individual long bursts in order to examine a possible evolution of the decaying
+timescale in a single burst.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 2000 13:01:37 GMT""},{""version"":""v2"",""created"":""Tue, 2 Jan 2001 04:50:13 GMT""}]","2009-10-31"
+"cond-mat/0006048","Stefan Scheidl","Stefan Scheidl and Yusuf Dincer (U Cologne)","Interface fluctuations in disordered systems: Universality and
+  non-Gaussian statistics","11 pages, Latex, with 2 EPS figures",,,,"cond-mat.dis-nn cond-mat.stat-mech",,"  We employ a functional renormalization group to study interfaces in the
+presence of a pinning potential in $d=4-\epsilon$ dimensions. In contrast to a
+previous approach [D.S. Fisher, Phys. Rev. Lett. {\bf 56}, 1964 (1986)] we use
+a soft-cutoff scheme. With the method developed here we confirm the value of
+the roughness exponent $\zeta \approx 0.2083 \epsilon$ in order $\epsilon$.
+Going beyond previous work, we demonstrate that this exponent is universal. In
+addition, we analyze the generation of higher cumulants in the disorder
+distribution and the role of temperature as a dangerously irrelevant variable.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 2000 13:36:43 GMT""}]","2007-05-23"
+"cond-mat/0006050","Victor M. Yakovenko","K. Sengupta, Hyok-Jon Kwon, and Victor M. Yakovenko","Edge electron states for quasi-one-dimensional organic conductors in the
+  magnetic-field-induced spin-density-wave phases","4 pages, 2 figures. V.2: Minor changes to the final version published
+  in PRL","Phys. Rev. Lett. 86, 1094 (2001)","10.1103/PhysRevLett.86.1094",,"cond-mat.mes-hall",,"  We develop a microscopic picture of the electron states localized at the
+edges perpendicular to the chains in the Bechgaard salts in the quantum Hall
+regime. In a magnetic-field-induced spin-density-wave state (FISDW)
+characterized by an integer N, there exist N branches of chiral gapless edge
+excitations. Localization length is much longer and velocity much lower for
+these states than for the edge states parallel to the chains. We calculate the
+contribution of these states to the specific heat and propose a time-of-flight
+experiment to probe the propagating edge modes directly.
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 2000 20:39:25 GMT""},{""version"":""v2"",""created"":""Thu, 1 Mar 2001 01:14:26 GMT""}]","2007-05-23"
+"cond-mat/0006051","Markus Porto","Markus Porto, Michael Urbakh, and Joseph Klafter","Molecular motor that never steps backwards","4 pages, 5 figures, Phys. Rev. Lett. (in print)","Phys. Rev. Lett. 85, 491 (2000)","10.1103/PhysRevLett.85.491",,"cond-mat",,"  We investigate the dynamics of a classical particle in a one-dimensional
+two-wave potential composed of two periodic potentials, that are
+time-independent and of the same amplitude and periodicity. One of the periodic
+potentials is externally driven and performs a translational motion with
+respect to the other. It is shown that if one of the potentials is of the
+ratchet type, translation of the potential in a given direction leads to motion
+of the particle in the same direction, whereas translation in the opposite
+direction leaves the particle localized at its original location. Moreover,
+even if the translation is random, but still has a finite velocity, an
+efficient directed transport of the particle occurs.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 2000 09:32:40 GMT""}]","2009-10-31"
+"cond-mat/0006052","Markus Porto","Markus Porto, Michael Urbakh, and Joseph Klafter","Atomic scale engines: Cars and wheels","4 pages, 3 figures (2 in color), Phys. Rev. Lett. (in print)","Phys. Rev. Lett. 84, 6058 (2000)","10.1103/PhysRevLett.84.6058",,"cond-mat",,"  We introduce a new approach to build microscopic engines on the atomic scale
+that move translationally or rotationally and can perform useful functions such
+as pulling of a cargo. Characteristic of these engines is the possibility to
+determine dynamically the directionality of the motion. The approach is based
+on the transformation of the fed energy to directed motion through a dynamical
+competition between the intrinsic lengths of the moving object and the
+supporting carrier.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 2000 09:56:17 GMT""}]","2009-10-31"
+"cond-mat/0006053","Sumiyoshi Abe","Sumiyoshi Abe (College of Science and Technology, Nihon University,
+  Funabashi, Chiba, Japan)","A problem with the escort distribution representation of nonextensive
+  statistical mechanics","8 pages, 1 figure",,"10.1016/S0375-9601(00)00582-X",,"cond-mat.stat-mech",,"  It is pointed out that the Tsallis entropy functional represented in terms of
+the escort distribution is not concave of the entropic index $q$ is less than
+unity. It is emphasized that the escort distribution is a secondary object
+calculated from the basic original distribution.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 2000 14:56:47 GMT""}]","2009-10-31"
+"gr-qc/0006013","Nuno Barros e Sa'","Nuno Barros e Sa","Hamiltonian analysis of General relativity with the Immirzi parameter","8 pages, revtex, no figures","Int.J.Mod.Phys. D10 (2001) 261-272","10.1142/S0218271801000858",,"gr-qc",,"  Starting from a Lagrangian we perform the full constraint analysis of the
+Hamiltonian for General relativity in the tetrad-connection formulation for an
+arbitrary value of the Immirzi parameter and solve the second class
+constraints, presenting the theory with a Hamiltonian composed of first class
+constraints which are the generators of the gauge symmetries of the action. In
+the time gauge we then recover Barbero's formulation of gravity.
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 2000 16:04:30 GMT""}]","2009-10-31"
+"gr-qc/0006014","Kirill Bronnikov","Kirill A. Bronnikov (VNIIMS, Moscow; PFUR, Moscow)","Regular Magnetic Black Holes and Monopoles from Nonlinear
+  Electrodynamics","6 pages, Latex2e. One more theorem, some comments and two references
+  have been added. Final journal version","Phys.Rev.D63:044005,2001","10.1103/PhysRevD.63.044005",,"gr-qc",,"  It is shown that general relativity coupled to nonlinear electrodynamics
+(NED) with the Lagrangian $L(F)$, $F = F_mn F^mn$ having a correct weak field
+limit, leads to nontrivial static, spherically symmetric solutions with a
+globally regular metric if and only if the electric charge is zero and $L(F)$
+tends to a finite limit as $F \to \infty$. Properties and examples of such
+solutions, which include magnetic black holes and soliton-like objects
+(monopoles), are discussed. Magnetic solutions are compared with their electric
+counterparts. A duality between solutions of different theories specified in
+two alternative formulations of NED (called $FP$ duality) is used as a tool for
+this comparison.
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 2000 21:50:09 GMT""},{""version"":""v2"",""created"":""Tue, 23 Jan 2001 21:14:30 GMT""}]","2010-11-19"
+"gr-qc/0006015","Garcia","L.C.Garcia de Andrade","Extended Thermodynamics to Einstein-Cartan Cosmology","Latex file",,,,"gr-qc",,"  The thermodynamics is extented to spacetimes with spin-torsion
+density.Impplications to Einstein-Cartan-de Sitter inflationary phases are
+discussed.A relation between the spin-torsion density,entropy and temperature
+is presented.A lower limit for the radius of the Universe may be obtained from
+the spin-torsion density and the Planck lenght.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 2000 01:02:18 GMT""}]","2007-05-23"
+"hep-ph/0006036","Anna Rossi","Andrea Brignole and Anna Rossi","Flavour non-conservation in goldstino interactions","22 LaTeX pages, 2 ps figures, uses epsfig and axodraw; typos
+  corrected, to appear in Nucl. Phys. B","Nucl.Phys. B587 (2000) 3-24","10.1016/S0550-3213(00)00458-2","DFPD-00/TH/28","hep-ph",,"  We point out that the interactions of goldstinos with matter supermultiplets
+are a potential source of flavour violation, if fermion and sfermion mass
+matrices are not aligned and supersymmetry is spontaneously broken at a low
+scale. We study the impact of those couplings on low-energy processes such as
+\mu \to e \gamma, \mu \to eee, K \to \mu^+ \mu^-, K-\ov{K} transitions and
+analogous ones. Moreover, we address the issue of flavour violation in
+low-energy processes involving two goldstinos and two matter fermions,
+generalizing earlier results obtained in the flavour-conserving case.
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 2000 16:12:06 GMT""},{""version"":""v2"",""created"":""Mon, 28 Aug 2000 13:18:51 GMT""}]","2009-10-31"
+"hep-ph/0006037","Jim Cline","J.M. Cline, H. Firouzjahi","Radion Mass is Milli-eV in the Goldberger-Wise Stabilization Mechanism","Withdrawn, because contradicted by the more complete treatment of
+  hep-th/0001092",,,"McGill 00-16","hep-ph hep-th",,"  A complete calculation of the radion mass has been given by Tanaka and
+Montes, hep-th/0001092, and also by Csaki, Graesser and Kribs (in preparation),
+which both obtain the TeV-scale. It seems likely that the problem with our
+computation was neglect of the back-reaction of the scalar field on the
+graviton zero mode, and consequent contributions to the radion kinetic term
+from the gravitational part of the Lagrangian. We thank T. Tanaka and C. Csaki
+for pointing out their results to us.
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 2000 20:54:29 GMT""},{""version"":""v2"",""created"":""Tue, 6 Jun 2000 00:44:54 GMT""},{""version"":""v3"",""created"":""Tue, 4 Jul 2000 16:00:16 GMT""},{""version"":""v4"",""created"":""Wed, 5 Jul 2000 13:49:48 GMT""}]","2007-05-23"
+"hep-ph/0006039","Bingsong Zou","B.S. Zou (CCAST World Laboratory and Institute of High Energy Physics,
+  CAS, Beijing, P.R.China)","N*, Lambda*, Sigma* and Xi* Resonances from J/Psi and Psi' Decays","Postscript file, 3 pages. Talk given at FB16 Conf., Taipei, Taiwan,
+  China, March 2000","Nucl.Phys. A684 (2001) 330-332","10.1016/S0375-9474(01)00433-X",,"hep-ph",,"  Vector charmonium states $J/\Psi$ and $\Psi'$ are copiously produced by
+$e^+e^-$ annihilations at the Beijing Electron Positron Collider (BEPC). Their
+decays provide an excellent place for studying excited nucleons and hyperons --
+$N^*$, $\Lambda^*$, $\Sigma^*$ and $\Xi^*$ resonances. The systematic study of
+these excited nucleons and hyperons can provide us with critical insights into
+the internal quark structure of baryons.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 2000 04:21:18 GMT""}]","2009-10-31"
+"hep-ph/0006040","Masaki Yasue","Teruyuki Kitabayashi and Masaki Yasue","Two-loop Radiative Neutrino Mechanism in an $SU(3)_L\times U(1)_N$ Gauge
+  Model","with 10 pages, revtex, including 2 figures, accepted for publication
+  in Phys. Rev. D (with undefined latex citation indices removed)",,"10.1103/PhysRevD.63.095006","TOKAI-HEP/TH-0002","hep-ph",,"  By using the $L_e$ - $L_\mu$ - $L_\tau$ symmetry, we construct an
+$SU(3)_L\times U(1)_N$ gauge model that provides two-loop radiative neutrino
+masses as well as one-loop radiative neutrino masses. The generic smallness of
+two-loop neutrino masses leading to $\Delta m^2_\odot$ compared with one-loop
+neutrino masses leading to $\Delta m^2_{atm}$ successfully explains $\Delta
+m^2_{atm}$ $>>$ $\Delta m^2_{\odot}$ by invoking the $L_e$ - $L_\mu$ - $L_\tau$
+breaking. The Higgs scalar ($h^+$) that initiates radiative mechanisms is
+unified into a Higgs triplet together with the standard Higgs scalar ($\phi^+$,
+$\phi^0$) to form ($\phi^+$, $\phi^0$, $h^+$), which calls for three families
+of lepton triplets: ($\nu^i_L$, $\ell^i_L$, $\omega^i_L$) (i = 1,2,3), where
+$\omega^i$ denote heavy neutral leptons. The two-loop radiative mechanism is
+found possible by introducing a singly charged scalar, which couples to
+$\ell^i_R\omega^j_R$ (i,j = 2,3).
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 2000 15:33:23 GMT""},{""version"":""v2"",""created"":""Thu, 18 Jan 2001 16:22:16 GMT""},{""version"":""v3"",""created"":""Tue, 23 Jan 2001 03:22:54 GMT""}]","2009-10-31"
+"hep-th/0006025","Muneto Nitta","Kiyoshi Higashijima (Osaka Univ.) and Muneto Nitta (Tokyo Inst. Tech.)","Supersymmetric Nonlinear Sigma Models","LaTeX, 10 pages, no figures, Talk given at the International
+  Symposium on ""Quantum Chromodynamics and Color Confinement"" (Confinement
+  2000), 7-10 March 2000, RCNP, Osaka, Japan",,,"OU-HET 348, TIT/HET-448","hep-th hep-ph math-ph math.MP nucl-th",,"  Supersymmetric nonlinear sigma models are formulated as gauge theories.
+Auxiliary chiral superfields are introduced to impose supersymmetric
+constraints of F-type. Target manifolds defined by F-type constraints are
+always non-compact. In order to obtain nonlinear sigma models on compact
+manifolds, we have to introduce gauge symmetry to eliminate the degrees of
+freedom in non-compact directions. All supersymmetric nonlinear sigma models
+defined on the hermitian symmetric spaces are successfully formulated as gauge
+theories.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 2000 07:31:46 GMT""}]","2007-05-23"
+"hep-th/0006026","Daniele Binosi","D. Binosi, M. Shifman and T. ter Veldhuis","Leaving the BPS bound: Tunneling of classically saturated solitons","LaTeX, 22 pages, 9 figures (eps)","Phys.Rev. D63 (2001) 025006","10.1103/PhysRevD.63.025006","TPI-MINN-00/27-T, UMN-TH-1908/00, FTUV/000601, IFIC/00-32","hep-th",,"  We discuss quantum tunneling between classically BPS saturated solitons in
+two-dimensional theories with N=2 supersymmetry and a compact space dimension.
+Genuine BPS states form shortened multiplets of dimension two. In the models we
+consider there are two degenerate shortened multiplets at the classical level,
+but there is no obstruction to pairing up through quantum tunneling. The
+tunneling amplitude in the imaginary time is described by instantons. We find
+that the instanton is nothing but the 1/4 BPS saturated ``wall junction,''
+considered previously in the literature in other contexts. Two central charges
+of the superalgebra allow us to calculate the instanton action without finding
+the explicit solution (it is checked, though, numerically, that the saturated
+solution does exist). We present a quantum-mechanical interpretation of the
+soliton tunneling.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 2000 15:38:20 GMT""}]","2009-10-31"
+"hep-th/0006027","Muneto Nitta","Kiyoshi Higashijima (Osaka Univ.) and Muneto Nitta (Tokyo Inst. Tech.)","Kahler Normal Coordinate Expansion in Supersymmetric Theories","LaTeX, 23 pages, no figures, published version","Prog.Theor.Phys. 105 (2001) 243-260","10.1143/PTP.105.243","OU-HET 349, TIT/HET-450","hep-th gr-qc hep-ph math-ph math.MP",,"  The Riemann normal coordinate expansion method is generalized to a Kahler
+manifold. The Kahler potential and holomorphic coordinate transformations are
+used to define a normal coordinate preserving the complex structure. The
+existence of this Kahler normal coordinate is shown explicitly to all orders.
+The formalism is applied to background field methods in supersymmetric
+nonlinear sigma models.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 2000 15:38:46 GMT""},{""version"":""v2"",""created"":""Tue, 13 Jun 2000 08:37:27 GMT""},{""version"":""v3"",""created"":""Mon, 20 Nov 2000 03:43:11 GMT""},{""version"":""v4"",""created"":""Wed, 21 Feb 2001 07:47:37 GMT""}]","2009-10-31"
+"math-ph/0006001","Ilya Zakharevich","Ilya Zakharevich","Nonlinear wave equation, nonlinear Riemann problem, and the twistor
+  transform of Veronese webs","43 pages, preliminary version",,,,"math-ph math.AP math.DG math.MP",,"  Veronese webs are rich geometric structures with deep relationships to
+various domains of mathematics. The PDEs which determine the Veronese web are
+overdetermined if dim >3, but in the case dim =3 they reduce to a special
+flavor of a non-linear wave equation. The symmetries embedded in the definition
+of a Veronese web reveal themselves as B\""acklund--Darboux transformations
+between these non-linear wave equations.
+  On the other hand, the twistor transform identifies Veronese webs with moduli
+spaces of rational curves on certain complex surfaces. These moduli spaces can
+be described in terms of the non-linear Riemann problem. This reduces solutions
+of these non-linear wave equations to the non-linear Riemann problem.
+  We examine these relationships in the particular case of 3-dimensional
+Veronese webs, simultaneously investigating how these notions relate to general
+notions of geometry of webs.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 2000 11:50:09 GMT""}]","2007-05-23"
+"math/0006022","Alan Weinstein","Michael K. Kinyon and Alan Weinstein","Leibniz Algebras, Courant Algebroids, and Multiplications on Reductive
+  Homogeneous Spaces","24 pages. Version 2 has minor corrections","The final corrected version of this article appears in the
+  American Journal of Mathematics Volume 123, Issue 3: June, 2001, pages
+  525-550. Copyright <copyright sign> 2001 by The Johns Hopkins University
+  Press.""",,,"math.DG math.QA",,"  We show that the skew-symmetrized product on every Leibniz algebra E can be
+realized on a reductive complement to a subalgebra in a Lie algebra. As a
+consequence, we construct a nonassociative multiplication on E which, when E is
+a Lie algebra, is derived from the integrated adjoint representation. We apply
+this construction to realize the bracket operations on the sections of Courant
+algebroids and on the ``omni-Lie algebras'' recently introduced by the second
+author.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 2000 00:25:18 GMT""},{""version"":""v2"",""created"":""Thu, 6 Jul 2000 12:51:04 GMT""}]","2007-05-23"
+"math/0006023","Izu Vaisman","Izu Vaisman","Connections under Symplectic Reduction","Latex, 12 pages",,,,"math.SG math.DG",,"  In this note we give conditions which ensure the reduction of a symplectic
+connection in the process of a Marsden-Weinstein reduction and of the reduction
+of a presymplectic manifold.
+","[{""version"":""v1"",""created"":""Sun, 4 Jun 2000 15:13:56 GMT""}]","2007-05-23"
+"quant-ph/0006013","Kurt Jacobs","Andrew C. Doherty, Kurt Jacobs, Gerard Jungman","Information, disturbance and Hamiltonian quantum feedback control","13 pages, multicol Revtex, 2 eps figures","Phys. Rev. A 63, 062306 (2001)","10.1103/PhysRevA.63.062306",,"quant-ph",,"  We consider separating the problem of designing Hamiltonian quantum feedback
+control algorithms into a measurement (estimation) strategy and a feedback
+(control) strategy, and consider optimizing desirable properties of each under
+the minimal constraint that the available strength of both is limited. This
+motivates concepts of information extraction and disturbance which are distinct
+from those usually considered in quantum information theory. Using these
+concepts we identify an information trade-off in quantum feedback control.
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 2000 16:56:48 GMT""}]","2009-11-06"
+"quant-ph/0006014","Guillaume Adenier","Guillaume Adenier","A Refutation of Bell's Theorem","RevTex4, 9 pages. Extended and entirely revised version. A talk given
+  at the Vaxjo conference, Sweden; Nov. 2000. Submited to J. Math. Phys",,"10.1142/9789812810809_0002",,"quant-ph",,"  Bell's Theorem was developed on the basis of considerations involving a
+linear combination of spin correlation functions, each of which has a distinct
+pair of arguments. The simultaneous presence of these different pairs of
+arguments in the same equation can be understood in two radically different
+ways: either as `strongly objective,' that is, all correlation functions
+pertain to the same set of particle pairs, or as `weakly objective,' that is,
+each correlation function pertains to a different set of particle pairs.
+  It is demonstrated that once this meaning is determined, no discrepancy
+appears between local realistic theories and quantum mechanics: the discrepancy
+in Bell's Theorem is due only to a meaningless comparison between a local
+realistic inequality written within the strongly objective interpretation (thus
+relevant to a single set of particle pairs) and a quantum mechanical prediction
+derived from a weakly objective interpretation (thus relevant to several
+different sets of particle pairs).
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 2000 20:48:04 GMT""},{""version"":""v2"",""created"":""Mon, 5 Jun 2000 23:55:07 GMT""},{""version"":""v3"",""created"":""Thu, 18 Jan 2001 21:18:36 GMT""}]","2017-08-23"
+"quant-ph/0006015","Andrew C. Doherty","A.C. Doherty, T.W. Lynn, C.J. Hood, and H.J. Kimble","Trapping of Single Atoms with Single Photons in Cavity QED","19 pages, 22 figure files, REVTEX, corrected spelling, LaTeX now
+  produces postscript which includes figures, minor changes to figures. Final
+  version to be published in Physical Review A, expanded summary of results in
+  introduction, minor changes to figures and text",,"10.1103/PhysRevA.63.013401",,"quant-ph",,"  Two recent experiments have reported the trapping of individual atoms inside
+optical resonators by the mechanical forces associated with single photons
+[Hood et al., Science 287, 1447 (2000) and Pinkse et al., Nature 404, 365
+(2000)]. Here we analyze the trapping dynamics in these settings, focusing on
+two points of interest. Firstly, we investigate the extent to which
+light-induced forces in these experiments are distinct from their free-space
+counterparts. Secondly, we explore the quantitative features of the resulting
+atomic motion and how these dynamics are mapped onto variations of the
+intracavity field. Not surprisingly, qualitatively distinct atomic dynamics
+arise as the coupling and dissipative rates are varied. For the experiment of
+Hood et al., we show that atomic motion is largely conservative and is
+predominantly in radial orbits transverse to the cavity axis. A comparison with
+the free-space theory demonstrates that the fluctuations of the dipole force
+are suppressed by an order of magnitude. This effect is based upon the
+Jaynes-Cummings eigenstates of the atom-cavity system and represents
+qualitatively new physics for optical forces at the single-photon level. By
+contrast, even in a regime of strong coupling in the experiment of Pinkse et
+al., there are only small quantitative distinctions between the free-space
+theory and the quantum theory, so it is not clear that description of this
+experiment as a novel single-quantum trapping effect is necessary. The atomic
+motion is strongly diffusive, leading to an average localization time
+comparable to the time for an atom to transit freely through the cavity and to
+a reduction in the ability to infer aspects of the atomic motion from the
+intracavity photon number.
+","[{""version"":""v1"",""created"":""Sat, 3 Jun 2000 22:50:24 GMT""},{""version"":""v2"",""created"":""Tue, 6 Jun 2000 17:17:57 GMT""},{""version"":""v3"",""created"":""Sun, 2 Jul 2000 23:01:09 GMT""},{""version"":""v4"",""created"":""Wed, 11 Oct 2000 06:28:24 GMT""}]","2009-11-06"

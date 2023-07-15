@@ -1,0 +1,244 @@
+"astro-ph/0005115","Carlo R. Contaldi","C. R. Contaldi","Cosmic strings in the age of Boomerang","4 pages, 4 figures, Revtex, submitted to PRL",,,,"astro-ph",,"  We show how two simple modifications to the standard cosmic string scenario
+for structure formation compare to the recently released Boomerang data set.
+Namely we consider pure string closed models and mixed models where both
+inflation and strings are responsible for the perturbations. In the closed
+models we find that pure string models would require a universe with roughly
+$\Omega_M=0.8$, $\Omega_{\Lambda}=1.6$ to agree with the peak position revealed
+by the data and in agreement with the SNIa data. In the hybrid scenario with
+local strings we find that we require even more tilt and baryon content
+($n_s\sim 0.8$, $\Omega_b=0.08$, $H_0=70$) to match the data than with pure
+inflation models. The case with global strings fares better with a standard
+period of $\Lambda$CDM inflation and a $\sim30%$ contribution from strings
+being in good agreement with the data.
+","[{""version"":""v1"",""created"":""Sat, 6 May 2000 18:08:03 GMT""}]","2007-05-23"
+"astro-ph/0005116","Ryszard Manka","R. Manka, D. Karczewska (University of Silesia)","The neutrino star in the bulk Universe","revtex4, 15 pages with 4 color figures (eps)",,,"; AstroUSL-2000-2","astro-ph hep-ph",,"  Motivated by the Kaluza-Klein theory with large extra spacetime dimensions
+the neutrino star built from the massive sterile neutrinos core and the
+massless brane neutrinos envelope is presented. The six - dimensional
+compactification scale ~15 MeV gives the maximal neutrino mass M_max = 2.3 10^4
+of the solar mass with the radius R_max = 1.2 10^6 km . The maximal neutrino
+star parameters varies with temperature. In the limit of the neutrino ball
+approximation the maximal sterile neutrino star is M_max = 1.1 10^6 of the
+solar mass.
+","[{""version"":""v1"",""created"":""Sat, 6 May 2000 18:17:03 GMT""}]","2007-05-23"
+"astro-ph/0005117","Vladan Celebonovic","V.Celebonovic (Inst.of Physics,Beograd,Yugoslavia)","Semiclassical planetology : some results","11 pages,PDF file,Invited lecture for the Second Serbian-Bulgarian
+  Astronomy Meeting,Zajecar (Yugoslavia) June 23-26,2000",,,,"astro-ph",,"  The aim of this lecture is to review the basic physical ideas and some
+planetological results of the semiclassical theory of dense matter proposed by
+P.Savic and R.Kasanin
+","[{""version"":""v1"",""created"":""Sat, 6 May 2000 20:45:19 GMT""}]","2007-05-23"
+"astro-ph/0005118","Campana","Sergio Campana (Oss. astr. Brera - Merate) and Luigi Stella (Oss.
+  astr. Roma)","On the bolometric quiescent luminosity and luminosity swing of black
+  hole candidate and neutron star low mass X-ray transients","13 pages (including 2 postscript figures - use emulateapj macro).
+  Accepted for publication in ApJ",,"10.1086/309493",,"astro-ph",,"  Low mass X-ray transients (LMXRTs) hosting black hole candidates (BHCs)
+display on average a factor of ~100 larger swing in the minimum (quiescent) to
+maximum (outburst) X-ray luminosity than neutron stars (NSs), despite the fact
+that the swing in the mass inflow rate is likely in the same range. Advection
+dominated accretion flows (ADAFs) were proposed to interpret such a difference.
+The residual optical/UV emission of quiescent LMXRTs, after subtraction of the
+companion star spectrum, is produced by synchrotron radiation in the (latest
+version) of ADAF and therefore is part of the ADAF's luminosity budget. We
+demonstrate that, once the residual optical/UV emission is taken into account,
+the bolometric luminosity swing of BHCs is consistent with that of NSs. We
+explore here an alternative scenario to ADAFs in which very little mass
+accretion onto the collapsed star takes place in the quiescence intervals. The
+residual optical/UV emission of BHCs are expected to derive from the energy
+released by the matter transferred from the companion star at radii comparable
+to the circularisation radius. The quiescent X-ray luminosity originates either
+from accretion onto the BH at very low rates and/or from coronal activity in
+the companion star or in the outer disk. For comparably small mass inflow
+rates, the NSs in these systems are likely in the radio pulsar regime. In the
+interaction of the radio pulsar relativistic wind with matter transferred from
+the companion star, a shock forms, the power law-like emission of which powers
+both the harder X-ray emission and most of the residual optical/UV. The soft,
+thermal-like X-ray component may arise from the cooling of the NS surface. This
+scenario matches well both the X-ray and bolometric luminosity swing of LMXRTs.
+(ABRIDGED).
+","[{""version"":""v1"",""created"":""Sun, 7 May 2000 03:46:05 GMT""}]","2009-10-31"
+"astro-ph/0005120","Jarle Brinchmann","Jarle Brinchmann and Richard Ellis","The Mass Assembly and Star Formation Characteristics of Field Galaxies
+  of Known Morphology","8 pages, 3 figures (2 colour). Accepted for publication in ApJ
+  Letters","Astrophys.J.536:L77-L80,2000","10.1086/312738",,"astro-ph",,"  We discuss a new method for inferring the stellar mass of a distant galaxy of
+known redshift based on the combination of a near-infrared luminosity and
+multi-band optical photometry. The typical uncertainty for field galaxies with
+I<22 in the redshift range 0<z<1 is a factor 2. We apply this method to a
+newly-constructed sample of 321 field galaxies with redshifts and Hubble Space
+Telescope morphologies enabling us to construct the stellar mass density
+associated with various morphologies as a function of redshift. We find a
+marked decline with time in the stellar mass associated with peculiar galaxies
+accompanied by a modest rise in that observed for ellipticals. The result
+suggests that peculiars decline in abundance because they transform and merge
+into regular systems. The star formation rate per unit stellar mass indicates
+that massive systems completed the bulk of their star formation before redshift
+one, whereas dwarfs continue to undergo major episodes of activity until the
+present epoch.
+","[{""version"":""v1"",""created"":""Sun, 7 May 2000 15:57:38 GMT""}]","2009-10-31"
+"cs/0005006","Ted Pedersen","Ted Pedersen (University of Minnesota Duluth)","A Simple Approach to Building Ensembles of Naive Bayesian Classifiers
+  for Word Sense Disambiguation","7 pages, Latex, uses colnaacl.sty. Appears in Proceedings of NAACL,
+  pages 63-69, May 2000, Seattle, WA",,,,"cs.CL",,"  This paper presents a corpus-based approach to word sense disambiguation that
+builds an ensemble of Naive Bayesian classifiers, each of which is based on
+lexical features that represent co--occurring words in varying sized windows of
+context. Despite the simplicity of this approach, empirical results
+disambiguating the widely studied nouns line and interest show that such an
+ensemble achieves accuracy rivaling the best previously published results.
+","[{""version"":""v1"",""created"":""Sun, 7 May 2000 00:15:59 GMT""}]","2007-05-23"
+"hep-ph/0005059","Guetta Dafne","Dafne Guetta and Paul Singer","$\omega-\rho$ Mixing and the $\omega\to\pi\pi\gamma$ Decay","10 pages, LaTeX, 1 ps-figure. Submitted to Phys. Rev. D","Phys.Rev. D63 (2001) 017502","10.1103/PhysRevD.63.017502",,"hep-ph",,"  We reexamine the $\omega \to \pi^{0} \pi^{0} \gamma $ decay, adding the
+effect of $\omega-\rho$ mixing to the amplitude calculated with the aid of
+chiral perturbation theory and vector meson dominance. We predict the neutral
+decay to occur with a width of $\Gamma($\omega \to \pi^{0} \pi^{0} \gamma $)
+=(390\pm96) {\rm eV}$ and also analyze the effect of the $\omega-\rho$ mixing
+on the $\Gamma($\omega \to \pi^{0} \pi^{0} \gamma $)/ \Gamma($\omega \to
+\pi^{+} \pi^{-} \gamma $)$ ratio. Several remarks on the effect of
+$\omega-\rho$ mixing on certain radiative decays of vector mesons are
+presented.
+","[{""version"":""v1"",""created"":""Sat, 6 May 2000 17:45:49 GMT""},{""version"":""v2"",""created"":""Sat, 22 Jul 2000 13:48:07 GMT""}]","2009-10-31"
+"hep-ph/0005060","Matthias Steinhauser","B.A. Kniehl, F. Madricardo and M. Steinhauser","Gauge-Independent W-Boson Partial Decay Widths","15 pages; reference added; input parameters updated according to 2000
+  PDG report; accepted for publication in Phys. Rev. D","Phys.Rev. D62 (2000) 073010","10.1103/PhysRevD.62.073010","DESY 00-047","hep-ph",,"  We calculate the partial decay widths of the W boson at one loop in the
+standard model using the on-shell renormalization scheme endowed with a
+gauge-independent definition of the Cabibbo-Kobayashi-Maskawa (CKM) mixing
+matrix. We work in $R_\xi$ gauge and explicitly verify that the final
+expressions are independent of the gauge parameters. Furthermore, we establish
+the relationship between the on-shell and $\bar{\mathrm{MS}}$ definitions of
+the CKM matrix, both in its generic form and in the Wolfenstein
+parameterization. As a by-product of our analysis, we recover the beta function
+of the CKM matrix.
+","[{""version"":""v1"",""created"":""Sat, 6 May 2000 18:03:51 GMT""},{""version"":""v2"",""created"":""Thu, 13 Jul 2000 09:23:28 GMT""}]","2009-10-31"
+"hep-th/0005058","Bruce Mainland","G. Bruce Mainland","Bound States of a Minimally Interacting Spin-0 and Spin-1/2 Constituent
+  in the Instantaneous Approximation","29 pages, LaTeX, 7 Postscript figures",,,"OHSTPY-HEP-T-00-005","hep-th",,"  Bound-state solutions are obtained numerically in the instantaneous
+approximation for a spin-0 and spin-1/2 constituent that interact via minimal
+electrodynamics. To solve the integral equations in momentum space, a method is
+developed for integrating over the logarithmic singularity in kernels, making
+it possible to use basis functions that essentially automatically satisfy the
+boundary conditions. For bound-state solutions that decrease rapidly at small
+and large values of momentum, accurate solutions are obtained with
+significantly fewer basis functions when the solution is expanded in terms of
+these more general basis functions. The presence of a derivative coupling in
+single-photon exchange complicates the construction of the Bethe-Salpeter
+equation in the instantaneous approximation and, in the nonrelativistic limit,
+gives rise to an additional electrostatic potential term that is second order
+in the coupling constant and decreases as the square of the distance between
+constituents.
+","[{""version"":""v1"",""created"":""Sat, 6 May 2000 16:16:00 GMT""}]","2007-05-23"
+"hep-th/0005060","Fan Wang","Wei-Min Sun, Xiang-Song Chen and Fan Wang","Difficulties in a Kind of Averaging Procedure for Constructing
+  Gauge-invariant Operators out of Gauge-variant Ones","3 pages, revtex","Phys.Lett. B483 (2000) 299-302","10.1016/S0370-2693(00)00562-1",,"hep-th",,"  We prove that a kind of averaging procedure for constructing gauge-invariant
+operators(or functionals) out of gauge-variant ones is erroneous and
+inapplicable for a large class of operators(or functionals).
+","[{""version"":""v1"",""created"":""Sun, 7 May 2000 11:17:24 GMT""}]","2009-10-31"
+"hep-th/0005061","Rahmi Guven","R. Gueven (Bogazici University)","Plane Wave Limits and T-Duality","12 pages, to appear in Physics Letters B","Phys.Lett.B482:255-263,2000","10.1016/S0370-2693(00)00517-7",,"hep-th gr-qc",,"  The Penrose limit is generalized to show that, any leading order solution of
+the low-energy field equations in any one of the five string theories has a
+plane wave solution as a limit. This limiting procedure takes into account all
+the massless fields that may arise and commutes with the T-duality so that any
+dual solution has again a plane wave limit. The scaling rules used in the limit
+are unique and stem from the scaling property of the D=11 supergravity action.
+Although the leading order solutions need not be exact or supersymmetric, their
+plane wave limits always preserve some portion of the Poincare supersymmetry
+and solve the relevant field equations in all powers of the string tension
+parameter. Further properties of the limiting procedure are discussed.
+","[{""version"":""v1"",""created"":""Sun, 7 May 2000 14:27:56 GMT""}]","2008-11-26"
+"math/0005060","Xavier Tolsa","Xavier Tolsa","Characterization of the atomic space $H^1$ for non doubling measures in
+  terms of a grand maximal operator","47 pages",,,,"math.CA",,"  Let $\mu$ be a Radon measure on $R^d$, which may be non doubling. The only
+condition that $\mu$ must satisfy is $\mu(B(x,r))\leq C r^n$, for all $x,r$ and
+for some fixed $0<n\leq d$. Recently we introduced spaces of type $BMO(\mu)$
+and $H^1(\mu)$ which proved to be useful to study the $L^p(\mu)$ boundedness of
+Calder\'on-Zygmund operators without assuming doubling conditions. In this
+paper a characterization of the new atomic space $H^1(\mu)$ in terms of a grand
+maximal operator $M_\Phi$ is given. It is shown that $f$ belongs to $H^1(\mu)$
+iff $f\in L^1(\mu)$, $\int f d\mu=0$ and $M_\Phi(f)\in L^1(\mu)$, as in the
+usual doubling situation. The lack of any regularity condition on $\mu$, apart
+from the size condition stated above, is one of the main difficulties that
+appears when one tries to extend the classical arguments to the present
+situation.
+","[{""version"":""v1"",""created"":""Sat, 6 May 2000 20:05:58 GMT""}]","2007-05-23"
+"math/0005061","Daniel H. Lenz","Daniel Lenz","Hierarchical structures in Sturmian dynamical systems","Paper withdrawn; will be replaced by revised version containing
+  application to lattice models",,,,"math.DS math-ph math.MP",,"  Paper withdrawn; will be replaced by revised version containing application
+to lattice models as well.
+  We study hierarchical properties of Sturmian words. These properties are
+similar to those of substitution dynamical systems. This approach allows one to
+carry over to Sturmian dynamical systems methods developed in the context of
+substitutions. For example, it allows for a very simple proof of a uniform
+ergodic type theorem for additive functions taking values in a Banach space. We
+then focus on establishing various versions of uniform subadditive ergodic type
+theorems. The main result states that linear repetitivity of a Sturmian system
+is equivalent to the validity of a uniform subadditive ergodic theorem which in
+turn is equivalent to uniform positivity of certain weights. Thus, the results
+of this paper completely cover the validity of uniform additive and subadditive
+ergodic theorems on Sturmian systems.
+","[{""version"":""v1"",""created"":""Sat, 6 May 2000 20:14:28 GMT""},{""version"":""v2"",""created"":""Fri, 2 Jun 2000 13:06:56 GMT""},{""version"":""v3"",""created"":""Fri, 29 Dec 2000 18:44:58 GMT""}]","2007-05-23"
+"math/0005062","Daniel H. Lenz","David Damanik and Daniel Lenz","Linear repetitivity, I. Uniform subadditive ergodic theorems and
+  applications","15 pages","Discrete Comput. Geom. 26 (2001), 411-428",,,"math.DS math-ph math.MP",,"  This paper is concerned with the concept of linear repetitivity in the theory
+of tilings. We prove a general uniform subadditive ergodic theorem for linearly
+repetitive tilings. This theorem unifies and extends various known
+(sub)additive ergodic theorems on tilings. The results of this paper can be
+applied in the study of both random operators and lattice gas models on
+tilings.
+","[{""version"":""v1"",""created"":""Sat, 6 May 2000 20:27:15 GMT""}]","2015-02-24"
+"math/0005063","William H. Rowan","William H. Rowan","Jonssons's theorem in non-modular varieties","6 pages; this revised version has some corrections, a simplified
+  proof of the main theorem, and an additional section containing some remarks",,,,"math.RA",,"  A version of Jonsson's theorem, as previously generalized, holds in
+non-modular varieties.
+","[{""version"":""v1"",""created"":""Sun, 7 May 2000 00:19:36 GMT""},{""version"":""v2"",""created"":""Wed, 6 Dec 2000 04:57:48 GMT""}]","2007-05-23"
+"math/0005064","Terence C. Tao","Terence Tao","Local well-posedness of the Yang-Mills equation in the Temporal Gauge
+  below the energy norm","15 pages, no figures. Some sign and coefficient errors in the
+  equations have been fixed","JDE 189 (2003), 366-382",,,"math.AP","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  We show that the Yang-Mills equation in three dimensions is locally
+well-posed in the Temporal gauge for initial data in H^s x H^{s-1} for s > 3/4,
+if the norm of the initial data is sufficiently small. The main new ingredients
+are a splitting of the connection into curl-free and div-free components, and
+some product estimates which interact solutions of wave equations Box u = F
+with solutions of time integration equations partial_t u = F.
+","[{""version"":""v1"",""created"":""Sun, 7 May 2000 05:01:59 GMT""},{""version"":""v2"",""created"":""Fri, 6 Sep 2002 20:14:44 GMT""},{""version"":""v3"",""created"":""Wed, 6 Aug 2008 17:55:42 GMT""},{""version"":""v4"",""created"":""Fri, 15 Aug 2008 22:16:07 GMT""},{""version"":""v5"",""created"":""Sat, 28 Nov 2009 04:02:32 GMT""}]","2009-11-28"
+"math/0005065","Oleg E. Tikhonov","O. E. Tikhonov","Partial measures","4 pages. Submitted to Lobachevskii Journal of Mathematics (
+  http://ljm.ksu.ru)","Lobachevskii Journal of Mathematics 6 (2000), 47-50 (
+  http://ljm.ksu.ru ).",,,"math.FA",,"  We study sigma-additive set functions defined on a hereditary subclass of a
+sigma-algebra and taken values in the extended real line. Analogs of the Jordan
+decomposition theorem and the Radon-Nikodym theorem are obtained.
+","[{""version"":""v1"",""created"":""Sun, 7 May 2000 05:55:02 GMT""}]","2007-05-23"
+"math/0005066","Jeremy Teitelbaum","Peter Schneider and Jeremy Teitelbaum","Banach space representations and Iwasawa theory",,,,,"math.NT math.RT",,"  The lack of a $p$-adic Haar measure causes many methods of traditional
+representation theory to break down when applied to continuous representations
+of a compact $p$-adic Lie group $G$ in Banach spaces over a given $p$-adic
+field $K$. For example, Diarra showed that the abelian group $G=\dZ$ has an
+enormous wealth of infinite dimensional, topologically irreducible Banach space
+representations.
+  We therefore address the problem of finding an additional ''finiteness''
+condition on such representations that will lead to a reasonable theory. We
+introduce such a condition that we call ''admissibility''. We show that the
+category of all admissible $G$-representations is reasonable -- in fact, it is
+abelian and of a purely algebraic nature -- by showing that it is
+anti-equivalent to the category of all finitely generated modules over a
+certain kind of completed group ring $K[[G]]$.
+  As an application of our methods we determine the topological irreducibility
+as well as the intertwining maps for representations of $GL_2(\dZ)$ obtained by
+induction of a continuous character from the subgroup of lower triangular
+matrices.
+","[{""version"":""v1"",""created"":""Sun, 7 May 2000 10:03:00 GMT""}]","2007-05-23"
+"math/0005067","Daniel H. Lenz","Daniel Lenz","Uniform ergodic theorems on subshifts over a finite alphabet","10 pages",,,,"math.DS math-ph math.MP",,"  We investigate uniform ergodic type theorems for additive and subadditive
+functions on a subshift over a finite alphabet. We show that every strictly
+ergodic subshift admits a uniform ergodic theorem for Banach-space-valued
+additive functions. We then give a necessary and sufficient condition on a
+minimal subshift to allow for a uniform subadditive ergodic theorem. This
+provides in particular a sufficient condition for unique ergodicity.
+","[{""version"":""v1"",""created"":""Sun, 7 May 2000 14:43:09 GMT""}]","2007-05-23"
+"nucl-th/0005013","Volker Werner","V. Werner, N. Pietralla, P. von Brentano, R.F. Casten and R.V. Jolos","Quadrupole shape invariants in the interacting boson model","10 pages, ReVTeX, epsf, 2 Postscript figures included","Phys.Rev. C61 (2000) 021301","10.1103/PhysRevC.61.021301",,"nucl-th",,"  In terms of the Interacting Boson Model, shape invariants for the ground
+state, formed by quadrupole moments up to sixth order, are studied in the
+dynamical symmetry limits and, for the first time, over the whole structural
+range of the IBM-1. The results are related to the effective deformation
+parameters and their fluctuations in the geometrical model. New signatures that
+can distinguish vibrator and gamma-soft rotor structures, and one that is
+related to shape coexistence, are identified.
+","[{""version"":""v1"",""created"":""Sat, 6 May 2000 17:10:25 GMT""}]","2009-11-06"
+"nucl-th/0005014","Alexander Volya","D. Mulhall, A. Volya and V. Zelevinsky","Geometric chaoticity leads to ordered spectra for randomly interacting
+  fermions","6 pages 3 figures Corrected typos","Phys.Rev.Lett. 85 (2000) 4016-4019","10.1103/PhysRevLett.85.4016","MSUCL-1551","nucl-th math-ph math.MP quant-ph",,"  A rotationally invariant random interaction ensemble was realized in a
+single-j fermion model. The dominance of ground states with zero and maximum
+spin was confirmed and explained with a statistical approach based on the
+random coupling of individual angular momenta. The interpretation is supported
+by the structure of the ground state wave functions.
+","[{""version"":""v1"",""created"":""Sat, 6 May 2000 22:16:33 GMT""},{""version"":""v2"",""created"":""Tue, 16 May 2000 16:50:28 GMT""}]","2009-11-06"
+"quant-ph/0005030","M. Czachor","N.V. Ustinov, S.B. Leble, M. Czachor, and M. Kuna","Darboux-integration of id\rho/dt=[H,f(\rho)]","revtex, 5 pages, 2 eps figures, submitted to Phys.Lett.A
+  infinite-dimensional example is added","Phys. Lett. A 279 (2001) 333","10.1016/S0375-9601(01)00013-5",,"quant-ph nlin.SI",,"  A Darboux-type method of solving the nonlinear von Neumann equation $i\dot
+\rho=[H,f(\rho)]$, with functions $f(\rho)$ commuting with $\rho$, is
+developed. The technique is based on a representation of the nonlinear equation
+by a compatibility condition for an overdetermined linear system. von Neumann
+equations with various nonlinearities $f(\rho)$ are found to possess the
+so-called self-scattering solutions. To illustrate the result we consider the
+Hamiltonian $H$ of a one-dimensional harmonic oscillator and
+$f(\rho)=\rho^q-2\rho^{q-1}$ with arbitary real $q$. It is shown that
+self-scattering solutions possess the same asymptotics for all $q$ and that
+different nonlinearities may lead to effectively indistinguishable evolutions.
+The result may have implications for nonextensive statistics and experimental
+tests of linearity of quantum mechanics.
+","[{""version"":""v1"",""created"":""Sat, 6 May 2000 18:08:55 GMT""},{""version"":""v2"",""created"":""Thu, 23 Nov 2000 14:55:12 GMT""}]","2009-11-06"

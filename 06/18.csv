@@ -1,0 +1,171 @@
+"astro-ph/0006240","Gianluca Gregori","G. Gregori (U. Minnesota), Francesco Miniati (U. Minnesota), Dongsu
+  Ryu(Chungnam National University, Korea), T. W. Jones(U. Minnesota)","3-D MHD Numerical Simulations of Cloud-Wind Interactions","12 pages, 10 figures. Accepted for Publication in the Astrophysical
+  Journal, Nov. 10, 2000 issue",,,,"astro-ph",,"  We present results from three-dimensional (3-D) numerical simulations
+investigating the magnetohydrodynamics of cloud-wind interactions. The initial
+cloud is spherical while the magnetic field is uniform and transverse to the
+cloud motion. A simplified analytical model that describes the magnetic energy
+evolution in front of the cloud is developed and compared with simulation
+results. In addition, it is found the interaction of the cloud with a
+magnetized interstellar medium (ISM) results in the formation of a highly
+structured magnetotail. The magnetic flux in the wake of the cloud organizes
+into flux ropes and a reconnection, current sheet is developed, as field lines
+of opposite polarity are brought close together near the symmetry axis. At the
+same time, magnetic pressure is strongly enhanced at the leading edge of the
+cloud from the stretching of the field lines that occurs there. This has an
+important dynamical effect on the subsequent evolution of the cloud, since some
+unstable modes tend to be strongly enhanced.
+","[{""version"":""v1"",""created"":""Sat, 17 Jun 2000 19:26:16 GMT""}]","2007-05-23"
+"astro-ph/0006241","Eric Blackman","Eric G. Blackman (Univ. of Rochester)","Implications of mean field accretion disc theory for vorticity and
+  magnetic field growth","17 Pages LaTex, revised version","Mon.Not.Roy.Astron.Soc. 323 (2001) 497","10.1046/j.1365-8711.2001.04225.x",,"astro-ph",,"  In addition to the scalar Shakura-Sunyaev $\alpha_{ss}$ turbulent viscosity
+transport term used in simple analytic accretion disc modeling, a pseudoscalar
+transport term also arises. The essence of this term can be captured even in
+simple models for which vertical averaging is interpreted as integration over a
+half-thickness and one separately studies each hemisphere. The additional term
+highlights a complementarity between mean field magnetic dynamo theory and
+accretion disc theory treated as a mean field theory. Such pseudoscalar terms
+have been studied, and can lead to large scale magnetic field and vorticity
+growth. Here it is shown that vorticity can grow even in the simplest azimuthal
+and half-height integrated disc model, for which mean quantities depend only on
+radius. The simplest vorticity growth solutions seem to have scales and vortex
+survival times consistent those required for facilitating planet formation.
+Also it is shown that when the magnetic back-reaction is included to lowest
+order, the pseudoscalar driving the magnetic field growth and that driving the
+vorticity growth will behave differently with respect to shearing and
+non-shearing flows: the former can reverse sign in the two cases, while the
+latter will have the same sign.
+","[{""version"":""v1"",""created"":""Sun, 18 Jun 2000 07:54:52 GMT""},{""version"":""v2"",""created"":""Wed, 1 Nov 2000 06:38:24 GMT""}]","2009-10-31"
+"cond-mat/0006274","Christopher L. Rogers","Christopher L. Rogers, Andrew M. Rappe","Geometric Formulation of Unique Quantum Stress Fields","revtex, 12 pages, 1 figure, submitted to Physical Review Letters.
+  Minor corrections and fixed typos",,,,"cond-mat.mtrl-sci",,"  We present a derivation of the stress field for an interacting quantum system
+within the framework of local density functional theory. The formulation is
+geometric in nature and exploits the relationship between the strain tensor
+field and Riemannian metric tensor field. The resultant expression obtained for
+the stress field is gauge-invariant with respect to choice of energy density,
+and therefore provides a unique, well-defined quantity. To illustrate this
+formalism, we compute the pressure field for two phases of solid molecular
+hydrogen.
+","[{""version"":""v1"",""created"":""Sat, 17 Jun 2000 23:45:59 GMT""},{""version"":""v2"",""created"":""Fri, 29 Dec 2000 20:41:56 GMT""},{""version"":""v3"",""created"":""Thu, 25 Jan 2001 19:39:44 GMT""}]","2007-05-23"
+"cs/0006029","Ahmed Helmy","Ahmed Helmy, Sandeep Gupta, Deborah Estrin, Alberto Cerpa, Yan Yu
+  (University of Southern California)","Systematic Performance Evaluation of Multipoint Protocols","23 pages, 12 figures",,,,"cs.NI cs.DS",,"  The advent of multipoint (multicast-based) applications and the growth and
+complexity of the Internet has complicated network protocol design and
+evaluation.
+  In this paper, we present a method for automatic synthesis of worst and best
+case scenarios for multipoint protocol performance evaluation.
+  Our method uses a fault-oriented test generation (FOTG) algorithm for
+searching the protocol and system state space to synthesize these scenarios.
+The algorithm is based on a global finite state machine (FSM) model. We extend
+the algorithm with timing semantics to handle end-to-end delays and address
+performance criteria. We introduce the notion of a virtual LAN to represent
+delays of the underlying multicast distribution tree.
+  As a case study, we use our method to evaluate variants of the timer
+suppression mechanism, used in various multipoint protocols, with respect to
+two performance criteria: overhead of response messages and response time.
+Simulation results for reliable multicast protocols show that our method
+provides a scalable way for synthesizing worst-case scenarios automatically. We
+expect our method to serve as a model for applying systematic scenario
+generation to other multipoint protocols.
+","[{""version"":""v1"",""created"":""Sat, 17 Jun 2000 18:16:39 GMT""}]","2007-05-23"
+"hep-ph/0006206","Alexander Bakulev","A. P. Bakulev (BLTPh, JINR, Dubna) and S. V. Mikhailov (BLTPh, JINR,
+  Dubna)","New shapes of light-cone distributions of the transversely polarized
+  \rho-mesons","18 pages, 7 figures use psbox-macro, 1 table, introduction is
+  improved, new (7) section with applications to semileptonic B->rho-decay is
+  added. to appear in Eur. Phys. J. C","Eur.Phys.J.C19:361-372,2001","10.1007/s100520100603","RUB-TPII-10/00, JINR-E2-2000-176","hep-ph",,"  We re-analyze the leading twist light-cone distributions for transversely
+polarized \rho-, \rho'- and b_1-mesons in the framework of QCD sum rules with
+nonlocal condensates. Using different kinds of sum rules to obtain reliable
+predictions, we estimate the 2-, 4-, 6- and 8-th moments for transversely
+polarized \rho- and \rho'-meson distributions and re-estimate tensor couplings
+f^T_{\rho,\rho',b_1}. We stress that the results of standard sum rules also
+support our estimation of the second moment of the transversely polarized
+\rho-meson distribution. New models for light-cone distributions of these
+mesons are constructed. Phenomenological consequences from these distributions
+are briefly discussed. Our results are compared with those found by Ball and
+Braun (1996), and the latter is shown to be incomplete.
+","[{""version"":""v1"",""created"":""Sat, 17 Jun 2000 16:46:57 GMT""},{""version"":""v2"",""created"":""Fri, 28 Jul 2000 10:20:27 GMT""},{""version"":""v3"",""created"":""Wed, 31 Jan 2001 13:55:33 GMT""}]","2009-09-25"
+"hep-ph/0006208","Hamid Beshtoev","Kh.M. Beshtoev","pi <---> K Meson Vacuum Transitions (Oscillations) in Diagram Approach
+  in the Model of Dynamical Analogy of the Cabibbo-Kobayashi-Maskawa Matrices","LATEX, 14 pages, 1 figure and tables","Hadronic J. 23 (2000) 295-307",,"JINR Commun. P4-99-306, Dubna, 1999","hep-ph",,"  The elements of the theory of vacuum oscillations and the model of dynamical
+expansion of the theory of weak interactions works at the tree level, i.e. the
+model of dynamical analogy of Cabibbo-Kobayashi- Maskawa matrices and its
+further development, are given. It is shown that the quarks and massive vector
+bosons must be structural and these structural particles (subparticles) must
+interact to generate quark and vector boson masses. In this case the problem of
+singularity cancellations does not arise in this model. It is also shown that,
+for self consistency of the theory, the weak decays of $K$ mesons must go
+through massive vector boson $B$ but not $W$ boson. In the framework of this
+model the probability of $\pi \leftrightarrow K$ transitions (oscillations) in
+the diagram approach is computed. These transitions are virtual since masses of
+$\pi$ and $K$ mesons differ considerably. These transitions (oscillations) can
+be registered through $K$ decays after transitions of virtual $K$ mesons to
+their own mass shell by using their quasielastic strong interactions.
+","[{""version"":""v1"",""created"":""Sun, 18 Jun 2000 08:06:47 GMT""}]","2007-05-23"
+"hep-th/0006135","Bayram Tekin","Bayram Tekin","Multi-instantons in R^4 and Minimal Surfaces in R^{2,1}","14 pages","JHEP 0008 (2000) 049","10.1088/1126-6708/2000/08/049","OUTP-00-27-P","hep-th",,"  It is known that self-duality equations for multi-instantons on a line in
+four dimensions are equivalent to minimal surface equations in three
+dimensional Minkowski space. We extend this equivalence beyond the equations of
+motion and show that topological number, instanton moduli space and
+anti-self-dual solutions have representations in terms of minimal surfaces. The
+issue of topological charge is quite subtle because the surfaces that appear
+are non-compact. This minimal surface/instanton correspondence allows us to
+define a metric on the configuration space of the gauge fields. We obtain the
+minimal surface representation of an instanton with arbitrary charge. The
+trivial vacuum and the BPST instanton as minimal surfaces are worked out in
+detail. BPS monopoles and the geodesics are also discussed.
+","[{""version"":""v1"",""created"":""Sat, 17 Jun 2000 17:38:22 GMT""}]","2009-10-31"
+"math/0006121","Dave Auckly","Fedor Andreev, David Auckly, Lev Kapitanski, Shekhar Gosavi, Atul
+  Kelkar and Warren White","Matching, linear systems, and the ball and beam","An image of the apparatus may be downloaded from
+  http://www.math.ksu.edu/~dav/",,,,"math.OC",,"  A recent approach to the control of underactuated systems is to look for
+control laws which will induce some specified structure on the closed loop
+system. This basic idea is used in several papers already. In this paper, we
+will describe one matching condition and an approach for finding all control
+laws that fit the condition. After an analysis of the resulting control laws
+for linear systems, we will present the results from an experiment on a ball
+and beam system.
+","[{""version"":""v1"",""created"":""Sat, 17 Jun 2000 18:46:46 GMT""},{""version"":""v2"",""created"":""Fri, 8 Nov 2002 23:11:00 GMT""}]","2007-05-23"
+"math/0006122","Richard Zach","Matthias Baaz, Agata Ciabattoni, Richard Zach","Quantified propositional Goedel logics","v.2: 17 pages, revised published version (v.1: 15 pages)","Michel Parigot, Andrei Voronkov (Eds.): Logic for Programming and
+  Automated Reasoning. 7th International Conference, LPAR 2000, Reunion Island,
+  France, November 11-12, 2000. Lecture Notes in Computer Science, Vol. 1955,
+  Springer, 2000. pp. 240-256",,,"math.LO",,"  It is shown that G-up, the quantified propositional Goedel-Dummett logic
+based on the truth-values set V-up = {1 - 1/n : n >= 1} u {1}, is decidable.
+This result is obtained by reduction to Buechi's theory S1S. An alternative
+proof based on elimination of quantifiers is also given, which yields both an
+axiomatization and a characterization of G-up as the intersection of all
+finite-valued quantified propositional Goedel logics.
+","[{""version"":""v1"",""created"":""Sat, 17 Jun 2000 20:37:32 GMT""},{""version"":""v2"",""created"":""Tue, 3 Oct 2000 21:41:40 GMT""}]","2007-05-23"
+"math/0006123","Huai-Dong Cao","Huai-Dong Cao and Jian Zhou","DGBV Algebras and Mirror Symmetry","11 pages, to appear in Proceedings of ICCM98",,,,"math.DG math.AT",,"  We describe some recent development on the theory of formal Frobenius
+manifolds via a construction from differential Gerstenhaber-Batalin-Vilkovisk
+(DGBV) algebras and formulate a version of mirror symmetry conjecture: the
+extended deformation problems of the complex structure and the Poisson
+structure are described by two DGBV algebras; mirror symmetry is interpreted in
+term of the invariance of the formal Frobenius manifold structures under
+quasi-isomorphism.
+","[{""version"":""v1"",""created"":""Sat, 17 Jun 2000 20:34:17 GMT""}]","2007-05-23"
+"math/0006124","Norbert A'Campo","Norbert A'Campo","Quadratic vanishing cycles, reduction curves and reduction of the
+  monodromy group of plane curve singularities","20 pages, 16 figures","Tohoku Math. Journal 53 (2001), 533-552",,,"math.AG math.GT",,"  The geometric monodromy of a plane curve singularity is a quasi-finite
+diffeomorphism. In this paper we locate the reduction curves of the geometric
+monodromy and the quadratic vanishing cycles of the singularity. An application
+to the geometric monodromy group is given.
+","[{""version"":""v1"",""created"":""Sun, 18 Jun 2000 14:42:55 GMT""}]","2007-05-23"
+"nucl-th/0006035","Kunihiro","Teiji Kunihiro","Nature of Chiral Transition in QCD and Sigma Meson","Talk Presented at Japan-China Joint Nuclear Physics Symposium ""Recent
+  Topics on Nuclear Physics"", November 30 - December 3, 1992, Tokyo Institute
+  of Technology. Published in the Proceedings of the Symposium, Ed. by H.
+  Ohnuma and M. Oka, (Tokyo Inst. fo Technology, March 1993). RYU-THP-93/1.
+  This has not been available on the net",,,,"nucl-th hep-ph",,"  After showing the characteristic features of the chiral transition in QCD at
+finite temperature $T$, we note the significance of the sigma-mesonic mode in
+the chiral transition : Sigma meson may be regarded as the ""Higgs particle"" in
+QCD, though the existence of such a mode in the real world is still unclear. We
+show the properties of the sigma meson in hot and/or hadronic matter, from
+which we propose experiments to reveal the existence the sigma meson clearly;
+the experiments include relativistic heavy-ion collisions to create hot
+hadronic matter, and electro-production in heavy nuclei.
+","[{""version"":""v1"",""created"":""Sun, 18 Jun 2000 02:42:02 GMT""}]","2007-05-23"
+"quant-ph/0006078","Ariel Gordon","J. E. Avron and A. Gordon","The Born Oppenheimer wave function near level crossing","21 pages, 7 figures",,"10.1103/PhysRevA.62.062504",,"quant-ph math-ph math.MP physics.chem-ph",,"  The standard Born Oppenheimer theory does not give an accurate description of
+the wave function near points of level crossing. We give such a description
+near an isotropic conic crossing, for energies close to the crossing energy.
+This leads to the study of two coupled second order ordinary differential
+equations whose solution is described in terms of the generalized
+hypergeometric functions of the kind 0F3(;a,b,c;z). We find that, at low
+angular momenta, the mixing due to crossing is surprisingly large, scaling like
+\mu^(1/6), where \mu is the electron to nuclear mass ratio.
+","[{""version"":""v1"",""created"":""Sun, 18 Jun 2000 09:13:41 GMT""},{""version"":""v2"",""created"":""Tue, 22 Aug 2000 11:57:17 GMT""}]","2009-11-06"
+"quant-ph/0006079","Johan Hansson","Johan Hansson","A possible experimental test to decide if quantum mechanical randomness
+  is due to deterministic chaos in the underlying dynamics","5 pages, 7 figures",,,,"quant-ph",,"  A simple experiment using radioactive decay is proposed to test the
+possibility of a determinsistic, but chaotic, origin of quantum mechanical
+randomness.
+","[{""version"":""v1"",""created"":""Sun, 18 Jun 2000 09:35:28 GMT""}]","2007-05-23"

@@ -1,0 +1,390 @@
+"astro-ph/0008307","Kirk D. Borne","Kirk D. Borne","Science User Scenarios for a Virtual Observatory Design Reference
+  Mission: Science Requirements for Data Mining","4 pages. Paper to appear in the proceedings of the June 2000 ""Virtual
+  Observatories of the Future"" conference at Caltech, edited by R. J. Brunner,
+  S. G. Djorgovski, & A. Szalay. (For figures and demos related to sample user
+  scenarios, see
+  http://adc.gsfc.nasa.gov/adc/adc_science/adc-science-scenario-papers.html .)",,,,"astro-ph cs.DB cs.DL cs.IR",,"  The knowledge discovery potential of the new large astronomical databases is
+vast. When these are used in conjunction with the rich legacy data archives,
+the opportunities for scientific discovery multiply rapidly. A Virtual
+Observatory (VO) framework will enable transparent and efficient access,
+search, retrieval, and visualization of data across multiple data repositories,
+which are generally heterogeneous and distributed. Aspects of data mining that
+apply to a variety of science user scenarios with a VO are reviewed. The
+development of a VO should address the data mining needs of various
+astronomical research constituencies. By way of example, two user scenarios are
+presented which invoke applications and linkages of data across the catalog and
+image domains in order to address specific astrophysics research problems.
+These illustrate a subset of the desired capabilities and power of the VO, and
+as such they represent potential components of a VO Design Reference Mission.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 17:54:01 GMT""}]","2007-05-23"
+"astro-ph/0008308","Jacco van Loon","Jacco van Loon (IoA Cambridge, UK, for the ISOGAL Collaboration)","Structure and evolution of the inner Milky Way galaxy: results from
+  ISOGAL","4 pages, 2 figures. Oral contribution to the 1st Euroconference on
+  The Evolution of Galaxies. I. Observational Clues, eds. J.M. Vilchez, G.
+  Stasinska and E. Perez",,"10.1023/A:1012712918711",,"astro-ph",,"  The DENIS/ISOGAL near/mid-IR survey of the Milky Way for the first time
+probes stellar populations in the innermost obscured regions of our galaxy.
+Ages, metallicities and extinction-corrected luminosities are derived for these
+stars individually. An old metal-rich population dominates in the inner
+galactic Bulge, but there are also indications for the presence of a younger
+population. The inner Bulge has a tri-axial shape, as traced by depth effects
+on the observed luminosity distributions.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 19:51:22 GMT""}]","2019-08-17"
+"astro-ph/0008309","Motoyuki Saijo","Motoyuki Saijo, Takashi Nakamura","Possible direct method to determine the radius of a star from the
+  spectrum of gravitational wave signals","4 pages with 3 eps figures, revtex.sty, accepted for publication in
+  Phys. Rev. Lett","Phys.Rev.Lett.85:2665-2668,2001","10.1103/PhysRevLett.85.2665","WU-AP/110/00, YITP 00-47","astro-ph gr-qc",,"  We computed the spectrum of gravitational waves from a dust disk star of
+radius R inspiraling into a Kerr black hole of mass M and specific angular
+momentum a. We found that when R is much larger than the wave length of the
+quasinormal mode, the spectrum has several peaks and the separation of peaks
+$\Delta\omega$ is proportional to $R^{-1}$ irrespective of M and a. This
+suggests that the radius of the star in coalescing binary black hole - star
+systems may be determined directly from the observed spectrum of gravitational
+wave. This also suggests that the spectrum of the radiation may give us
+important information in gravitational wave astronomy as in optical astronomy.
+","[{""version"":""v1"",""created"":""Sun, 20 Aug 2000 00:03:19 GMT""}]","2011-07-19"
+"astro-ph/0008311","Andreea Font","Andreea S. Font, George F. Mitchell (Saint Mary's University), Goeran
+  Sandell (USRA, NASA Ames Research Center)","A Submillimeter Study of the Star-Forming Region NGC7129","Accepted by ApJ",,"10.1086/321503",,"astro-ph",,"  New molecular (13CO J=3-2) and dust continuum (450 and 850 micron) SCUBA maps
+of the NGC7129 star forming region are presented, complemented by C18O J=3-2
+spectra at several positions within the mapped region. The maps include the
+Herbig Ae/Be star LkHalpha 234, the far-infrared source NGC 7129 FIRS2 and
+several other pre-stellar sources embedded within the molecular ridge.
+  The SCUBA maps help us understand the nature of the pre-main sequence stars
+in this actively star forming region. A deeply embedded submillimeter source,
+SMM2, not clearly seen in any earlier data set, is shown to be a pre-stellar
+core or possibly a protostar. The highest continuum peak emission is identified
+with the deeply embedded source IRS6, a few arcseconds away from LkHalpha 234,
+and also responsible for both the optical jet and the molecular outflow. The
+gas and dust masses are found to be consistent, suggesting little or no CO
+depletion onto grains. The dust emissivity index is lower towards the dense
+compact sources, beta ~1 - 1.6, and higher, beta ~ 2.0, in the surrounding
+cloud, implying small size grains in the PDR ridge, whose mantles have been
+evaporated by the intense UV radiation.
+","[{""version"":""v1"",""created"":""Sun, 20 Aug 2000 03:26:41 GMT""},{""version"":""v2"",""created"":""Wed, 20 Jun 2001 19:03:19 GMT""}]","2009-10-31"
+"astro-ph/0008312","Yasuhiro Shioya","Yasuhiro Shioya, Yoshiaki Taniguchi and Neil Trentham","Photometric Properties of the Arp 220 Super Star Clusters","8 pages, 5 figures. Accepted for publication in MNRAS","Mon.Not.Roy.Astron.Soc. 321 (2001) 11","10.1046/j.1365-8711.2001.03969.x",,"astro-ph",,"  We investigate the photometric properties of six super stellar clusters
+(SSCs) seen in both the optical and near-infrared Hubble Space Telescope images
+of the local ultraluminous starburst galaxy Arp 220. Three of the SSCs are
+located in the central 0.5 kpc region. The remaining three are in the
+circumnuclear region between 0.5 kpc and 2.5 kpc from the centre. Comparing the
+observed spectral energy distributions (SEDs) of the SSCs with the Starburst99
+models of Leitherer et al., we confirm that all the three nuclear SSCs are
+heavily obscured ($A_V \sim 10$ mag). Considering the results from this
+comparison in conjunction with measurements of the near-infrared CO absorption
+index and of millimetre CO line widths and luminosities, we estimate the ages
+of the nuclear SSCs to be $10^7 - 10^8$ yrs. The bolometric luminosity of the
+three nuclear SSCs is at most one-fifth of the total bolometric luminosity of
+Arp 220. On the other hand, the circumnuclear SSCs have little internal
+extinction ($A_V \leq$ 1 mag). These contribute negligibly to the total
+bolometric luminosity.
+","[{""version"":""v1"",""created"":""Sun, 20 Aug 2000 11:36:33 GMT""}]","2009-10-31"
+"hep-ex/0008040","Colin Ramm","C. A. Ramm","Unexplained Structure in (mu,pi) Invariant Mass Distributions","13 pages, 1 table, 9 sets of figures",,,,"hep-ex",,"  Structures in invariant mass distributions from (mu,pi) combinations in the
+range 0.380<mupi<0.470 GeV from neutrino and kaon experiments are presented in
+comparable formats. No artifacts have been found to account for any part of the
+structure. Hypotheses that the similarities are due to recurrent statistical
+fluctuations are beyond credibility. My conclusion is that the similarities are
+overwhelming evidence that the structure is of an unexplained physical origin.
+It includes an enhancement which would accord with the decay of a narrow
+(mu,pi) state of mass 0.429 GeV. The purpose of this report is to request and
+enable every experimenter with precise mupi distributions to investigate their
+degree of correspondence with these analyses.
+","[{""version"":""v1"",""created"":""Sun, 20 Aug 2000 02:18:31 GMT""}]","2007-05-23"
+"hep-ph/0008208","Jeffrey Bowers","Mark Alford (MIT), Jeffrey Bowers (MIT), Krishna Rajagopal (MIT)","Crystalline Color Superconductivity","40 pages, LaTeX with eps figs. v2: New paragraph on Ginzburg-Landau
+  treatment of LOFF phase in section 5. References added. v3: Small changes
+  only. Version to appear in Phys. Rev. D","Phys.Rev.D63:074016,2001","10.1103/PhysRevD.63.074016","MIT-CTP-3012","hep-ph astro-ph cond-mat.supr-con nucl-th",,"  In any context in which color superconductivity arises in nature, it is
+likely to involve pairing between species of quarks with differing chemical
+potentials. For suitable values of the differences between chemical potentials,
+Cooper pairs with nonzero total momentum are favored, as was first realized by
+Larkin, Ovchinnikov, Fulde and Ferrell (LOFF). Condensates of this sort
+spontaneously break translational and rotational invariance, leading to gaps
+which vary periodically in a crystalline pattern. Unlike the original LOFF
+state, these crystalline quark matter condensates include both spin zero and
+spin one Cooper pairs. We explore the range of parameters for which crystalline
+color superconductivity arises in the QCD phase diagram. If in some shell
+within the quark matter core of a neutron star (or within a strange quark star)
+the quark number densities are such that crystalline color superconductivity
+arises, rotational vortices may be pinned in this shell, making it a locus for
+glitch phenomena.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 18:23:31 GMT""},{""version"":""v2"",""created"":""Fri, 8 Sep 2000 15:35:49 GMT""},{""version"":""v3"",""created"":""Sat, 6 Jan 2001 19:59:03 GMT""}]","2010-11-19"
+"hep-ph/0008212","Felipe J. Llanes-Estrada","Felipe J. Llanes-Estrada, Stephen R. Cotanch, Pedro J. de A. Bicudo,
+  J. Emilio F. T. Ribeiro, Adam P. Szczepaniak","QCD Glueball Regge Trajectories and the Pomeron","10 pages, 4 ps figures","Nucl.Phys. A710 (2002) 45-54","10.1016/S0375-9474(02)01090-4",,"hep-ph",,"  We report a glueball Regge trajectory emerging from diagonalizing a confining
+Coulomb gauge Hamiltonian for constituent gluons. Using a BCS vacuum ansatz and
+gap equation, the dressed gluons acquire a mass, of order 800 $MeV$, providing
+the quasiparticle degrees of freedom for a TDA glueball formulation. The TDA
+eigenstates for two constituent gluons have orbital, $L$, excitations with a
+characteristic energy of 400 $MeV$ revealing a clear Regge trajectory for
+$\vec{J} = \vec{L} + \vec{S}$, where $S$ is the total (sum) gluon spin.
+Significantly, the $S = 2$ glueball spectrum coincides with the Pomeron given
+by $\alpha_P(t)=1.08+0.25 t $. Finally, we also ascertain that lattice data
+supports our result, yielding an average intercept of 1.1 in good agreement
+with the Pomeron.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 20:35:36 GMT""},{""version"":""v2"",""created"":""Tue, 10 Oct 2000 20:09:28 GMT""}]","2009-10-31"
+"hep-ph/0008213","Gogoladze Ilia","Ilia Gogoladze and Mirian Tsulaia","Anomalous U(1)_A and Electroweak Symmetry Breaking","Latex, 11 pages, discussions and references added","Mod.Phys.Lett. A16 (2001) 835-844","10.1142/S0217732301004005","JINR E2-2000-207, IC/2000/149","hep-ph hep-th",,"  We suggest a new mechanism for electroweak symmetry breaking in the
+supersymmetric Standard Model. Our suggestion is based on the presence of an
+anomalous U(1)_A gauge symmetry, which naturally arises in the four dimensional
+superstring theory, and heavily relies on the value of the corresponding
+Fayet-Illiopoulos \xi-term.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 22:20:59 GMT""},{""version"":""v2"",""created"":""Sat, 9 Sep 2000 16:13:41 GMT""},{""version"":""v3"",""created"":""Wed, 14 Feb 2001 22:57:34 GMT""}]","2009-10-31"
+"hep-th/0008155","Maulik K. Parikh","Maulik K. Parikh","Phases of Thermal Super Yang-Mills","Latex, 10 pages, 1 figure, MPLA brief review","Mod.Phys.Lett.A15:655-674,2000","10.1142/S0217732300000657","SPIN-2000/11","hep-th",,"  We review the thermodynamics of the confined and unconfined phases of
+superconformal Yang-Mills at large N on a three-sphere, focussing especially on
+the confinement-deconfinement transition. We determine an N-dependent phase
+boundary and point out some directions for future work.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 18:33:33 GMT""}]","2014-11-18"
+"hep-th/0008156","David Adams","David H. Adams and Emil M. Prodanov","A remark on Schwarz's topological field theory","9 pages, latex, to appear in Lett. Math. Phys","Lett.Math.Phys. 51 (2000) 249-255",,,"hep-th",,"  The standard evaluation of the partition function $Z$ of Schwarz's
+topological field theory results in the Ray--Singer analytic torsion. Here we
+present an alternative evaluation which results in Z=1. Mathematically, this
+amounts to a novel perspective on analytic torsion: it can be formally written
+as a ratio of volumes of spaces of differential forms which is formally equal
+to 1 by Hodge duality. An analogous result for Reidemeister combinatorial
+torsion is also obtained.
+","[{""version"":""v1"",""created"":""Sun, 20 Aug 2000 09:15:38 GMT""}]","2007-05-23"
+"hep-th/0008157","Masaki Yasue","Yasuharu Honda & Masaki Yasue","Fate of Chiral Symmetries in Supersymmetric Quantum Chromodynamics","Talk at XXXth International Conference on High Energy Physics, July
+  27-August 2, 2000, Osaka, Japan",,,"TOKAI-HEP/TH-0003","hep-th",,"  In supersymmetric quantum chromodynamics with N_c-colors and N_f-flavors of
+quarks, our effective superpotential provides the alternative description to
+the Seiberg's N=1 duality at least for N_f>=N_c+2, where spontaneous breakdown
+of chiral symmetries leads to SU(N_c)_{L+R}xSU(N_f-N_c)_LXSU(N_f-N_c)_R as a
+nonabelian chiral symmetry. The anomaly-matching is ensured by the presence of
+Nambu-Goldstone superfields associated with this breaking and the instanton
+contributions are properly equipped in the effective superpotential.
+","[{""version"":""v1"",""created"":""Sun, 20 Aug 2000 14:43:04 GMT""}]","2007-05-23"
+"math/0008153",,"Shigeki Matsutani","Closed Loop Solitons and Sigma Functions: Classical and Quantized
+  Elasticas with Genera One and Two","AMS-Tex Use 12 pages",,"10.1016/S0393-0440(00)00074-7",,"math.DG math-ph math.MP nlin.SI",,"  Closed loop solitons in a plane, whose curvatures obey the modified
+Korteweg-de Vries equation, were investigated. It was shown that their
+tangential vectors are expressed by ratio of Weierstrass sigma functions for
+genus one case and ratio of Baker's sigma functions for the genus two case.
+This study is closely related to classical and quantized elastica problems.
+","[{""version"":""v1"",""created"":""Sun, 20 Aug 2000 07:10:13 GMT""},{""version"":""v2"",""created"":""Sun, 27 Aug 2000 11:46:04 GMT""},{""version"":""v3"",""created"":""Sun, 4 Mar 2001 02:48:42 GMT""}]","2009-10-31"
+"math/0008154",,"Vassily Gorbounov, Fyodor Malikov, Vadim Schechtman","On chiral differential operators over homogeneous spaces","21 pages, Tex. Minor complements and references added",,,,"math.AG",,"  In this note we study algebras of chiral differential operators over an
+algebraic group and over homogeneous spaces $G/G'$ where $G$ is simple and $G'$
+is unipotent or parabolic.
+","[{""version"":""v1"",""created"":""Sun, 20 Aug 2000 11:28:33 GMT""},{""version"":""v2"",""created"":""Sun, 27 Aug 2000 09:22:10 GMT""}]","2007-05-23"
+"physics/0008173","Milorad Popovic","Milorad Popovic and Todd Sullivan","Observation of a H- Beam Ion Instability","Linac2000 THB22","eConf C000821:THB22,2000",,,"physics.acc-ph",,"  We report the results of observations of H- beam instabilities at the
+Fermilab Linac. By intentionally creating ""high"" background pressure with
+different gases in the 750 keV transport line we observed coherent transverse
+beam oscillations. The minimal pulse length required to observe oscillations
+and the frequency of oscillations are functions of pressure and mass of the
+background gas. The oscillations are present in both transverse planes and very
+quickly reach saturation in amplitude growth. The observed characteristics of
+beam oscillations are in quantitative agreement with ""fast beam-ion
+instability"" described by Raubenheimer and Zimmermann. Effects described here
+are occur far from the normal operating range of the Fermilab Linac but may be
+important for many future high intensity accelerators.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 17:59:52 GMT""}]","2010-11-15"
+"physics/0008181","Andrei Kolomiets","A. Kolomiets, S. Yaramishev (ITEP, Moscow, Russia)","Study of Nonlinearities and Small Particle Losses in High Power Linac","LINAC2000, THB04","eConf C000821 (2000) THB04",,,"physics.acc-ph",,"  The conception of High Power Linac developed in Russian accelerator centres
+is based on the use of independently phased SC resonators with quadrupole
+lenses between them. The type and parameters of the resonators as well as
+focusing structure are varied along the linac to optimise beam dynamics and the
+characteristics of the linac. The beam evolution in the linac was studied by
+simulation in 3D accelerating and focusing fields by computer code DYNAMION.
+  The simulation includes all nonlinearities of external fields and space
+charge forces. Estimations of particle losses in the beam based on analysis of
+the spectral properties of particle trajectories were carried out.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 17:06:00 GMT""},{""version"":""v2"",""created"":""Tue, 22 Aug 2000 23:15:10 GMT""}]","2007-05-23"
+"physics/0008182","Lisa A. Day & Martin Pieck","L. A. Day, M. Pieck, D. Barr, K. U. Kasemir, B. A. Quintana, G. A.
+  Salazar, M. W. Stettler (Los Alamos, Los Alamos National Laboratory, NM, USA)","Control System for the LEDA 6.7-MeV Proton Beam Halo Experiment","LINAC2000 Conference, 4 pgs","eConf C000821 (2000) TUc15",,,"physics.acc-ph",,"  Measurement of high-power proton beam-halo formation is the ongoing
+scientific experiment for the Low Energy Demonstration Accelerator (LEDA)
+facility. To attain this measurement goal, a 52-magnet beam line containing
+several types of beam diagnostic instrumentation is being installed. The
+Experimental Physics and Industrial Control System (EPICS) and commercial
+software applications are presently being integrated to provide a real-time,
+synchronous data acquisition and control system. This system is comprised of
+magnet control, vacuum control, motor control, data acquisition, and data
+analysis. Unique requirements led to the development and integration of
+customized software and hardware. EPICS real-time databases, Interactive Data
+Language (IDL) programs, LabVIEW Virtual Instruments (VI), and State Notation
+Language (SNL) sequences are hosted on VXI, PC, and UNIX-based platforms which
+interact using the EPICS Channel Access (CA) communication protocol.
+Acquisition and control hardware technology ranges from DSP-based diagnostic
+instrumentation to the PLC-controlled vacuum system. This paper describes the
+control system hardware and software design, and implementation.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 17:09:52 GMT""}]","2007-05-23"
+"physics/0008183","Ostroumov","P.N. Ostroumov, J.A. Nolen, K.W. Shepard","Multiple-Charge Beam Dynamics in an Ion Linac","LINAC2000, FR101","eConf C000821:FR101,2000","10.1103/PhysRevSTAB.3.030101",,"physics.acc-ph",,"  There is demand for the construction of a medium-energy ion linear
+accelerator based on superconducting rf (SRF) technology. It must be capable of
+producing several hundred kilowatts of CW beams ranging from protons to
+uranium. A considerable amount of power is required in order to generate
+intense beams of rare isotopes for subsequent acceleration. At present,
+however, the beam power available for the heavier ions would be limited by ion
+source performance. To overcome this limit, we have studied the possibility of
+accelerating multiple-charge-state (multi-Q) beams through a linac. We show
+that such operation is made feasible by the large transverse and longitudinal
+acceptance which can be obtained in a linac using superconducting cavities.
+Multi-Q operation provides not only a substantial increase in beam current, but
+also enables the use of two strippers, thus reducing the size of linac
+required. Since the superconducting (SC) linac operates in CW mode, space
+charge effects are essentially eliminated except in the ECR/RFQ region.
+Therefore an effective emittance growth due to the multi-charge beam
+acceleration can be minimized.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 17:47:08 GMT""}]","2011-07-18"
+"physics/0008184","Ostroumov","P.N. Ostroumov, K.W. Shepard, V.N. Aseev, A.A. Kolomiets","Heavy-Ion Beam Acceleration of Two-Charge States from an Ecr Ion Source","LINAC2000, MOD01","eConf C000821 (2000) MOD01",,,"physics.acc-ph",,"  This paper describes a design for the front end of a superconducting (SC) ion
+linac which can accept and simultaneously accelerate two charge states of
+uranium from an ECR ion source. This mode of operation increases the beam
+current available for the heaviest ions by a factor of two. We discuss the 12
+MeV/u prestripper section of the Rare Isotope Accelerator (RIA) driver linac
+including the LEBT, RFQ, MEBT and SC sections, with a total voltage of 112 MV.
+The LEBT consists of two bunchers and electrostatic quadrupoles. The
+fundamental frequency of both bunchers is half of the RFQ frequency. The first
+buncher is a multiharmonic buncher, designed to accept more than 80% of each
+charge state and to form bunches of extremely low longitudinal emittance (rms
+emittance is lower than 0.2 keV/u nsec) at the output of the RFQ. The second
+buncher is located directly in front of the RFQ and matches the velocity of
+each charge-state bunch to the design input velocity of the RFQ. We present
+full 3D simulations of a two-charge-state uranium beam including space charge
+forces in the LEBT and RFQ, realistic distributions of all electric and
+magnetic fields along the whole prestripper linac, and the effects of errors,
+evaluated for several design options for the prestripper linac. The results
+indicate that it is possible to accelerate two charge states while keeping
+emittance growth within tolerable limits.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 17:52:31 GMT""}]","2007-05-23"
+"physics/0008185","Ostroumov","P.N. Ostroumov, R.C. Pardo, G.P. Zinkann, K.W. Shepard, J.A. Nolen","Multiple Charge State Beam Acceleration at Atlas","LINAC2000, MOD02","eConf C000821 (2000) MOD02",,,"physics.acc-ph",,"  A test of the acceleration of multiple charge-state uranium beams was
+performed at the ATLAS accelerator. A 238U+26 beam was accelerated in the ATLAS
+PII linac to 286 MeV (~1.2 MeV/u) and stripped in a carbon foil located 0.5 m
+from the entrance of the ATLAS Booster section. A 58Ni9+ 'guide' beam from the
+tandem injector was used to tune the Booster for 238U+38. All charge states
+from the stripping were injected into the booster and accelerated. Up to 94% of
+the beam was accelerated through the Booster linac, with losses mostly in the
+lower charge states. The measured beam properties of each charge state and a
+comparison to numerical simulations are reported in this paper.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 17:55:50 GMT""}]","2007-05-23"
+"physics/0008186","Walter P. Lysenko","W.P. Lysenko, J.D. Gilpatrick, L.J. Rybarcyk, J.D. Schneider, H.V.
+  Smith Jr, L.M. Young and M.E. Schulze","Determining Phase-Space Properties of the LEDA RFQ Output Beam","LINAC2000 conference, paper THB08","eConf C000821 (2000) THB08",,,"physics.acc-ph",,"  Quadrupole scans were used to characterize the LEDA RFQ beam. Experimental
+data were fit to computer simulation models for the rms beam size. The codes
+were found to be inadequate in accurately reproducing details of the wire
+scanner data. When this discrepancy is resolved, we plan to fit using all the
+data in wire scanner profiles, not just the rms values, using a 3-D nonlinear
+code.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 18:55:17 GMT""}]","2007-05-23"
+"physics/0008187","Masayoshi Sugimoto","M. Sugimoto, M. Kinsho, H. Takeuchi","Concept of Staged Approach for International Fusion Materials
+  Irradiation Facility","3 pages, Linac2000 paper ID No. TUE16","eConf C000821 (2000) TUE16",,,"physics.acc-ph",,"  The intense neutron source for development of fusion materials planned by
+international collaboration makes a new step to clarify the technical issues
+for realizing the 40 MeV, 250 mA deuteron beam facility. The baseline concept
+employs two identical 125 mA linac modules whose beams are combined at the
+flowing lithium target. Recent work for reducing the cost loading concerns the
+staged deployment of the full irradiation capability in three steps. The
+Japanese activity about the design and development study about IFMIF
+accelerator in this year is presented and the schedule of next several years is
+overviewed.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 19:21:00 GMT""}]","2007-05-23"
+"physics/0008188","Edward G. Cook","E.G. Cook, B.S. Lee, S.A. Hawkins, F.V. Allen, B.C. Hickman, H.C.
+  Kirbie, C.A. Brooksby","Inductive-Adder Kicker Modulator for Darht-2","LINAC2000 TUC10, 3 pages","eConf C000821 (2000) TUc10",,"UCRL-JC-138494","physics.acc-ph",,"  An all solid-state kicker modulator for the Dual-Axis Radiographic
+Hydrodynamic Test facility (DARHT-2) has been designed and tested. This kicker
+modulator uses multiple solid-state modules stacked in an inductive-adder
+configuration where the energy is switched into each section of the adder by a
+parallel array of MOSFETs. The modulator features very fast rise and fall
+times, pulse width agility and a high pulse-repetition rate in burst mode. The
+modulator can drive a 50* cable with voltages up to 20 kV and can be easily
+configured for either positive or negative polarity. The presentation will
+include test data collected from both the ETA II accelerator kicker and
+resistive dummy loads.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 21:19:14 GMT""}]","2007-05-23"
+"physics/0008189","Edward G. Cook","E.G. Cook","Review of Solid-State Modulators","LINAC2000 WE103, 5 pages","eConf C000821 (2000) WE103",,"UCRL-JC-138493","physics.acc-ph",,"  Solid-state modulators for pulsed power applications have been a goal since
+the first fast high-power semiconductor devices became available. Recent
+improvements in both the speed and peak power capabilities of semiconductor
+devices developed for the power conditioning and traction industries have led
+to a new generation of solid-state switched high power modulators with
+performance rivaling that of hard tube modulators and thyratron switched
+line-type modulators. These new solid-state devices offer the promise of higher
+efficiency and longer lifetimes at a time when availability of standard
+technologies is becoming questionable. A brief discussion of circuit topologies
+and solid-state devices is followed by examples of modulators currently in use
+or in test. This presentation is intended to give an overview of the current
+capabilities of solid-state modulators in various applications.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 21:25:26 GMT""}]","2007-05-23"
+"physics/0008190","Rui Li","R. Li","Analysis and Simulation on the Enhancement of the CSR Effects","3 pages, 4 figures, LINAC2000, MOE01","eConf C000821 (2000) MOE01",,,"physics.acc-ph",,"  Recent measurements of the coherent synchrotron radiation (CSR) effects
+indicated that the observed beam emittance growth and energy modulation are
+often bigger than previous predictions based on Gaussian longitudinal charge
+distributions. In this paper, by performing a model study, we show both
+analytically and numerically that when the longitudinal bunch charge
+distribution involves concentration of charges in a small fraction of the bunch
+length, enhancement of the CSR self-interaction beyond the Gaussian prediction
+may occur. The level of this enhancement is sensitive to the level of the local
+charge concentration.
+","[{""version"":""v1"",""created"":""Sun, 20 Aug 2000 06:57:11 GMT""}]","2007-05-23"
+"physics/0008191","Andrei Seryi","A.Seryi, M.Breidenbach, J.Frisch","Ground Motion Studies and Modeling for the Interaction Region of a
+  Linear Collider","submitted to XX International Linac Conference","eConfC000821:MOA12,2000",,"moa12","physics.acc-ph",,"  Ground motion may be a limiting factor in the performance of future linear
+colliders. Cultural noise sources, an important component of ground motion, are
+discussed here, with data from the SLD region at SLAC.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 22:58:29 GMT""}]","2008-11-26"
+"physics/0008192","Andrei Seryi","Andrei Seryi, Tor Raubenheimer","Ground Motion Model of the SLAC Site","submitted to XX International Linac Conference","eConf C000821 (2000) MOA13",,"moa13","physics.acc-ph",,"  We present a ground motion model for the SLAC site. This model is based on
+recent ground motion studies performed at SLAC as well as on historical data.
+The model includes wave-like, diffusive and systematic types of motion. An
+attempt is made to relate measurable secondary properties of the ground motion
+with more basic characteristics such as the layered geological structure of the
+surrounding earth, depth of the tunnel, etc. This model is an essential step in
+evaluating sites for a future linear collider.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 23:03:43 GMT""}]","2007-05-23"
+"physics/0008193","Andrei Seryi","A.Seryi, L.Hendrickson, P.Raimondi, T.Raubenheimer, P.Tenenbaum","Simulation Studies of the NLC with Improved Ground Motion Models","Submitted to XX International Linac Conference","eConfC000821:MOA14,2000",,"moa14","physics.acc-ph",,"  The performance of various systems of the Next Linear Collider (NLC) have
+been studied in terms of ground motion using recently developed models. In
+particular, the performance of the beam delivery system is discussed. Plans to
+evaluate the operation of the main linac beam-based alignment and feedback
+systems are also outlined.
+","[{""version"":""v1"",""created"":""Sat, 19 Aug 2000 23:08:02 GMT""}]","2008-11-26"
+"physics/0008194","Mark D. Woodley","M. D. Woodley and P. E. Emma (SLAC, Stanford, CA, USA)","Measurement and Correction of Cross-Plane Coupling in Transport Lines","PDF file (3 pages, 2 equations, 7 figures); submitted to Linac2000
+  (August 21-25, 2000, Monterey, CA, USA), paper ID: MOC19","eConf C000821 (2000) MOc19",,"SLAC-PUB-8581","physics.acc-ph",,"  In future linear colliders the luminosity will depend on maintaining the
+small emittance aspect ratio delivered by damping rings. Correction of
+cross-plane coupling can be important in preventing dilution of the beam
+emittance. In order to minimize the vertical emittance, especially for a flat
+beam, it is necessary to remove all cross-plane (x-y) correlations. This paper
+studies emittance measurement and correction for coupled beams in the presence
+of realistic measurement errors. The results of simulations show that
+reconstruction of the full 4x4 beam matrix can be misleading in the presence of
+errors. We suggest more robust tuning procedures for minimizing linear
+coupling.
+","[{""version"":""v1"",""created"":""Sun, 20 Aug 2000 01:39:54 GMT""}]","2007-05-23"
+"physics/0008195","Andrei Seryi","Andrei Seryi","Investigations of Slow Motions of the SLAC Linac Tunnel","Submitted to XX International Linac Conference","eConf C000821 (2000) MOA11",,"moa11","physics.acc-ph",,"  Investigations of slow transverse motion of the linac tunnel of the Stanford
+Linear Collider have been performed over period of about one month in December
+1999 -- January 2000. The linac laser alignment system, equipped with a
+quadrant photodetector, allowed submicron resolution measurement of the motion
+of the middle of the linac tunnel with respect to its ends. Measurements
+revealed two major sources responsible for the observed relative motion.
+Variation of the external atmospheric pressure was found to be the most
+significant cause of short wavelength transverse motion of the tunnel. The long
+wavelength component of the motion has been also observed to have a large
+contribution from tidal effects. The measured data are essential for
+determination of parameters for the Next Linear Collider.
+","[{""version"":""v1"",""created"":""Sun, 20 Aug 2000 00:40:39 GMT""}]","2007-05-23"
+"physics/0008196","Ji Qiang","Ji Qiang and Salman Habib","A Second-Order Stochastic Leap-Frog Algorithm for Langevin Simulation","3 pages, 4 figures, to submit to XX International LINAC conference","eConf C000821 (2000) MOA20",,,"physics.acc-ph",,"  Langevin simulation provides an effective way to study collisional effects in
+beams by reducing the six-dimensional Fokker-Planck equation to a group of
+stochastic ordinary differential equations. These resulting equations usually
+have multiplicative noise since the diffusion coefficients in these equations
+are functions of position and time. Conventional algorithms, e.g. Euler and
+Heun, give only first order convergence of moments in a finite time interval.
+In this paper, a stochastic leap-frog algorithm for the numerical integration
+of Langevin stochastic differential equations with multiplicative noise is
+proposed and tested. The algorithm has a second-order convergence of moments in
+a finite time interval and requires the sampling of only one uniformly
+distributed random variable per time step. As an example, we apply the new
+algorithm to the study of a mechanical oscillator with multiplicative noise.
+","[{""version"":""v1"",""created"":""Sun, 20 Aug 2000 03:53:09 GMT""}]","2007-05-23"
+"physics/0008197","Chris Adolphsen","C. Adolphsen (1), W. Baumgartner (1), K. Jobe (1), R. Loewen (1), D.
+  McCormick (1), M. Ross (1), T. Smith (1), J.W. Wang (1) and T. Higo (2) ((1)
+  SLAC (2) KEK)","RF Processing of X-band Accelerator Structures at the NLCTA","Submitted to LINAC 2000: Paper ID = TUE01","eConf C000821 (2000) TUE01",,"SLAC-PUB-8573","physics.acc-ph",,"  During the initial phase of operation, the linacs of the Next Linear Collider
+(NLC) will contain roughly 5000 X-Band accelerator structures that will
+accelerate beams of electrons and positrons to 250 GeV. These structures will
+nominally operate at an unloaded gradient of 72 MV/m. As part of the NLC R&D
+program, several prototype structures have been built and operated at the Next
+Linear Collider Test Accelerator (NLCTA) at SLAC. Here, the effect of high
+gradient operation on the structure performance has been studied. Significant
+progress was made during the past year after the NLCTA power sources were
+upgraded to reliably produce the required NLC power levels and beyond. This
+paper describes the structures, the processing methodology and the observed
+effects of high gradient operation.
+","[{""version"":""v1"",""created"":""Sun, 20 Aug 2000 04:34:46 GMT""}]","2007-05-23"
+"physics/0008198","Roger M. Jones","R.M. Jones, R.H. Miller, T.O. Raubenheimer, and G.V. Stupakov","Fabrication and Tolerance Issues and their Influence on Multi-Bunch Bbu
+  and Emittance Dilution in the Construction of X-Band RDDS Linacs for the NLC","3 pages This paper is for submission to LINAC2000","eConf C000821:TUA07,2000",,,"physics.acc-ph",,"  The main linacs of the Next Linear Collider (NLC) will contain several
+thousand X-band RDDS (Rounded Damped Detuned Structures). The transverse
+wakefield in the structures is reduced by detuning the modal frequencies such
+that they destructively interfere and by four damping manifolds per structure
+which provide weak damping. Errors in the fabrication of the individual cells
+and in the alignment of the cells will reduce the cancellation of the modes.
+Here, we calculate the tolerances on random errors in the synchronous
+frequencies of the cells and the cell-to-cell alignment.
+","[{""version"":""v1"",""created"":""Sun, 20 Aug 2000 06:13:11 GMT""}]","2009-03-12"
+"physics/0008199","Nobuo Ouchi","N.Ouchi, E.Chishiro, C.Tsukishima, K.Mukugi","Pulsed SC Proton Linac","LINAC2000 conference, WE205, 5 pages, 13 figures","eConf C000821 (2000) WE205",,,"physics.acc-ph",,"  The superconducting (SC) proton linac is proposed in the JAERI/KEK Joint
+Project for a high-intensity proton accelerator in the energy region from 400
+to 600 MeV. Highly stable fields in the SC cavities are required under the
+dynamic Lorentz force detuning. A new model describing the dynamic Lorentz
+detuning has been developed and the validity has been confirmed experimentally.
+The model has been applied successfully to the rf control simulation of the SC
+proton linac.
+","[{""version"":""v1"",""created"":""Sun, 20 Aug 2000 10:28:47 GMT""}]","2019-08-17"
+"physics/0008200","Michael Zeitlin","Antonina N. Fedorova, Michael G. Zeitlin","Multiresolution Representations for Solutions of Vlasov-Maxwell-Poisson
+  Equations","3 pages, 2 figures, JAC2000.cls, presented at LINAC2000, paper MOE15","eConf C000821 (2000) MOE15",,,"physics.acc-ph math-ph math.MP nlin.PS physics.comp-ph",,"  We present the applications of variational-wavelet approach for computing
+multiresolution/multiscale representation for solution of some approximations
+of Vlasov-Maxwell-Poisson equations.
+","[{""version"":""v1"",""created"":""Sun, 20 Aug 2000 13:12:29 GMT""}]","2007-05-23"

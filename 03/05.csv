@@ -1,0 +1,214 @@
+"astro-ph/0003062","Mitesh Patel","Mitesh Patel, George M. Fuller (UCSD)","Primordial black holes, phase transitions, and the fate of the universe","3 pages LaTeX (prcrc.sty), 0 figures, pompous title, in Proceedings
+  of the 3rd International Symposium on Sources and Detection of Dark Matter in
+  the Universe (DM98), Feb. 1998, ed. D. Cline",,,,"astro-ph",,"  Phase transitions in the early universe are prime settings for the production
+of primordial black holes, since they can break the relatively quiescent
+homogeneity and isotropy of Friedmann-Robertson-Walker (FRW) cosmologies. These
+epochs of ""symmetry breaking,"" moreover, can affect the subsequent development
+of spacetime by changing the evolution of some FRW parameters, including the
+present age and density of the universe. We discuss the relative importance of
+such effects on constraining mechanisms of black hole formation.
+","[{""version"":""v1"",""created"":""Sun, 5 Mar 2000 03:40:31 GMT""}]","2007-05-23"
+"astro-ph/0003065","Afsar Abbas","Afsar Abbas","On the origin of the universe","Revised version, title changed, minor changes in text, Latex file,
+  five pages, no figures","Spacetime $ Substance Journal, vol 2(7), (2001) 49",,,"astro-ph",,"  It has been proven recently that the Standard Model of particle physics has
+electric charge quantization built into it. It has also been shown by the
+author that there was no electric charge in the early universe. Further it is
+shown here that the restoration of the full Standard Model symmetry (as in the
+Early Universe) leads to the result that `time', `light', along with it's
+velocity c and the theory of relativity, all lose any physical meaning. The
+physical Universe as we know it, with its space-time structure, disappears in
+this phase transition. Hence it is hypothesized here that the Universe came
+into existence when the Standard Model symmetry $SU(3)_C \otimes SU(2)_L
+\otimes U(1)_Y$ was spontaneously broken to $SU(3)_C \otimes U(1)_{em}$. This
+does not require any spurious extensions of the Standard Model and in a simple
+and consistent manner explains the origin of the Universe within the framework
+of the Standard Model itself.
+","[{""version"":""v1"",""created"":""Sun, 5 Mar 2000 15:50:55 GMT""},{""version"":""v2"",""created"":""Thu, 21 Jun 2001 15:20:07 GMT""}]","2007-05-23"
+"cond-mat/0003059","Saeid Davatolhagh","Saeid Davatolhagh and Bruce R. Patton (Department of Physics, The Ohio
+  State University)","Bond-Ordering Model for the Glass Transition","7 pages, 6 figures","Complete version in Phys. Rev. B 64, 224206 (2001)","10.1103/PhysRevB.64.224206",,"cond-mat",,"  We consider the idea of bond ordering as a model for glass transition: a
+generic covalently bonded liquid may substantially reduce its energy through
+bond ordering, without undergoing significant structural order. This concept is
+developed for a model system using quantities such as a bond order parameter
+and susceptibility which provide new identification for calorimetric glass
+transition temperature. Monte Carlo simulation results exhibit bond ordering at
+intermediate temperatures uncorrelated with any long-range structural ordering.
+Also discussed are various other implications of bond-ordering model for glass
+transition.
+","[{""version"":""v1"",""created"":""Sat, 4 Mar 2000 23:01:27 GMT""}]","2009-10-31"
+"cond-mat/0003060","Sergey Safonov","S. S. Safonov, S. H. Roshko, A. K. Savchenko, A. G. Pogosov, and Z. D.
+  Kvon","Metallic and insulating behaviour of the two-dimensional electron gas on
+  a vicinal surface of Si MOSFETs","4 pages, 4 figures",,,,"cond-mat.mes-hall",,"  The resistance R of the 2DEG on the vicinal Si surface shows an unusual
+behaviour, which is very different from that in the (100) Si MOSFET where an
+unconventional metal to insulator transition has been reported. The crossover
+from the insulator with dR/dT<0 to the metal with dR/dT>0 occurs at a low
+resistance of R_{\Box}^c \sim 0.04h/e^2. At the low-temperature transition,
+which we attribute to the existence of a narrow impurity band at the interface,
+a distinct hysteresis in the resistance is detected. At higher temperatures,
+another change in the sign of dR/dT is seen and related to the crossover from
+the degenerate to non-degenerate 2DEG.
+","[{""version"":""v1"",""created"":""Sun, 5 Mar 2000 01:40:52 GMT""}]","2007-05-23"
+"cs/0003007","Ken Satoh","Ken Satoh, Hidenori Okamoto","Computing Circumscriptive Databases by Integer Programming: Revisited
+  (Extended Abstract)",,,,,"cs.AI cs.LO",,"  In this paper, we consider a method of computing minimal models in
+circumscription using integer programming in propositional logic and
+first-order logic with domain closure axioms and unique name axioms. This kind
+of treatment is very important since this enable to apply various technique
+developed in operations research to nonmonotonic reasoning.
+  Nerode et al. (1995) are the first to propose a method of computing
+circumscription using integer programming. They claimed their method was
+correct for circumscription with fixed predicate, but we show that their method
+does not correctly reflect their claim. We show a correct method of computing
+all the minimal models not only with fixed predicates but also with varied
+predicates and we extend our method to compute prioritized circumscription as
+well.
+","[{""version"":""v1"",""created"":""Sun, 5 Mar 2000 09:57:49 GMT""}]","2007-05-23"
+"cs/0003008","Ken Satoh","Ken Satoh","Consistency Management of Normal Logic Program by Top-down Abductive
+  Proof Procedure",,,,,"cs.AI",,"  This paper presents a method of computing a revision of a function-free
+normal logic program. If an added rule is inconsistent with a program, that is,
+if it leads to a situation such that no stable model exists for a new program,
+then deletion and addition of rules are performed to avoid inconsistency. We
+specify a revision by translating a normal logic program into an abductive
+logic program with abducibles to represent deletion and addition of rules. To
+compute such deletion and addition, we propose an adaptation of our top-down
+abductive proof procedure to compute a relevant abducibles to an added rule. We
+compute a minimally revised program, by choosing a minimal set of abducibles
+among all the sets of abducibles computed by a top-down proof procedure.
+","[{""version"":""v1"",""created"":""Sun, 5 Mar 2000 10:29:03 GMT""}]","2007-05-23"
+"hep-ph/0003033","Michelangelo Mangano","M.Beneke, I.Efthymiopoulos, M.L.Mangano, J.Womersley, A.Ahmadov,
+  G.Azuelos, U.Baur, A.Belyaev, E.L.Berger, W.Bernreuther, E.E.Boos, M.Bosman,
+  A.Brandenburg, R.Brock, M.Buice, N.Cartiglia, F.Cerutti, A.Cheplakov,
+  L.Chikovani, M.Cobal-Grassmann, G.Corcella, F.del Aguila, T.Djobava, J.Dodd,
+  V.Drollinger, A.Dubak, S.Frixione, D.Froidevaux, B.Gonzalez Pineiro,
+  Y.P.Gouz, D.Green, P.Grenier, S.Heinemeyer, W.Hollik, V.Ilyin, C.Kao,
+  A.Kharchilava, R. Kinnunen, V.V.Kukhtin, S.Kunori, L.La Rotonda, A.Lagatta,
+  M.Lefebvre, K.Maeshima, G.Mahlon, S.Mc Grath, G.Medin, R.Mehdiyev, B.Mele,
+  Z.Metreveli, D.O'Neil, L.H.Orr, D.Pallin, S.Parke, J.Parsons, D.Popovic,
+  L.Reina, E.Richter-Was, T.G.Rizzo, D.Salihagic, M.Sapinski, M.H.Seymour,
+  V.Simak, L.Simic, G.Skoro, S.R.Slabospitsky, J.Smolik, L.Sonnenschein,
+  T.Stelzer, N.Stepanov, Z.Sullivan, T.Tait, I.Vichou, R.Vidal, D.Wackeroth,
+  G.Weiglein, S.Willenbrock, W.Wu","Top Quark Physics","111 pages, Latex, to appear in the Report of the ``1999 CERN Workshop
+  on SM physics (and more) at the LHC'', M.Beneke, I.Efthymiopoulos,
+  M.L.Mangano, J.Womersley (conveners)",,,"CERN-TH/2000-100","hep-ph",,"  We review the prospects for studies of the top quark at the LHC.
+","[{""version"":""v1"",""created"":""Sat, 4 Mar 2000 16:42:21 GMT""}]","2007-05-23"
+"hep-ph/0003034","Mitesh Patel","Mitesh Patel, George M. Fuller (UCSD)","What are sterile neutrinos good for?","8 pages REVTeX, 2 epsf figures, in proceedings of the American
+  Physical Society Division of Particles and Fields Conference (DPF'99), UCLA,
+  Jan. 1999, ed. K. Arisaka & Z. Bern",,,,"hep-ph astro-ph",,"  Taken at face value, current experimental data indicate the existence of a
+new particle, the sterile neutrino, which must be a singlet under the Standard
+Model gauge group. Although they are not detectable through traditional means,
+such particles have interesting observable consequences for particle
+astrophysics and cosmology. Here we examine these implications and discuss, in
+particular, sterile neutrino dark matter and the relationship between
+matter-enhanced active-sterile neutrino transformation and the synthesis of
+heavy elements in supernovae.
+","[{""version"":""v1"",""created"":""Sun, 5 Mar 2000 05:28:08 GMT""}]","2007-05-23"
+"hep-ph/0003035","Michael Kraemer","Michael Kr\""amer, Fredrick I. Olness, Davison E. Soper","Treatment of Heavy Quarks in Deeply Inelastic Scattering","14 pages, 5 figures","Phys.Rev.D62:096007,2000","10.1103/PhysRevD.62.096007","Edinburgh 2000/02","hep-ph",,"  We investigate a simplified version of the ACOT prescription for calculating
+deeply inelastic scattering from Q^2 values near the squared mass M_H^2 of a
+heavy quark to Q^2 much larger than M_H^2.
+","[{""version"":""v1"",""created"":""Sun, 5 Mar 2000 13:59:24 GMT""}]","2008-11-26"
+"hep-ph/0003036","Ehab Malkawi","Ehab Malkawi (JUST, Jordan), E.I. Lashin (Cario, Eygpt), Hatem Widyan
+  (JUST, Jordan)","A Light Sterile Neutrino in the TopFlavor Model","Plain Latex file, 12 pages","Phys.Rev. D62 (2000) 033005","10.1103/PhysRevD.62.033005",,"hep-ph",,"  A scenario based on the TopFlavor model is presented to explain the origin of
+a light sterile neutrino as indicated by all combined neutrino oscillation
+experiments. The model is phenomenologically well motivated and compatible with
+all available low-energy data. The derived nuetrino mass matrix can
+qualitatively explain the observed hierarchy in the neutrino mass splittings as
+indicated by the neutrino oscillation data. Numerical results are obtained for
+special cases.
+","[{""version"":""v1"",""created"":""Sun, 5 Mar 2000 14:49:33 GMT""}]","2009-10-31"
+"hep-th/0003032","Jacob Sonnenschein","Jacob Sonnenschein (TAU)","What does the string/gauge correspondence teach us about Wilson loops?","Lectures presented at Santiago de Compostela-99, 47 pages, 13 figs",,,,"hep-th",,"  In these lectures we describe the attempt to extract the expectation values
+of Wilson loops from the string/gauge correspondence. We start with the
+original calculation in $AdS_5$. It is then extended to the non-conformal
+background of $D_p$ in the near horizon limit. We discuss the computation at
+finite temperature. Supergravity models that admit confinement in 3d and 4d are
+described. A theorem that determines the classical values of loops associated
+with a generalized background is derived.In particular we determine sufficient
+conditions for confining behavior. We then apply the theorem to various string
+models including type 0 ones. We describe an attempt to go beyond the classical
+string picture by incorporating quadratic quantum fluctuations. In particular
+we address the BPS configuration of a single quark, the supersymmetric
+determinant of $AdS_5\times S^$ and a setup that corresponds to a confining
+gauge theory. We determine the form of the Wilson loop for actions that include
+non trivial $B_{\mu\nu}$ field. The issue of an exact determination of the
+value of the stringy Wilson loop is discussed. We end with a brief review of
+the baryons from the string/gauge correspondence Lectures presented in the
+``Advanced School on Supersymmetry in the theories of fields, strings and
+branes'' Santiago de Compostela-99.
+","[{""version"":""v1"",""created"":""Sat, 4 Mar 2000 16:11:15 GMT""}]","2007-05-23"
+"hep-th/0003033","Eduardo Eyras","Eduardo Eyras, Sudhakar Panda","The Spacetime Life of a Non-BPS D-particle","36 pages, LaTeX, no figures; amplitude for moving particles and
+  analysis of short and long distance interactions included, some assumptions
+  clarified, references added","Nucl.Phys. B584 (2000) 251-283","10.1016/S0550-3213(00)00376-X","DAMTP-2000-20, IC-2000-13, MRI-PHY/P20000201","hep-th",,"  We investigate the classical geometry generated by a stable non-BPS
+D-particle. We consider the boundary state of a stable non-BPS D-particle in
+the covariant formalism in the type IIB theory orbifolded by (-1)^{F_L} I_4. We
+calculate the scattering amplitude between two D-particles in the non-compact
+and compact orbifold and analyse the short and long distance behaviour. At
+short distances we find no force at order $v^2$ for any radius, and at the
+critical radius we find a BPS-like behaviour up to $v^4$ corrections for long
+and short distances. Projecting the boundary state on the massless states of
+the orbifold closed string spectrum we obtain the large distance behaviour of
+the classical solution describing this non-BPS D-particle in the non-compact
+and compact cases. By using the non-BPS D-particle as a probe of the background
+geometry of another non-BPS D-particle, we recover the no-force condition at
+the critical radius and the $v^2$ behaviour of the probe. Moreover, assuming
+that the no-force persists for the complete geometry we derive part of the
+classical solution for the non-BPS D-particle.
+","[{""version"":""v1"",""created"":""Sat, 4 Mar 2000 17:55:49 GMT""},{""version"":""v2"",""created"":""Mon, 27 Mar 2000 22:40:07 GMT""}]","2009-10-31"
+"math-ph/0003003","Lorenzo A. Sadun","Joseph E. Avron and Lorenzo Sadun","Generic Jumps of Fredholm Indices and the Quantum Hall Effect","LateX, 17 pages, including one embedded postscript figure",,,,"math-ph cond-mat.mes-hall math.MP",,"  We describe the generic behavior of Fredholm indices in the space of Toeplitz
+operators. We relate this behavior to certain conjectures and open problems
+that arise in the context of the Quantum Hall Effect.
+","[{""version"":""v1"",""created"":""Sun, 5 Mar 2000 09:07:53 GMT""}]","2007-05-23"
+"math/0003029","Pierre-Yves Gaillard","Pierre-Yves Gaillard","A Hodge Theorem for Noncompact Manifolds","For the last version of this text and additional comments, go to
+  http://www.iecn.u-nancy.fr/~gaillard/DIVERS/Hodgegaillard/, or type
+  hodgegaillard on Google",,,,"math.DG",,"  If M is a riemannian manifold, then the inclusion of the complex of coclosed
+harmonic forms into the de Rham complex induces a linear isomorphism in
+cohomology. If M has at most countably many connected components, this linear
+isomorphism is a Frechet isomorphism.
+","[{""version"":""v1"",""created"":""Sun, 5 Mar 2000 12:55:44 GMT""},{""version"":""v2"",""created"":""Wed, 1 Mar 2006 15:57:01 GMT""},{""version"":""v3"",""created"":""Fri, 28 Dec 2007 08:21:17 GMT""}]","2011-11-10"
+"nlin/0003011","Dragomir Neshev","A. Dreischuh (1), D. Neshev (1), G. G. Paulus (2) and H. Walther (2,3)
+  ((1) Sofia University, Dept. Quantum Electronics, Sofia, Bulgaria; (2)
+  Max-Planck-Institut fuer Quantenoptik, Garching, Germany; (3)
+  Ludwig-Maximillians-Universitat, Garching, Germany)","Experimental generation of steering odd dark beams of finite length","7 pages, 10 figure; Submited to JOSA B",,"10.1364/JOSAB.17.002011",,"nlin.PS",,"  In this work we report the first realization of odd dark beams of finite
+length under controllable initial conditions. The mixed edge-screw phase
+dislocations are obtained by reproducing binary computer-generated holograms.
+Two effective ways to control the steering of the beams are analyzed
+experimentally and compared with numerical simulations.
+","[{""version"":""v1"",""created"":""Sun, 5 Mar 2000 13:17:30 GMT""}]","2009-10-31"
+"quant-ph/0003016","Andrei Khrennikov","Andrei Khrennikov","Classical and quantum mechanics on information spaces with applications
+  to cognitive, psychological, social and anomalous phenomena",,"Foundations of Physics,29, N. 7, 1065-1098 (1999)",,,"quant-ph",,"  We use the system of p-adic numbers for the description of information
+processes. Basic objects of our models are so called transformers of
+information, basic processes are information processes, the statistics are
+information statistics (thus we present a model of information reality). The
+classical and quantum mechanical formalisms on information p-adic spaces are
+developed. It seems that classical and quantum mechanical models on p-adic
+information spaces can be applied for the investigation of flows of information
+in cognitive and social systems, since a p-adic metric gives quite natural
+description of the ability to form associations.
+","[{""version"":""v1"",""created"":""Sat, 4 Mar 2000 16:32:14 GMT""}]","2007-05-23"
+"quant-ph/0003017","Andrei Khrennikov","Andrei Khrennikov","Non-Kolmogorov probability models and modified Bell's inequality",,,"10.1063/1.533210",,"quant-ph",,"  We analyse the proof of Bell's inequality and demonstrate that this
+inequality is related to one particular model of probability theory, namely
+Kolmogorov measure-theoretical axiomatics, 1933. We found a (numerical)
+statistical correction to Bell's inequality. Such an additional term in the
+right hand side of Bell's inequality can be considered as a probability
+invariant of a quantum state. This is a measure of nonreproducibility of hidden
+variables in different runs of experiments. Experiments to verify Bell's
+inequality can be considered as just experiments to estimate this constant. It
+seems that Bell's inequality could not be used as a crucial reason to deny
+local realism. We consider deterministic as well as stochastic hidden variables
+models.
+","[{""version"":""v1"",""created"":""Sat, 4 Mar 2000 16:46:30 GMT""}]","2009-11-06"
+"quant-ph/0003018","Rob Clifton","Rob Clifton","The Modal Interpretation of Algebraic Quantum Field Theory","18 pages, LaTeX","Phys.Lett. A271 (2000) 167-177","10.1016/S0375-9601(00)00364-9",,"quant-ph",,"  In a recent article, Dieks has proposed a way to implement the modal
+interpretation of (nonrelativistic) quantum theory in relativistic quantum
+field theory. We show that his proposal fails to yield a well-defined
+prescription for which observables in a local spacetime region possess definite
+values. On the other hand, we demonstrate that there is a well-defined and
+unique way of extending the modal interpretation to the local algebras of
+relativistic quantum field theory. This extension, however, faces a potentially
+serious difficulty in connection with ergodic states of a field.
+","[{""version"":""v1"",""created"":""Sat, 4 Mar 2000 22:21:25 GMT""}]","2009-11-06"
+"quant-ph/0003019","Xue-Xi Yi","X.X.Yi, D.L.Zhou, C.P.Sun, W.M.Zheng","Finite temperature excitations of an inhomogneous trapped Bose gas with
+  Feshbach resonances","9 pages, 3 figures","J. Phys. B: At. Mol. Opt. Phys. 33(2000)1193","10.1088/0953-4075/33/6/306",,"quant-ph",,"  We derive and discuss the temperature dependance of the condensate and
+noncondensate density profile of a Bose-Einstein condensate gas with Feshbach
+resonance in a parabolic trap. These quantities are calculated
+self-consistently using the generalized Hartree-Fock-Bogoliubov (HFB) equations
+within the Bogoliubov approximation. At zero temperature, the HFB equation can
+be solved by means of a variation method that give the low excitation spectrum.
+Moreover, within the two-body collision theory, we estimate the relationship
+between the atom number and the external magnetic field $B$, it is in good
+agreement with the data in recent experiments.
+","[{""version"":""v1"",""created"":""Sun, 5 Mar 2000 09:28:16 GMT""}]","2009-11-06"

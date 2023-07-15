@@ -1,0 +1,182 @@
+"astro-ph/0004005","Katherine Blundell","Katherine Blundell (Oxford), Namir Kassim (NRL) & Rick Perley (NRAO)","3C radio sources as they've never been seen before","LaTeX, uses newpasp.sty, talk at IAU 199 `The Universe at Low Radio
+  Frequencies' in Pune, India",,,,"astro-ph",,"  Low-radio-frequency observations played a remarkable role in the early days
+of radio astronomy; however, in the subsequent three or four decades their
+usefulness has largely been in terms of the finding-frequency of surveys.
+Recent technical innovation at the VLA has meant that spatially well-resolved
+imaging at low frequencies is now possible. Such imaging is essential to
+understanding the relationship between the hotspot and lobe emission in
+classical double radio sources, for example. We here present new images of 3C
+radio sources at 74 MHz and 330 MHz and discuss their implications.
+","[{""version"":""v1"",""created"":""Sat, 1 Apr 2000 17:05:47 GMT""}]","2007-05-23"
+"astro-ph/0004006","Igor V. Igumenshchev","Igor V. Igumenshchev, Marek A. Abramowicz, Ramesh Narayan","Numerical Simulations of Convective Accretion Flows in Three Dimensions","12 pages, 5 figures, submitted to ApJ",,"10.1086/312755",,"astro-ph",,"  Advection-dominated accretion flows (ADAFs) are known to be convectively
+unstable for low values of the viscosity parameter alpha. Two-dimensional
+axisymmetric hydrodynamic simulations of such flows reveal a radial density
+profile which is significantly flatter than the rho~r^{-3/2} expected for a
+canonical ADAF. The modified density profile is the result of inward transport
+of angular momentum by axisymmetric convective eddies. We present
+three-dimensional hydrodynamic simulations of convective ADAFs which are free
+of the assumption of axisymmetry. We find that the results are qualitatively
+and quantitatively similar to those obtained with two-dimensional simulations.
+In particular, the convective eddies are nearly axisymmetric and transport
+angular momentum inward.
+","[{""version"":""v1"",""created"":""Sat, 1 Apr 2000 17:59:23 GMT""}]","2009-10-31"
+"cond-mat/0004006","Farine","M. Farine, P. Schuck, X. Vinas","Moment of inertia of a trapped superfluid gas of Fermions","43 pages, 5 figures ; accepted in Phys. Rev. A",,,,"cond-mat.supr-con",,"  The moment of inertia Q of a trapped superfluid gas of atomic Fermions (6Li)
+is calculated as a function of the temperature. At zero temperature the moment
+of inertia takes on the irrotational flow value. Only for T very close to Tc
+rigid rotation is attained. It is proposed that future measurements of the
+rotational energy will unambiguously reveal whether the system is in a
+superfluid state or not.
+","[{""version"":""v1"",""created"":""Sat, 1 Apr 2000 19:34:06 GMT""}]","2007-05-23"
+"cond-mat/0004007","Emiliano Papa","Emiliano Papa, Alexei M. Tsvelik","A Pseudogap in the Single-Particle Density of States of a
+  Tomonaga-Luttinger Liquid","4 pages, including 2 figures",,,,"cond-mat.str-el",,"  We study a single-particle density of states (DOS) in a model of
+Tomonaga-Luttinger liquid with small (large) values of the Luttinger parameter
+$K_\rc < 0.17$, ($K_\rc > 5.82$), in the charge sector. We explain that such
+values of $K_\rc$ may be achieved by electron-phonon interactions without
+generating the spin gap. We suggest that electron-phonon interactions can be
+partially incorporated into the Tomonaga-Luttinger liquid scheme by introducing
+frequency dependent $K_\rc(\omega)$. We demonstrate that when the low-frequency
+asymptotic value $K_\rc(0) < 0.17$ or $K_\rc(0) > 5.82$, the single-particle
+DOS has a pseudogap behavior in frequency where $\rho(\omega)/\omega$ vanishes
+at small frequencies.
+  The DOS exhibits a peak the position of which scales as $[K(0) +
+K^{-1}(0)]\omega_0/2$ where $\omega_0$ is the characteristic phonon frequency.
+","[{""version"":""v1"",""created"":""Sun, 2 Apr 2000 11:49:57 GMT""}]","2016-08-31"
+"cond-mat/0004008","Yshai Avishai","Yshai Avishai, Anatoly Golub and Andrei D. Zaikin","Quantum Dot between two Superconductors","4 two column pages including 1 eps figure",,"10.1209/epl/i2001-00340-1",,"cond-mat.str-el cond-mat.supr-con",,"  Novel effects emerge from an interplay between multiple Andreev reflections
+and Coulomb interaction in quantum dot coupled to superconducting leads and
+subject to a finite potential bias $V$. Combining an intuitive physical picture
+with rigorous path integral formalism we evaluate the current $I$ through the
+dot and find that the interaction shifts the subharmonic pattern of the $I-V$
+curve is shifted toward higher $V$. For sufficiently ^M strong interaction the
+subgap current (at $eV < 2 \Delta$) is virtually suppressed.
+","[{""version"":""v1"",""created"":""Sun, 2 Apr 2000 14:31:37 GMT""},{""version"":""v2"",""created"":""Thu, 6 Jul 2000 16:14:04 GMT""}]","2009-10-31"
+"gr-qc/0004004","Jens C. Niemeyer","Jens C. Niemeyer, Raphael Bousso","The nonlinear evolution of de Sitter space instabilities","10 pages, 8 figures, to appear in PRD","Phys.Rev. D62 (2000) 023503","10.1103/PhysRevD.62.023503",,"gr-qc astro-ph",,"  We investigate the quantum evolution of large black holes that nucleate
+spontaneously in de Sitter space. By numerical computation in the s-wave and
+one-loop approximations, we verify claims that such black holes can initially
+""anti-evaporate"" instead of shrink. We show, however, that this is a transitory
+effect. It is followed by an evaporating phase, which we are able to trace
+until the black holes are small enough to be treated as Schwarzschild. Under
+generic perturbations, the nucleated geometry is shown to decay into a ring of
+de Sitter regions connected by evaporating black holes. This confirms that de
+Sitter space is globally unstable and fragments into disconnected daughter
+universes.
+","[{""version"":""v1"",""created"":""Sat, 1 Apr 2000 21:58:48 GMT""}]","2009-10-31"
+"hep-lat/0004001","M. Muller-Preussker","I.L. Bogolubsky, V.K. Mitrjushkin, M. Muller-Preussker, P. Peter, N.V.
+  Zverev","Lorentz gauge fixing and lattice QED","11 pages, 6 figures. Talk given by M. Muller-Preussker at the NATO
+  Advanced Research Workshop 'Lattice Fermions and Structure of the Vacuum',
+  October 1999, Dubna, Russia",,,"HU-EP-00/07","hep-lat",,"  The Gribov ambiguity problem is studied for compact lattice QED within the
+Lorentz gauge. In the Coulomb phase, Gribov copies are mainly caused by double
+Dirac sheets and zero-momentum modes of the gauge fields. Removing them by
+(non-) periodic gauge transformations allows to reach the absolute extremum of
+the Lorentz gauge functional. For standard Lorentz gauge fixing the Wilson
+fermion correlator turns out to be strongly effected by the zero-momentum
+modes. A reliable fermion mass estimate requires the proper treatment of these
+modes.
+","[{""version"":""v1"",""created"":""Sat, 1 Apr 2000 16:24:17 GMT""}]","2007-05-23"
+"hep-ph/0004005","Asakawa Eri","Eri Asakawa, Isamu Watanabe, Akio Sugamoto","Production of CP-even and CP-odd Higgs bosons at Muon colliders","18 pages, LATEX file with 3 PS figures, some comments and references
+  added",,"10.1007/s100520000454","OCHA-PP-151, AJC-HEP-33","hep-ph",,"  In the $s$-channel Higgs-boson-exchange processes, the interference between
+the amplitudes for CP-even and CP-odd Higgs bosons is sizable, if the
+helicities of initial and final particles are properly fixed and if the mass
+difference between these bosons is not much larger than their decay widths. We
+discuss this interference effect in the process $\mu^+ \mu^-$ $\to t\bar{t}$.
+Examining the effects gives us information on CP-parity for Higgs bosons and on
+the sign of a product of the coupling constants for $H\mu^-\mu^+$, $Ht\bar{t}$,
+$A\mu^-\mu^+$ and $At\bar{t}$ vertices. The feasibility of observing the
+interference effect in future muon colliders is evaluated in the framework of
+the minimal supersymmetric extension of the standard model as an example.
+","[{""version"":""v1"",""created"":""Sat, 1 Apr 2000 22:32:42 GMT""},{""version"":""v2"",""created"":""Mon, 29 May 2000 12:58:05 GMT""}]","2009-10-31"
+"hep-ph/0004006","Jack Smith","J.Smith (SUNY at Stony Brook)","Variable number schemes for heavy quark electroproduction","Latex with two figures",,,"YITP-SB-99-71","hep-ph",,"  We compare variable number schemes for heavy quark electroproduction
+","[{""version"":""v1"",""created"":""Sat, 1 Apr 2000 23:07:52 GMT""}]","2007-05-23"
+"hep-th/0004004","Roberto Casadio","Roberto Casadio and Benjamin Harms","Black Hole Evaporation and Large Extra Dimensions","LaTeX with elsart.sty, 10 pages, 1 EPS figure. Replaced with final
+  version to appear in Phys. Lett. B","Phys.Lett.B487:209-214,2000","10.1016/S0370-2693(00)00840-6",,"hep-th gr-qc",,"  We study the evaporation of black holes in space-times with extra dimensions
+of size L. We first obtain a potential which describes the expected behaviors
+of very large and very small black holes and then show that a (first order)
+phase transition, possibly signaled by an outburst of energy, occurs in the
+system when the horizon shrinks below L from a larger value. This is related to
+both a change in the topology of the horizon and the restoring of the
+translational symmetry along the extra dimensions.
+","[{""version"":""v1"",""created"":""Sun, 2 Apr 2000 14:40:57 GMT""},{""version"":""v2"",""created"":""Mon, 10 Jul 2000 15:25:58 GMT""}]","2008-11-26"
+"math/0004004","Deza","Michel Deza (1) and Viatcheslav Grishukhin (2) ((1) Ecole Normale
+  Superieure, Paris, (2) CEMI, Russian Academy of Sciences, Moscow)","Quadratic forms of rank 1, closed zones and laminae","6 pages, LaTeX",,,,"math.GT math.CO",,"  For a given lattice, we establish an equivalence involving a closed zone of
+the corresponding Voronoi polytope, a lamina hyperplane of the corresponding
+Delaunay partition and a quadratic form of rank 1 being an extreme ray of the
+corresponding L-type domain.
+","[{""version"":""v1"",""created"":""Sat, 1 Apr 2000 16:33:16 GMT""},{""version"":""v2"",""created"":""Fri, 1 Sep 2000 23:43:41 GMT""}]","2007-05-23"
+"math/0004005","Yongge Tian","Yongge Tian","Matrix Theory over the Complex Quaternion Algebra","15 pages, LaTex",,,"formerly math.LA/0004005","math.RA",,"  We present in this paper some fundamental tools for developing matrix
+analysis over the complex quaternion algebra. As applications, we consider
+generalized inverses, eigenvalues and eigenvectors, similarity, determinants of
+complex quaternion matrices, and so on.
+","[{""version"":""v1"",""created"":""Sat, 1 Apr 2000 23:54:04 GMT""}]","2007-05-23"
+"math/0004006","Pierre-Yves Gaillard","Pierre-Yves Gaillard","A naive question about quantum groups","4 pages, TeX",,,,"math.QA","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  The category O of BGG can be thought of as a category of sheaves over the
+flag variety F in the sense that the algebra E of self-extensions of the
+trivial object of O is isomorphic to the cohomology algebra of the flag
+variety. A deformation of O' - giving rise to a ""new"" algebra E' - can be
+thought of as a (possibly noncommutative) deformation F' of F. The mythic
+variety F', being a deformation of F, should have the same homotopy type as F,
+and E' should therefore be isomorphic to E.
+","[{""version"":""v1"",""created"":""Sun, 2 Apr 2000 11:06:00 GMT""},{""version"":""v2"",""created"":""Wed, 22 Jul 2009 09:14:23 GMT""}]","2009-07-22"
+"math/0004007","Eiji Ogasa","Eiji Ogasa","Ribbon-moves of 2-knots: the Farber-Levine pairing and the
+  Atiyah-Patodi-Singer-Casson-Gordon-Ruberman $\widetilde\eta$-invariants of
+  2-knots","13 pages 7 figures",,,,"math.GT math-ph math.MP",,"  Let K and K' be 2-knots. Suppose that K and K' are ribbon-move equivalent.
+Then the Farber-Levine pairing for K is equivalent to that for K' and the
+(Z-)torsion part of the first Alexander module of $K$ is isomorphic to that of
+K' as Z[Z] modules.
+  Let K be a 2-knot which is ribbon-move equivalent to the trivial knot. Then
+the Atiyah-Patodi-Singer-Casson-Gordon-Ruberman Q/Z-valued
+\widetilde\eta-invariants of K for Z_d is zero. (d is a natural number. d>2.).
+","[{""version"":""v1"",""created"":""Sun, 2 Apr 2000 15:26:19 GMT""}]","2007-05-23"
+"nucl-th/0004001","Burkert","Volker D. Burkert (Jefferson Lab)","Generalized Gerasimov-Drell-Hearn Sum Rule for the Proton-Neutron
+  Difference in Chiral Perturbation Theory","5 pages, 2 figures, some textual changes, one figure added","Phys.Rev.D63:097904,2001","10.1103/PhysRevD.63.097904","JLAB-PHY-00-03","nucl-th hep-ph nucl-ex",,"  Applications of the chiral expansion to generalize the Gerasimov-Drell-Hearn
+sum rule for finite $Q^2$ are discussed. The observation of several authors
+that the corrections to the leading order contributions are large and limit the
+applicability to a very small range in $Q^2$, are valid when considering the
+sum rule for protons and neutrons, separately. When using the proton-neutron
+difference, the chiral expansion may be valid to considerably higher momentum
+transfers where hadronic degrees of freedom at large distances may connect up
+with quark and gluon degrees of freedom. This could mark the first time that
+nucleon structure is decribed by fundamental theory from large to small
+distances.
+","[{""version"":""v1"",""created"":""Sat, 1 Apr 2000 22:13:43 GMT""},{""version"":""v2"",""created"":""Wed, 5 Apr 2000 02:23:46 GMT""},{""version"":""v3"",""created"":""Fri, 15 Dec 2000 04:20:37 GMT""}]","2008-11-26"
+"quant-ph/0004002","Marco Frasca","Marco Frasca","Non-relativistic quantum electrodynamics for strong laser-atom
+  interaction","24 pages, RevTeX. Minor changes to correct some equations. These
+  modifications have none impact on the results",,,,"quant-ph hep-ph hep-th physics.atom-ph",,"  A formulation of quantum electrodynamics is given that applies to atoms in a
+strong laser field by perturbation theory in a non-relativistic regime. Dipole
+approximation is assumed. The dual Dyson series, here discussed by referring it
+to the Birkhoff theorem for singularly perturbed linear differential equations,
+can be applied and a perturbation series obtained transforming the Hamiltonian
+by a Pauli-Fierz transformation. But, if just few photons are present
+high-order harmonics cannot be generated. So, it is proven that odd high-order
+harmonics only appear when the laser field is intense and one can substitute
+the creation and annihilation operators by the square root of the mean number
+of photons taken to be huge, the field retaining its coherency property as
+observed experimentally for harmonics. In this case, the Hamiltonian for
+perturbation theory comes to the Kramers-Henneberger form. The theory has a
+dipolar contribution when the free-electron quiver motion amplitude is larger
+than the atomic radius. For a Coulomb potential one has that the outer electron
+is periodically kicked, and so a prove is given that the same should happen to
+Rydberg atoms in intense microwave fields. The distribution representing the
+kicking has a Fourier series with just odd terms. Using a modified
+Rayleigh-Schr\""odinger perturbation theory, it is shown that under the same
+condition of validity of the quiver motion amplitude to atomic radius ratio,
+the atomic wave function is only slightly modified by the laser field due to
+the way the energy levels rearrange themselves. This gives a prove of
+stabilization in the limit of laser frequency going to infinity. Then,
+perturbation theory can be applied when the Keldysh parameter becomes smaller
+with respect to the shifted distance between the energy levels of the atom.
+","[{""version"":""v1"",""created"":""Sat, 1 Apr 2000 22:02:59 GMT""},{""version"":""v2"",""created"":""Wed, 17 Jan 2001 21:32:10 GMT""}]","2007-05-23"
+"quant-ph/0004003","Stefan Scheel","Stefan Scheel, Ludwig Knoll, Tomas Opatrny, and Dirk-Gunnar Welsch","Entanglement transformation at absorbing and amplifying four-port
+  devices","12 pages, revtex, 10 eps figures, minor corrections in Appendix","Phys. Rev. A 62, 043803 (2000)","10.1103/PhysRevA.62.043803",,"quant-ph",,"  Dielectric four-port devices play an important role in optical quantum
+information processing. Since for causality reasons the permittivity is a
+complex function of frequency, dielectrics are typical examples of noisy
+quantum channels, which cannot preserve quantum coherence. To study the effects
+of quantum decoherence, we start from the quantized electromagnetic field in an
+arbitrary Kramers--Kronig dielectric of given complex permittivity and
+construct the transformation relating the output quantum state to the input
+quantum state, without placing restrictions on the frequency. We apply the
+formalism to some typical examples in quantum communication. In particular we
+show that for entangled qubits the Bell-basis states $|\Psi^\pm>$ are more
+robust against decoherence than the states $|\Phi^\pm>$.
+","[{""version"":""v1"",""created"":""Sun, 2 Apr 2000 11:17:35 GMT""},{""version"":""v2"",""created"":""Thu, 8 Jun 2000 14:18:09 GMT""},{""version"":""v3"",""created"":""Mon, 11 Sep 2000 12:35:26 GMT""}]","2016-09-08"
+"quant-ph/0004004","Vitaly B. Svetovoy","V. B. Svetovoy and M. V. Lokhanin","Comment on the temperature dependence of the Casimir force","3 pages, REVTEX",,,,"quant-ph",,"  Linear in temperature correction to the Casimir force is discussed. The
+correction is important for small separations between bodies tested in the
+recent experiments and disappears in the case of perfect conductors.
+","[{""version"":""v1"",""created"":""Sun, 2 Apr 2000 12:27:38 GMT""}]","2007-05-23"

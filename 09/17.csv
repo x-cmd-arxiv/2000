@@ -1,0 +1,163 @@
+"astro-ph/0009262","Glenn E. Ciolek","Glenn E. Ciolek (Rensselaer Polytechnic Inst.), Shantanu Basu (U. of
+  Western Ontario)","On the Timescale for the Formation of Protostellar Cores in Magnetic
+  Interstellar Clouds","11 pages, 2 figures, accepted for publication in the Astrophysical
+  Journal",,"10.1086/318348",,"astro-ph",,"  We revisit the problem of the formation of dense protostellar cores due to
+ambipolar diffusion within magnetically supported molecular clouds, and derive
+an analytical expression for the core formation timescale. The resulting
+expression is similar to the canonical expression = t_{ff}^2/t_{ni} ~ 10 t_{ni}
+(where t_{ff} is the free-fall time and t_{ni} is the neutral-ion collision
+time), except that it is multiplied by a numerical factor C(\mu_{c0}), where
+\mu_{c0} is the initial central mass-to-flux ratio normalized to the critical
+value for gravitational collapse. C(\mu_{c0}) is typically ~ 1 in highly
+subcritical clouds (\mu_{c0} << 1), although certain conditions allow
+C(\mu_{c0}) >> 1. For clouds that are not highly subcritical, C(\mu_{c0}) can
+be much less than unity, with C(\mu_{c0}) --> 0 for \mu_{c0} --> 1,
+significantly reducing the time required to form a supercritical core. This,
+along with recent observations of clouds with mass-to-flux ratios close to the
+critical value, may reconcile the results of ambipolar diffusion models with
+statistical analyses of cores and YSO's which suggest an evolutionary timescale
+\~ 1 Myr for objects of mean density ~ 10^4 cm^{-3}. We compare our analytical
+relation to the results of numerical simulations, and also discuss the effects
+of dust grains on the core formation timescale.
+","[{""version"":""v1"",""created"":""Sat, 16 Sep 2000 21:04:19 GMT""}]","2009-10-31"
+"astro-ph/0009263","Eric Blackman","Sean A. Hartnoll (Cambridge Univ. and Univ. of Rochester), Eric G.
+  Blackman (Univ. of Rochester)","Reprocessed emission line profiles from dense clouds in geometrically
+  thick accretion engines","9 Pages LaTex, + Figs, submitted to MNRAS","Mon.Not.Roy.Astron.Soc. 324 (2001) 257","10.1046/j.1365-8711.2001.04333.x",,"astro-ph",,"  The central engines of active galactic nuclei (AGN) contain cold, dense
+material as well as hot X-ray emitting gas. The standard paradigm for the
+engine geometry is a cold thin disc sandwiched between hot X-ray coronae.
+Strong support for this geometry in Seyferts comes from the study of
+fluorescent iron line profiles, although the evidence is not ubiquitously air
+tight. The thin disc model of line profiles in AGN and in X-ray binaries should
+be bench marked against other plausible possibilities. One proposed alternative
+is an engine consisting of dense clouds embedded in an optically thin,
+geometrically thick X-ray emitting engine. This model is further motivated by
+studies of geometrically thick engines such as advection dominated accretion
+flows (ADAFs). Here we compute the reprocessed iron line profiles from dense
+clouds embedded in geometrically thick, optically thin X-ray emitting discs
+near a Schwarzchild black hole. We consider a range of cloud distributions and
+disc solutions, including ADAFs, pure radial infall, and bipolar outflows. We
+find that such models can reproduce line profiles similar to those from
+geometrically thin, optically thick discs and might help alleviate some of the
+problems encountered from the latter.
+","[{""version"":""v1"",""created"":""Sun, 17 Sep 2000 00:14:31 GMT""},{""version"":""v2"",""created"":""Tue, 19 Sep 2000 14:48:16 GMT""}]","2015-06-24"
+"cond-mat/0009244","Hal Tasaki","Hal Tasaki","Jarzynski Relations for Quantum Systems and Some Applications","11 pages. A remark is added at the end of Section 2.2",,,,"cond-mat.stat-mech",,"  We derive quantum analogues of Jarzynski's relations, and discuss two
+applications, namely, a derivation of the law of entropy increase for general
+compound systems, and a preliminary analysis of heat transfer between two
+quantum systems at different temperatures. We believe that the derivation of
+the law of entropy increase is new and of importance.
+","[{""version"":""v1"",""created"":""Sun, 17 Sep 2000 08:12:39 GMT""},{""version"":""v2"",""created"":""Mon, 25 Sep 2000 06:02:23 GMT""}]","2007-05-23"
+"cond-mat/0009247","Mikhail V. Feigelman","M.V.Feigel'man (Landau Institute)","Comment on the intermediate vortex liquid phase in extreme type-II
+  superconductors",,,,,"cond-mat",,"  It is shown that disentangled vortex liquid can be a true thermodynamic phase
+of type-II superconductors in spite of the absense of supercurrent in the
+direction parallel to the magnetic field.
+","[{""version"":""v1"",""created"":""Sat, 16 Sep 2000 17:51:11 GMT""}]","2007-05-23"
+"cond-mat/0009248","Peter Markos","Peter Markos","Random Matrix Theory with Non-integer Beta-parameter","4 pages, 1 Fig",,,,"cond-mat.dis-nn",,"  We show that the random matrix theory with non-integer ""symmetry parameter""
+beta describes the statistics of transport parameters of strongly disordered
+two dimensional systems.
+","[{""version"":""v1"",""created"":""Sun, 17 Sep 2000 13:06:02 GMT""}]","2007-05-23"
+"cond-mat/0009249","Peter Markos","Peter Markos","Electronic transport in strongly anisotropic disordered systems: model
+  for the random matrix theory with non-integer beta","8 pages, 7 *.eps figures","Phys. Rev. B 65 (2002) 092202","10.1103/PhysRevB.65.092202",,"cond-mat",,"  We study numerically an electronic transport in strongly anisotropic weakly
+disorderd two-dimensional systems. We find that the conductance distribution is
+gaussian but the conductance fluctuations increase when anisotropy becomes
+stronger. We interpret this result by random matrix theory with non-integer
+symmetry parameter beta, in accordance with recent theoretical work of
+K.A.Muttalib and J.R.Klauder [Phys.Rev.Lett. 82 (1999) 4272]. Analysis of the
+statistics of transport paramateres supports this hypothesis.
+","[{""version"":""v1"",""created"":""Sun, 17 Sep 2000 13:19:38 GMT""},{""version"":""v2"",""created"":""Thu, 31 May 2001 14:09:47 GMT""},{""version"":""v3"",""created"":""Fri, 18 Jan 2002 11:27:53 GMT""}]","2009-10-31"
+"cond-mat/0009250","Peter Markos","Peter Markos","Dimension dependence of the conductance distribution in the non-metallic
+  regimes","to appear in Phys. Rev. B","Phys. Rev. B 65 2002 104207",,,"cond-mat",,"  We study numerically the form of the conductance distribution in the
+non-metallic regime for (1) weakly disordered systems which become insulating
+due to increase of the system length and (2) cubic d-dimensional systems, in
+which localization occours due to the increase of the disorder strength. In the
+three dimensional systems, we prove that the one-channel approximation of the
+conductance in the insulating regime is not sufficient. Obtained statistics of
+the conductance indicates that the one-parameter scaling holds also in the
+strongly insulating regime.
+","[{""version"":""v1"",""created"":""Sun, 17 Sep 2000 13:24:44 GMT""},{""version"":""v2"",""created"":""Thu, 31 May 2001 13:57:49 GMT""},{""version"":""v3"",""created"":""Sun, 28 Oct 2001 00:22:04 GMT""},{""version"":""v4"",""created"":""Fri, 18 Jan 2002 11:36:47 GMT""}]","2007-05-23"
+"gr-qc/0009059","Sean C. Ahern","Sean C. Ahern, John W. Norbury and William J. Poyser","Graviton Production in Relativistic Heavy-Ion Collisions","10 pages, 3 figures, accepted for publication in Physical Review D","Phys.Rev.D62:116001,2000","10.1103/PhysRevD.62.116001",,"gr-qc hep-ph",,"  We study the feasibility of producing the graviton of the novel Kaluza-Klein
+theory in which there are d large compact dimensions in addition to the 4
+dimensions of Minkowski spacetime. We calculate the cross section for producing
+such a graviton in nucleus-nucleus collisions via t-channel photon-photon
+fusion using the semiclassical Weizsacker-Williams method and show that it can
+exceed the cross section for graviton production in electron-positron
+scattering by several orders of magnitude.
+","[{""version"":""v1"",""created"":""Sun, 17 Sep 2000 03:07:26 GMT""}]","2008-11-26"
+"hep-ph/0009198","Javier Magnin","J. Magnin and L.M. Mendoza-Navas","/\_c+ - /\_c- production asymmetries in two component models","talk presented at the III Latin American Symposium on High Energy
+  Physics. 11 pages, four figures included. Standard LaTeX article. To appear
+  in proceedings",,,,"hep-ph",,"  Experiments on charm hadroproduction have shown a substantial difference in
+the production of charm and anticharm hadrons. In this work we study /\_c+ and
+/\_c- inclusive production in p-N interactions in the framework of two
+component models. We show that the recombination two component model gives a
+qualitatively and quantitatively good description of /\_c production while the
+intrinsic charm model seems to be ruled out by recent experimental data from
+the SELEX Collaboration.
+","[{""version"":""v1"",""created"":""Sat, 16 Sep 2000 20:32:38 GMT""}]","2007-05-23"
+"hep-ph/0009199","Alexander Andrianov","A. A. Andrianov, V. A. Andrianov, D. Espriu and R. Tarrach","Effective Quark Models in QCD at low and intermediate energies","Talk at QUARKS-2000 (Russia) and Brittany Workshop on HEP- 2000
+  (France), 10 pages, LateX",,,,"hep-ph",,"  The effective quark models are employed to describe the hadronization of QCD
+in the quark sector. They reveal a different structure depending on how the
+spontaneous chiral symmetry breaking (CSB) is implemented. When the generation
+of light pseudoscalar mesons is manifestly incorporated one deals with an
+extension of the chiral quark model (CQM) with the non-linear realization of
+chiral symmetry. If a model is built at the CSB scale by means of perturbation
+theory it generalizes the Nambu-Jona-Lasinio (NJL) one with chiral symmetry
+broken due to attractive 4-fermion forces in the scalar channel. The matching
+to high-energy QCD is realized at CSB scale by means of Chiral Sum Rules. Two
+types of models are compared in their fitting of meson physics. In particular,
+if the lowest scalar meson is sufficiently heavy approaching the mass of heavy
+\pi'(1300) then QCD favours an effective theory which is dominated by the
+simplest CQM. On the contrary, the light scalar quarkonium with a mass of order
+500MeV, supports the NJL mechanism.
+","[{""version"":""v1"",""created"":""Sat, 16 Sep 2000 20:42:29 GMT""}]","2007-05-23"
+"hep-ph/0009200","Shinya Kanemura","Kaoru Hagiwara (KEK), Shinya Kanemura (Karlsruhe Univ), Yoshiaki Umeda
+  (Hamburg Univ)","One-loop contributions of the super-partner particles to $e^-e^+ \to
+  W^-W^+$ in the MSSM","Proceedings of ICHEP2000 (July-August 2000, Osaka Japan), Talk given
+  by Shinya Kanemura, 3 pages including 5 figures",,,"KA-TP-19-2000","hep-ph",,"  One-loop contributions of super-partner particles to $W$-pair production at
+$e^+e^-$ collision are discussed in the MSSM. To obtain trustworthy results we
+test our calculation using three methods: (1) sum rules among form factors
+which result from the BRS invariance, (2) the decoupling theorem, (3) the
+high-energy stability. We examine the corrections taking into account
+constraints from the direct search experiments and the precision data. The
+results for the sfermion contributions are presented.
+","[{""version"":""v1"",""created"":""Sun, 17 Sep 2000 05:43:15 GMT""}]","2007-05-23"
+"hep-ph/0009201","Maria Krawczyk","Maria Krawczyk (Institute of Theoretical Physics, University of
+  Warsaw, Poland), Jan Zochowski (Bialystok University, Poland) and Peter
+  Mattig (Weizmann Institute, Rehovot, Israel)","The light Higgs window in the 2HDM at GigaZ","Latex file, 11 pages, 6 ps figures","Eur.Phys.J.C19:463-469,2001","10.1007/s100520100585","IFT-2000-22","hep-ph",,"  The sensitivity to a light Higgs boson in the general 2HDM (II), with a mass
+below 40 GeV, is estimated for an future e+e- linear collider operating with
+very high luminosity at the Z peak (GigaZ). We consider a possible Higgs boson
+production via the Bjorken process, the (hA) pair production, the Yukawa
+process Z -> b {\bar b} h(A), -> tau {\bar tau} h(A), and the decay Z
+->h(A)+gamma. Although the discovery potential is considerably extended
+compared to the current sensitivities, mainly from LEP, the existence of a h or
+A even with a mass of a few GeV cannot be excluded with two billion Z decays.
+The need to study the very light Higgs scenario at a linear e+e- collider
+running at several hundred GeV and the LHC is emphasised.
+","[{""version"":""v1"",""created"":""Sun, 17 Sep 2000 15:04:29 GMT""}]","2009-01-07"
+"hep-th/0009130","Prasanta K. Tripathy","Prasanta K. Tripathy and Avinash Khare","Self-Duality of a Topologically Massive Born-Infeld Theory","10 Pages, Accepted in Phys. Lett. B, New results and references added","Phys.Lett. B504 (2001) 152-156","10.1016/S0370-2693(01)00260-X","IP-BBSR/2000-30","hep-th",,"  We consider self-duality in a 2+1 dimensional gauge theory containing both
+the Born-Infeld and the Chern-Simons terms. We introduce a Born-Infeld inspired
+generalization of the Proca term and show that the corresponding self dual
+equation is identical to that of the Born-Infeld-Chern-Simons theory.
+","[{""version"":""v1"",""created"":""Sat, 16 Sep 2000 17:25:37 GMT""},{""version"":""v2"",""created"":""Wed, 6 Dec 2000 16:04:04 GMT""}]","2009-10-31"
+"nucl-ex/0009012","L. Pienkowski","L.Pienkowski, K.Kwiatkowski, T.Lefort, W.-c.Hsi, L.Beaulieu,
+  A.Botvina, B.Back, H.Breuer, S.Gushue, R.G.Korteling, R.Laforest, E.Martin,
+  E.Ramakrishnan, L.P.Remsberg, D.Rowland, A.Ruangma, V.E.Viola, E.Winchester,
+  S.J.Yennello","Breakup time scale studied in the 8 GeV/c pi- + 197Au reaction","12 pages including 3 postscript figures",,,,"nucl-ex",,"  Experimental data from the reaction of an 8.0 GeV/c pi- beam incident on a
+197Au target have been analyzed in order to investigate the integrated breakup
+time scale for hot residues. Alpha-particle energy spectra and particle angular
+distributions supported by a momentum tensor analysis suggest that at large
+excitation energy, above 3-5 MeV/nucleon, light-charged particles are emitted
+prior to or at the same time as the emission of the heavy fragments. Comparison
+with the SMM and GEMINI models is presented. A binary fission-like mechanism
+fits the experimental data at low excitation energies, but seems unable to
+reproduce the data at excitation energies above 3-5 MeV/nucleon.
+","[{""version"":""v1"",""created"":""Sat, 16 Sep 2000 21:05:59 GMT""}]","2007-05-23"
+"physics/0009060","Nikolai S. Mosyagin","N. Mosyagin (Petersburg Nuclear Physics Institute), E. Eliav and U.
+  Kaldor (Tel Aviv University)","Convergence improvement for coupled cluster calculations","7 pages, IOPP style",,"10.1088/0953-4075/34/3/311",,"physics.chem-ph",,"  Convergence problems in coupled-cluster iterations are discussed, and a new
+iteration scheme is proposed. Whereas the Jacobi method inverts only the
+diagonal part of the large matrix of equation coefficients, we invert a matrix
+which also includes a relatively small number of off-diagonal coefficients,
+selected according to the excitation amplitudes undergoing the largest change
+in the coupled cluster iteration. A test case shows that the new IPM (inversion
+of partial matrix) method gives much better convergence than the
+straightforward Jacobi-type scheme or such well-known convergence aids as the
+reduced linear equations or direct inversion in iterative subspace methods.
+","[{""version"":""v1"",""created"":""Sun, 17 Sep 2000 06:41:24 GMT""}]","2009-11-06"

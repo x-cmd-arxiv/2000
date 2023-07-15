@@ -1,0 +1,196 @@
+"astro-ph/0001003","Matthias Steinmetz","Julio F. Navarro (University of Victoria) and Matthias Steinmetz
+  (University of Arizona)","Dark Halo and Disk Galaxy Scaling Laws in Hierarchical Universes","submitted to The Astrophysical Journal","Astrophys.J.538:477-488,2000","10.1086/309175",,"astro-ph",,"  We use cosmological N-body/gasdynamical simulations that include star
+formation and feedback to examine the proposal that scaling laws between the
+total luminosity, rotation speed, and angular momentum of disk galaxies reflect
+analogous correlations between the structural parameters of their surrounding
+dark matter halos. The numerical experiments follow the formation of
+galaxy-sized halos in two Cold Dark Matter dominated universes: the standard
+Omega=1 CDM scenario and the currently popular LCDM model. We find that the
+slope and scatter of the I-band Tully-Fisher relation are well reproduced in
+the simulations, although not, as proposed in recent work, as a result of the
+cosmological equivalence between halo mass and circular velocity: large
+systematic variations in the fraction of baryons that collapse to form galaxies
+and in the ratio between halo and disk circular velocities are observed in our
+numerical experiments. The Tully-Fisher slope and scatter are recovered in this
+model as a direct result of the dynamical response of the halo to the assembly
+of the luminous component of the galaxy. We conclude that models that neglect
+the self-gravity of the disk and its influence on the detailed structure of the
+halo cannot be used to derive meaningful estimates of the scatter or slope of
+the Tully-Fisher relation. Our models fail, however, to match the zero-point of
+the Tully-Fisher relation, as well as that of the relation linking disk
+rotation speed and angular momentum. These failures can be traced,
+respectively, to the excessive central concentration of dark halos formed in
+the Cold Dark Matter cosmogonies we explore and to the formation of galaxy
+disks as the final outcome of a sequence of merger events. (abridged)
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2000 01:09:29 GMT""},{""version"":""v2"",""created"":""Tue, 4 Jan 2000 21:59:55 GMT""}]","2012-06-01"
+"astro-ph/0001004","Ruth Dgani","Ruth Dgani","Theory of the Interaction of Planetary Nebulae with the Interstellar
+  Medium","To appear in ``Asymmetrical Planetary Nebulae II: from Origins to
+  Microstructures, '' ASP Conference Series, Vol. 199, 2000; J.H. Kastner, N.
+  Soker & S.A. Rappaport, eds",,,,"astro-ph",,"  The theory of the interaction of planetary nebulae with the interstellar
+medium is important for the interpretation of nebular morphologies that deviate
+from point symmetry. It can be used to probe the interstellar medium and its
+magnetic field. We emphasize in this review the role of hydrodynamical
+instabilities in the interaction.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2000 01:22:49 GMT""}]","2007-05-23"
+"astro-ph/0001005","Sergei B. Popov","S.B. Popov and M.E. Prokhorov (Sternberg Astronomical Institute)","Restrictions on parameters of power-law magnetic field decay for
+  accreting isolated neutron stars","8 pages including 3 PostScript figures",,"10.1080/10556790108221135",,"astro-ph",,"  In this short note we discuss the influence of power-law magnetic field decay
+on the evolution of old accreting isolated neutron stars. We show, that,
+contrary to exponential field decay (Popov & Prokhorov 2000), no additional
+restrictions can be made for the parameters of power-law decay from the
+statistics of isolated neutron star candidates in ROSAT observations.
+  We also briefly discuss the fate of old magnetars with and without field
+decay, and describe parameters of old accreting magnetars.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2000 10:34:46 GMT""}]","2009-10-31"
+"cond-mat/0001005","Ranjini. B.","A. K. Sood, Ranjini Bandyopadhyay and Geetha Basappa","Linear and nonlinear rheology of wormlike micelles","15 pages, 10 eps figures","Pramana, vol. 53, no. 1, 223-235, (1999)","10.1007/s12043-999-0151-3",,"cond-mat.soft",,"  Several surfactant molecules self-assemble in solution to form long,
+cylindrical, flexible wormlike micelles. These micelles can be entangled with
+each other leading to viscoelastic phases. The rheological properties of such
+phases are very interesting and have been the subject of a large number of
+experimental and theoretical studies in recent years. We shall report on our
+recent work on the macrorheology, microrheology and nonlinear flow behaviour of
+dilute aqueous solutions of a surfactant CTAT (Cetyltrimethylammonium
+Tosilate). This system forms elongated micelles and exhibits strong
+viscoelasticity at low concentrations ($\sim$ 0.9 wt%) without the addition of
+electrolytes. Microrheology measurements of $G(\omega)$ have been done using
+diffusing wave spectroscopy which will be compared with the conventional
+frequency sweep measurements done using a cone and plate rheometer. The second
+part of the paper deals with the nonlinear rheology where the measured shear
+stress $\sigma$ is a nonmonotonic function of the shear rate $\dot{\gamma}$. In
+stress-controlled experiments, the shear stress shows a plateau for
+$\dot{\gamma}$ larger than some critical strain rate, similar to the earlier
+reports on CPyCl/NaSal system. Cates et al have proposed that the plateau is a
+signature of mechanical instability in the form of shear bands. We have carried
+out extensive experiments under controlled strain rate conditions, to study the
+time-dependence of shear stress. The measured time series of shear stress has
+been analysed in terms of correlation integrals and Lyapunov exponents to show
+unambiguously that the behaviour is typical of low dimensional dynamical
+systems.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2000 13:14:04 GMT""}]","2015-06-24"
+"hep-ex/0001003","Don Summers","S. Amato (1), J. R. T. de Mello (1), J. de Miranda (1), C. James (2),
+  D. J. Summers (3), S. B. Bracker (4) ((1) Centro Brasileiro de Pesquisas
+  Fisicas, (2) University of Mississippi-Oxford, (3) Fermilab, (4) Canada)","The E791 Parallel Architecture Data Acquisition System","18 pages and 4 figures","Nucl.Instrum.Meth.A324:535-542,1993","10.1016/0168-9002(93)91057-T","CBPF-NF-013-92 UMS/HEP/92-019 FERMILAB-Pub-92-137-E","hep-ex physics.comp-ph",,"  To collect data for the study of charm particle decays, we built a high speed
+data acquisition system for use with the E791 magnetic spectrometer at
+Fermilab. The DA system read out 24000 channels in 50 uS. Events were accepted
+at the rate of 9000 per second. Eight large FIFOs were used to buffer event
+segments, which were then compressed and formatted by 54 processors housed in 6
+VME crates. Data was written continuously to 42 Exabyte tape drives at the rate
+of 9.6 Mb/s. During the 1991 fixed target run at Fermilab, 20 billion physics
+events were recorded on 24000 8 mm tapes; this 50 Tb (Terabyte) data set is now
+being analyzed.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2000 00:03:32 GMT""}]","2008-11-26"
+"hep-ph/0001003",,"I.I. Bigi","The Lifetimes of Heavy Flavour Hadrons - a Case Study in Quark-Hadron
+  Duality","12 pages, LATEX, no figures, 2 tables; slightly extended version of
+  Invited Talk given at the 3rd International Conference on B Physics and CP
+  Violation, Taipeh, Taiwan, Dec. 3 - 7, 1999",,"10.1142/9789812791870_0027","UND-HEP-99-BIG 07","hep-ph",,"  The status of heavy quark expansions for charm and beauty lifetime ratios is
+reviewed. Taking note of the surprising semiquantitative success of this
+description for charm hadrons I interprete the new data on $\tau (D_s)$ and
+re-iterate the call for more precise measurements of $\tau (\Xi_c^{0,+})$ and
+$\tau (\Omega_c)$. A slightly larger $B^-$ than $B_d$ lifetime is starting to
+emerge as predicted; the largest lifetime difference in the beauty sector,
+namely in $\tau (B_c)$ vs. $\tau (B)$ has correctly been predicted; the problem
+posed by the short $\Lambda_b$ lifetime remains. The need for more accurate
+data also on $\tau (B_s)$ and $\tau (\Xi_b^{-,0})$ is emphasized. I discuss
+quark-hadron duality as the central theoretical issue at stake here.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 2000 21:42:56 GMT""}]","2016-11-23"
+"hep-ph/0001004","Xue-Qian Li","Jie Chen, Xue-Qian Li, Bing-Song Zou","Bose Symmetry Interference Effects of $4\pi$ Final States",,"Phys.Rev. D62 (2000) 034011","10.1103/PhysRevD.62.034011",,"hep-ph",,"  We carefully analyze the relative branching ratios of $4\pi$ final states
+$\pi^+\pi^-\pi^+\pi^-$, $\pi^+\pi^-\pi^0\pi^0$ and $\pi^0\pi^0\pi^0\pi^0$, from
+various resonances of $J^{PC}=0^{++}$, $0^{-+}$, $2^{++}$. We find that the
+Bose symmetry interference effects would make their ratios to obviously differ
+from the naive counting values without considering these effects. The results
+should be applied to estimate correctly various $4\pi$ decay branching ratios
+of relevant resonances.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2000 13:13:23 GMT""}]","2009-10-31"
+"hep-th/0001004","Adam D. Helfer","Adam D. Helfer","Moving Mirrors and Thermodynamic Paradoxes","7 pages, Revtex with Latex2e","Phys.Rev. D63 (2001) 025016","10.1103/PhysRevD.63.025016",,"hep-th gr-qc",,"  Quantum fields responding to ""moving mirrors"" have been predicted to give
+rise to thermodynamic paradoxes. I show that the assumption in such work that
+the mirror can be treated as an external field is invalid: the exotic
+energy-transfer effects necessary to the paradoxes are well below the scales at
+which the model is credible. For a first-quantized point-particle mirror, it
+appears that exotic energy-transfers are lost in the quantum uncertainty in the
+mirror's state. An accurate accounting of these energies will require a model
+which recognizes the mirror's finite reflectivity, and almost certainly a model
+which allows for the excitation of internal mirror modes, that is, a
+second-quantized model.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 2000 19:57:21 GMT""}]","2009-10-31"
+"math/0001001","S. K. Martin","Shaun Martin","Transversality theory, cobordisms, and invariants of symplectic
+  quotients","59 pages, 6 figures, latex2e. Submitted to Annals of Mathematics Feb
+  99, accepted for publication Dec 99",,,,"math.SG",,"  This paper gives methods for understanding invariants of symplectic
+quotients. The symplectic quotients considered here are compact symplectic
+manifolds (or more generally orbifolds), which arise as the symplectic
+quotients of a symplectic manifold by a compact torus. (A companion paper
+examines symplectic quotients by a nonabelian group, showing how to reduce to
+the maximal torus.)
+  Let X be a symplectic manifold, with a Hamiltonian action of a compact torus
+T. The main topological result of this paper describes an explicit cobordism
+that exists between a symplectic quotient of X by T, and a collection of
+iterated projective bundles over components of the set of T-fixed-points.
+  The characteristic classes of these bundles can be determined explicitly, and
+another result uses this to give formulae for integrals of cohomology classes
+over the symplectic quotient, in terms of data localized at the T-fixed points
+of X.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 2000 17:34:31 GMT""}]","2007-05-23"
+"math/0001002","S. K. Martin","Shaun Martin","Symplectic quotients by a nonabelian group and by its maximal torus","18 pages, latex2e. Submitted to Annals of Mathematics Mar 99,
+  accepted for publication Dec 99",,,,"math.SG",,"  This paper examines the relationship between the symplectic quotient X//G of
+a Hamiltonian G-manifold X, and the associated symplectic quotient X//T, where
+T is a maximal torus, in the case in which X//G is a compact manifold or
+orbifold.
+  The three main results are: a formula expressing the rational cohomology ring
+of X//G in terms of the rational cohomology ring of X//T; an `integration'
+formula, which expresses cohomology pairings on X//G in terms of cohomology
+pairings on X//T; and an index formula, which expresses the indices of elliptic
+operators on X//G in terms of indices on X//T.
+  (The results of this paper are complemented by the results in a companion
+paper, in which different techniques are used to derive formulae for cohomology
+pairings on symplectic quotients X//T, where T is a torus, in terms of the
+T-fixed points of X. That paper also gives some applications of the formulae
+proved here.)
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 2000 17:48:00 GMT""}]","2007-05-23"
+"nucl-ex/0001001","Oelert","P. Moskal, H.-H. Adam, J.T. Balewski, V. Baru, A. Budzanowski, D.
+  Grzonka, J. Haidenbauer, L. Jarczyk, A. Khoukaz, K. Kilian, M. Koehler, P.
+  Kowina, A. Kudryavtsev, N. Lang, T. Lister, W. Oelert, C. Quentmeier, R.
+  Santo, G. Schepers, T. Sefzick, S. Sewerin, M. Siemaszko, J. Smyrski, A.
+  Strzalkowski, M. Wolke, P. Wuestner, W. Zipper","Energy Dependence of the Near-Threshold Total Cross-Section for the pp
+  --> pp eta' Reaction","12 pages, 1 table, 4 figures","Phys.Lett.B474:416-422,2000","10.1016/S0370-2693(00)00039-3",,"nucl-ex",,"  Total cross sections for the pp --> pp eta' reaction have been measured in
+the excess energy range from Q = 1.53 MeV to Q = 23.64 MeV. The experiment has
+been performed at the internal installation COSY-11 using a stochastically
+cooled proton beam of the COoler SYnchrotron COSY and a hydrogen cluster
+target. The determined energy dependence of the total cross section weakens the
+hypothesis of the S-wave repulsive interaction between the eta' meson and the
+proton. New data agree well with predictions based on the phase-space
+distribution modified by the proton-proton final-state-interaction (FSI) only.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 2000 16:29:01 GMT""}]","2008-11-26"
+"nucl-th/0001001","Bijoy Kumar Kundu","B.K.Jain, Swapan Das (Nuclear Physics Division, BARC, Mumbai, India)
+  and Bijoy Kundu (Institute of Physics, Bhubaneswar, India)","Exploring vector meson masses in nuclear collisions","14 pages, latex, 8 figures; Talk delivered by Dr B.K.Jain at National
+  Seminar on Nuclear Physics, July 26-29, 1999, Institute of Physics,
+  Bhubaneswar, India",,,,"nucl-th",,"  The formalism developed earlier by us for the propagation of a resonance in
+the nuclear medium in proton-nucleus collisions has been modified to the case
+of vector boson production in heavy-ion collisions. The first part of the talk
+describes this formalism. The formalism includes coherently the contribution to
+the observed di-lepton production from the decay of a vector boson inside as
+well as outside the nuclear medium. The calculated invariant rho mass
+distributions are presented for the $\rho $-meson production using optical
+potentials estimated within the VDM and the resonance model.
+  In the second part of the talk we write a formalism for coherent rho
+production in proton nucleus collisions and explore the sensitivity of the
+(p,p$^\prime \rho ^0$) reaction cross section to medium mass modification of
+the rho meson.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2000 13:52:17 GMT""}]","2007-05-23"
+"quant-ph/0001002","Xiao-Guang Wang","Xiao-Guang Wang","Coherent states, displaced number states and Laguerre polynomial states
+  for su(1,1) Lie algebra","16 pages, no figures, accepted by Int. J. Mod. Phy. B","Int. J. Mod. Phys. B. 14(10)(2000)1093-1104.","10.1142/S0217979200001084",,"quant-ph",,"  The ladder operator formalism of a general quantum state for su(1,1) Lie
+algebra is obtained. The state bears the generally deformed oscillator
+algebraic structure. It is found that the Perelomov's coherent state is a
+su(1,1) nonlinear coherent state. The expansion and the exponential form of the
+nonlinear coherent state are given. We obtain the matrix elements of the
+su(1,1) displacement operator in terms of the hypergeometric functions and the
+expansions of the displaced number states and Laguerre polynomial states are
+followed. Finally some interesting su(1,1) optical systems are discussed.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2000 00:53:31 GMT""},{""version"":""v2"",""created"":""Sun, 9 Apr 2000 11:20:14 GMT""}]","2009-11-06"
+"quant-ph/0001003","Xiao-Guang Wang","Xiao-Guang Wang","Photon-added one-photon and two-photon nonlinear coherent states","12 pages, 2 figures","Canadian Journal of Physics, 79(5), 833-840 (2001).","10.1139/cjp-79-5-833",,"quant-ph",,"  From the photon-added one-photon nonlinear coherent states $a^{\dagger
+m}|\alpha,f>$, we introduce a new type of nonlinear coherent states with
+negative values of $m.$ The nonlinear coherent states corresponding to the
+positive and negative values of $m$ are shown to be the result of nonunitarily
+deforming the number states $|m>$ and $|0>$, respectively. As an example, we
+study the sub-Poissonian statistics and squeezing effects of the photon-added
+geometric states with negative values of $m$ in detail. Finally we investigate
+the photon-added two-photon nonlinear coherent states and find that they are
+still the two-photon nonlinear coherent states with certain nonlinear
+functions.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2000 01:00:16 GMT""},{""version"":""v2"",""created"":""Sun, 30 Apr 2000 12:55:33 GMT""}]","2009-11-06"
